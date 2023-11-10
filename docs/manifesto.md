@@ -5,6 +5,7 @@ sidebar_position: 2
 # Manifesto
 
 **Web3privacy Now** is a think-and-do-tank dedicated to foster research, tools & education within privacy x Web3 industry.
+
 We aggregate knowledge and people, produce research and market reports, train builders & explore potential use-cases, deliver new privacy concepts and tools.
 
 ![Web3Privacy Now Manifesto](./assets/manifesto-banner.png)
