@@ -4,9 +4,9 @@ sidebar_position: 2
 
 # Manifesto
 
-**Web3privacy now** is a is a research project aimed at discovering, highlighting, and analyzing privacy-preservation services and startups within the Web3 space.
+**Web3privacy Now** is a is a research project aimed at discovering, highlighting, and analyzing privacy-preservation services and startups within the Web3 space.
 
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Web3privacy%20now%20manifesto.png?raw=true)
+![Web3Privacy Now Manifesto](./assets/manifesto-banner.png)
 
 # Not every privacy has been empowered equally.
 
