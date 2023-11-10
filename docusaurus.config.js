@@ -69,7 +69,7 @@ const config = {
         //title: 'Documentation',
         logo: {
           alt: 'Web3Privacy Now',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
