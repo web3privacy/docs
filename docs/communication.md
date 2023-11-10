@@ -2,9 +2,15 @@
 
 We use different platforms for communication:
 
+## Forum
+
+Our self-hosted [Discourse](https://www.discourse.org/) community forum where you can post your suggestions and participate in the wider discussion:
+
+* [forum.web3privacy.info](https://forum.web3privacy.info/)
+
 ## Matrix
 
-[Matrix Protocol](https://matrix.org/) is our main communication tool within the community.
+[Matrix Protocol](https://matrix.org/) is our main real-time communication tool within the community.
 
 * Matrix Space: [#web3privacy:gwei.cz](https://matrix.to/#/#web3privacy:gwei.cz)
 
