@@ -2,11 +2,11 @@
 
 As part of our initiative, we organise various events and gatherings.
 
-## Types of events
+## [Event Concepts](./concepts)
 
-* **Hackathon** - a multi-day event including talks, workshops and hacking
-* **Summit** - a day-long gathering
-* **Meetup** - shorter gatherings for a few hours
+* **[Hackathon](./concepts#hackathon)** - a multi-day event including talks, workshops and hacking
+* **[Summit](./concepts#summit)** - a day-long gathering
+* **[Meetup](./concepts#meetup)** - shorter gatherings for a few hours
 
 ## List of events
 
