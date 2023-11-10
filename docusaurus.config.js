@@ -46,6 +46,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/web3privacy/w3pn-docs/tree/main/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true
         },
         blog: false,
         theme: {
