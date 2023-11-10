@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Events
 
 As part of our initiative, we organise various events and gatherings.
