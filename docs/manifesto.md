@@ -10,7 +10,7 @@ sidebar_position: 2
 
 ![Web3Privacy Now Manifesto](./assets/manifesto-banner.png)
 
-# The Challenge: Equal Empowerment of Privacy
+## The Challenge: Equal Empowerment of Privacy
 
 In a world where connected humans are constantly commodified and surveilled, often unknowingly, there exists a pressing need for change. 
 
@@ -18,7 +18,7 @@ Web3 stack is uniquely positioned to champion data, privacy, and security litera
 
 Empowering individuals with knowledge is key to restoring their agency in our hyperconnected reality.
  
-# Our Approach:
+## Our Approach:
 
 **Advocacy** 
 - **Educate**: Facilitate education via frameworks, 101 master classes, lectures & guides (for both general & tech public)
