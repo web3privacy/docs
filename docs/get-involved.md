@@ -4,7 +4,8 @@ sidebar_position: 7
 
 # Get involved
 
-Our diverse array of research, projects development and tools production is fueled by people who care about digital privacy, and we hope to keep it real like this, with your support and vibrant help of the community.
+Our diverse array of research, projects and tools are fueled by people who care about digital privacy. 
+We aim to maintain this authenticity through your continued support and the vibrant help of the community.
 
 ### ⎆ [Join the Community](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhDAKUlgYdpxpCpTkNVxow4X) 
 _Use our tools & research, share your ideas and perspective, join conversations and help each other to make better questions, attend and enjoy our events!_
