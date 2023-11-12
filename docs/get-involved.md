@@ -12,10 +12,10 @@ Use our tools & research, share your ideas and perspective, join conversations a
 ### Become a Contributor ⎆ [[Matrix](https://matrix.to/#/#web3privacy:gwei.cz)]: 
 Co-edit research and publications, update project's data throught pull requests, give us structured feedbacks, volunteer at events.
 
-### ⎆ Donate [[here](https://docs.web3privacy.info/donate)]: 
+### Donate ⎆ [[here](https://docs.web3privacy.info/donate)]: 
 Help us to stay distributed and independent so to constantly scale our impact on the state of the web3 privacy.
 
-### ⎆ Give Grant [[here](https://github.com/web3privacy/grants/tree/main)]: 
+### Give Grant ⎆ [[here](https://github.com/web3privacy/grants/tree/main)]: 
 We are dedicated to continuous R&D of privacy tools, actively seeking new funds to further market maturity and aim to introduce 1 million people to the world of Web3 privacy.
 
 
