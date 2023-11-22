@@ -8,7 +8,7 @@ We divide events into the following types according to their length and goal:
 
 ## Overview
 
-| Type | [Slots](/events/concept#slots) | Description |
+| Type | [Slots](/events#slots) | Description |
 | --- | --- | --- |
 | [Hackathon](#hackathon) | *variable* | a multi-day event including hacking |
 | [Summit](#summit) | 10 - 16 | a day-long gathering |

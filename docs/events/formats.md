@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Program formats
 
-At each event, the program is made up of [slots](/events/concept#slots) that are filled with different formats.
+At each event, the program is made up of [slots](/events#slots) that are filled with different formats.
 
 ## Formats overview
 
