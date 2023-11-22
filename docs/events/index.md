@@ -96,6 +96,10 @@ The amount to be provided for a particular event depends on the [type of event](
 
 TODO
 
+### Visual identity
+
+TODO
+
 ### Catering
 
 The food and drink provided at a particular event is based on other circumstances, such as the amount of admission or duration of the event. Basically, we try to provide our visitors with as much comfort as possible without spending too much.
