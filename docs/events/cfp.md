@@ -1,5 +1,7 @@
 # Call for Proposals (CfP)
 
-We have a single form for all those interested in speaking at our [Events](/events/):
+Our [events](/events/) are open to all privacy enthusiasts.
 
-* https://tally.so/r/nrOzXl
+If you have a proposal for a talk, workshop or other content then you can submit your proposal using this form:
+
+* https://cfp.web3privacy.info

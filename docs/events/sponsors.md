@@ -1,4 +1,4 @@
-# Event Sponsoring
+# Event sponsoring
 
 For those interested in promoting their own brand and supporting our efforts, we offer the opportunity to sponsor our events.
 
