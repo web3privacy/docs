@@ -8,11 +8,11 @@ We divide events into the following types according to their length and goal:
 
 ## Overview
 
-| Type | [Slots](/events#slots) | Description |
-| --- | --- | --- |
-| [Hackathon](#hackathon) | *variable* | a multi-day event including hacking |
-| [Summit](#summit) | 10 - 16 | a day-long gathering |
-| [Meetup](#meetup) | 3 - 5 | shorter gatherings for a few hours |
+| Type | [Slots](/events#slots) | Budget | Description |
+| --- | --- | --- | --- |
+| [Hackathon](#hackathon) | *variable* | $25-50k | a multi-day event including hacking |
+| [Summit](#summit) | 10 - 16 | $15-30k | a day-long gathering |
+| [Meetup](#meetup) | 3 - 5 | $1-2k | shorter gatherings for a few hours |
 
 ## Details of types
 ### Hackathon

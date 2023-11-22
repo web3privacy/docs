@@ -29,6 +29,12 @@ Within the season, all events are prepared together as one package. This also ap
 
 [List of seasons →](/events/seasons)
 
+### Season Budget
+
+Each season as a whole has a predetermined budget that we want to raise from sponsors and donors. These funds are then used to cover the costs associated with organising these events.
+
+The Season Budget consists of sponsorship donations (see [Event sponsorship](/events/sponsors)) and donations from Web3Privacy Now initiative itself.
+
 ## Regions
 
 The basic division by location is into major regions according to wider regions or continents (e.g. Europe, LATAM, etc.). 
@@ -79,6 +85,16 @@ At each event, the program is made up of [slots](#slots) that are filled with di
 [List of program formats →](./formats)
 
 ## Production
+
+### Budget
+
+Funds to pay for event expenses and services come from the shared [Season Budget](#season-budget) dedicated for the season.
+
+The amount to be provided for a particular event depends on the [type of event](/events/types), its duration and other parameters.
+
+### Legal entity
+
+TODO
 
 ### Catering
 
