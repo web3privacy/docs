@@ -30,7 +30,7 @@ For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB
 - ZK-centric privacy-services [database](https://github.com/web3privacy/web3privacy/tree/main/ZKprivacylandscape)
 - Privacy market [map](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Web3privacy%20landscape%20(jan%202023).jpg)
 - Zcash grant on privacy use-case [research](https://github.com/web3privacy/Grants/blob/main/w3p-01.md) within the Ukrainian-Russian war
-- [Summit]"Ecosystem Launch"(https://prague.web3privacy.info/), Prague, 5 May 2023,
+- [Summit](https://prague.web3privacy.info/)"Ecosystem Launch", Prague, 5 May 2023,
 - Summit #2 "Community 1st - Rome Takeover", Rome, 5 Oct 2023
 
 ### Under Development
