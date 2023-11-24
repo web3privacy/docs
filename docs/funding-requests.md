@@ -5,17 +5,17 @@
 # ⌭ Introduction
 In our dedication to enhancing privacy and security in the Web3 ecosystem, we showcase our projects and ideas seeking financial support to foster R&D on specific verticals:
 
-⚛︎ [Web3privacy Now Platform](https://github.com/web3privacy/grants/blob/main/README.md#%EF%B8%8E-web3privacy-now-platform) 
+⚛︎ [Web3privacy Now Platform](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#%EF%B8%8E-web3privacy-now-platform) 
 
-✵ [PrivacyBeats](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)
+✵ [PrivacyBeats](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#-privacy-beats)
 
-⌬ [Privacy Annual Report 2023](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-annual-report-2023)
+⌬ [Privacy Annual Report 2023](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#-privacy-annual-report-2023)
 
-⍚ [Privacy Checker Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool)
+⍚ [Privacy Checker Tool](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#-privacy-checker-tool)
   
-⎆ [Privacy Guides](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-guides)
+⎆ [Privacy Guides](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#-privacy-guides)
 
-⎆ [Hackathon Curation Pack](https://github.com/web3privacy/grants/blob/main/README.md#-hackathon-curation-pack)
+⎆ [Hackathon Curation Pack](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#-hackathon-curation-pack)
 
 > _We are looking for partners, not advertisers._
 
@@ -152,6 +152,25 @@ advanced functionalities, scoring model applicability to +500 privacy-preserving
 - Research track: [Mykola Siusko](https://github.com/Msiusko), [PG](https://github.com/EclecticSamurai)
 - Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree), [Cryptomar1o](https://github.com/cryptomar1o)
 
+# ⌬ Privacy Annual Report 2023
+
+### Project Overview 
+Following our [Privacy Market Overview](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf) (Jan 2023) we intend to produce a comprehensive report to showcase all happenings and achievements of the year. This will consist in structuring the overall picture of the web3-privacy market and exploring hundreds of independent companies - and their connections - with the potential for unity and collaboration. 
+
+### Ecosystem/Market fit - Why is it important now? 
+Navigating the complex and delicate realm of privacy is very challenging. Although the focus has recently been put back on this foundamental issue, there is a lack of comprehensive overview and there is still little collaboration in this regard. With regulators centralizing the market and surveillance on the rise, the need for privacy champions is clear, especially with actions against private crypto and platforms like Tornado Cash highlighting the risks. Rather than vying for the top tech and perk, we should work together to create a web that prioritizes our collective privacy.
+
+### Deliverables:
+-  Draft of 100+ pages 
+-  Final 100+ pages PDF with visuals and metrics
+
+### Budget
+- 5k
+
+### Team
+- [Mykola Siusko](https://github.com/Msiusko)
+- [PG](https://github.com/EclecticSamurai)
+
 
 # ⍚ Privacy Checker Tool
 
@@ -199,25 +218,6 @@ Hacker Manuals & Privacy Guidelines to help the builders to uderstand actual iss
 - Project Manager: Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
 - R&D: [PG](https://github.com/EclecticSamurai)
 - Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree)
-
-# ⌬ Privacy Annual Report 2023
-
-### Project Overview 
-Following our [Privacy Market Overview](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf) (Jan 2023) we intend to produce a comprehensive report to showcase all happenings and achievements of the year. This will consist in structuring the overall picture of the web3-privacy market and exploring hundreds of independent companies - and their connections - with the potential for unity and collaboration. 
-
-### Ecosystem/Market fit - Why is it important now? 
-Navigating the complex and delicate realm of privacy is very challenging. Although the focus has recently been put back on this foundamental issue, there is a lack of comprehensive overview and there is still little collaboration in this regard. With regulators centralizing the market and surveillance on the rise, the need for privacy champions is clear, especially with actions against private crypto and platforms like Tornado Cash highlighting the risks. Rather than vying for the top tech and perk, we should work together to create a web that prioritizes our collective privacy.
-
-### Deliverables:
--  Draft of 100+ pages 
--  Final 100+ pages PDF with visuals and metrics
-
-### Budget
-- 5k
-
-### Team
-- [Mykola Siusko](https://github.com/Msiusko)
-- [PG](https://github.com/EclecticSamurai)
 
 
 ![Group 3692(2)](https://github.com/web3privacy/grants/assets/101947219/b2db8370-c363-4eda-a132-419891c82455)
