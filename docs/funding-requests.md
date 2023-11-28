@@ -106,6 +106,7 @@ Tasks:
 
 ### Project Overview
 A ranking system of all privacy-related projects in the Web3.
+
 [Project details:](https://docs.web3privacy.info/projects/db)
 
 - [Live Demo](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
