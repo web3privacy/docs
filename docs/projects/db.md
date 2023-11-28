@@ -1,4 +1,4 @@
-# Projects Database
+# Privacy Projects Rank
 
 Codename: `PrivacyBeat`
 
