@@ -1,4 +1,4 @@
-# Privacy Projects Rank
+# Privacy Projects Ranking
 
 Codename: `PrivacyBeat`
 
