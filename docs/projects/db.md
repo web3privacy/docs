@@ -26,6 +26,6 @@ It will incorporate both expert analysis and community input, to offer impartial
 We interviewed 100 privacy players & gathered an MVP vision — we are running a series of 1-on-1 feedback loop sessions to make the scoring model community validated.
 
 ### Team
-- Core project manager > Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
+- Core project manager: Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
 - Research track: [Mykola Siusko](https://github.com/Msiusko), [PG](https://github.com/EclecticSamurai)
 - Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree), [Cryptomar1o](https://github.com/cryptomar1o)
