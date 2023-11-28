@@ -23,7 +23,7 @@ For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB
 
 # Our Work
 
-### Delivered - Retroactive Grants
+### Delivered (Retroactive Grants)
 - The biggest privacy-centric [database](https://github.com/web3privacy/web3privacy) with 500+ projects and services delivering web3-privacy
 - [Pagency framework](https://github.com/web3privacy/web3privacy/tree/main/Pagency) for privacy-ideas generation for builders
 - 130-pages long market and diversity [report](https://medium.com/@Svyazniy/privacy-market-outlook-in-web3-report-35a96c35b6ae)
