@@ -2,6 +2,7 @@
 
 Codename: `PrivacyBeat`
 Brief: A ranking system that empowers the general public to discern the privacy levels of various Web3 projects.
+
 Aim: to assist users in making informed decisions about the services they choose to trust.
 [Live demo:](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
 
