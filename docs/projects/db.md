@@ -1,11 +1,10 @@
 # Projects Database
 
 Codename: `PrivacyBeat`
-A ranking system that empowers the general public to discern the privacy levels of various Web3 projects.
+
+A ranking system that empowers the general public to discern the privacy levels of various Web3 projects. [Live demo](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
 
 Aim: to assist users in making informed decisions about the services they choose to trust.
-
-[Live demo](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
 
 In the digital age, privacy is not just a priority but a fundamental human right. Motivated by this belief, we are pioneering the development of an innovative scoring system, incorporating both expert analysis and community input, to offer impartial resources for evaluating projects.
 
