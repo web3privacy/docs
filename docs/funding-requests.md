@@ -42,9 +42,11 @@ For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB
 # ⚛︎ Web3privacy Now Platform
 _"One ring to bring them all"_ → A comprehensive website to showcase our ecosystem to a wide audience, featuring an interactive and comprehensive collection of our activities and projects. 
 
-Its goal is to make the concept of privacy easily accessible, understandable, and actionable for everyone, fostering a deeper connection and engagement with our initiatives.
+- Project details: 
 
-This project is currently supported by Ethereum Foundation.
+The goal is to make the concept of privacy easily accessible, understandable, and actionable for everyone, fostering a deeper connection and engagement with our initiatives.
+
+_This project is currently supported by Ethereum Foundation._
 
 ## Readiness:
 - Website: 80%
@@ -52,16 +54,17 @@ This project is currently supported by Ethereum Foundation.
 - Privacy Beat: 65%
 - Privacy Guides: 20%
 
-## Timings:
+## Project Overall Timings:
 - GitHub publishing: 30 days
 
 ## Deliverables:
 
-### 1. Objective | create a privacy assessment playbook for non-techies.
+## 1. Objective | create a privacy assessment playbook for non-techies.
 
-Timing: 21 days
+### Timing: 
+- 21 days
 
-Tasks:
+### Tasks:
 - Analyse non-techies assessment (raw data behind 56 privacy projects) from the field [interview](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/edit?usp=sharing)
 - A model potential framework by applying different filters (time on assessment, complexity, web3 literacy grades)
 - Create a framework for the assessment & test on non-techies (50 people from managers to designers, web3 & non-web3, different cultures, genders, markets)
@@ -69,11 +72,12 @@ Tasks:
 - Make an easy to understandable & actionable playbook (format: PDF) for non-techies (general overview, assessment framework for non-techies, assessment journey examples - 5 different projects) 
 
 
-### 2. Objective | create a privacy assessment playbook for techies.
+## 2. Objective | create a privacy assessment playbook for techies.
 
-Timing: 30 days
+### Timing: 
+- 30 days
 
-Tasks:
+### Tasks:
 - Receive 50 builders’ feedback (from juniors to CTOs) on a techies professional levelling [assumption](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/edit?usp=sharing)
 - Expand the technical proficiency model & apply it to initial [feedback](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Scoringmodel.md) from privacy professionals
 - Prototype framework for privacy assessment for techies (tested model, well-written research methodology, links to the initial research)
@@ -82,11 +86,12 @@ Tasks:
 - Collect & review feedback publicly via the forum (validate model with the broader community)
 - Update both models (for non-techies & techies) + perform 1on1s via ETH Zurich & ETH Dam 
   
-### 3. Objective | Non-techies & techies models website deployment & community building
+## 3. Objective | Non-techies & techies models website deployment & community building
 
-Timing: 30 days
+### Timing: 
+- 30 days
 
-Tasks:
+### Tasks:
 - Updating both models into explicit guides (wiki-based)
 - Visualisation of the user flows (examples & case studies)
 - Privacy project assessment card prototyping (for forum discussion, communal feedback, update & publishing as a benchmarks)
@@ -97,18 +102,17 @@ Tasks:
 - QA
 - GitHub publishing
 
-### Team
+## Team
 - Project Manager: Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
 - R&D: [PG](https://github.com/EclecticSamurai)
 - Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree)
 
 # ✵ Privacy Beats 
 
-### Project Overview
+## Project Overview
 A ranking system of all privacy-related projects in the Web3.
 
-[Project details:](https://docs.web3privacy.info/projects/db)
-
+- [Project details](https://docs.web3privacy.info/projects/db)
 - [Live Demo](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
 
 In the digital age, privacy is not just a priority but a fundamental human right. 
