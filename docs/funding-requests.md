@@ -126,7 +126,6 @@ Despite the foundational role that privacy is meant to play in shaping Web3, gen
 
 That's why a ranking system of all privacy-related projects in the Web3 will help a lot the users to discern as well as boost the web3 privacy market.
 
-<img width="1129" alt="Screenshot 2023-01-28 at 16 26 46" src="https://github.com/web3privacy/grants/assets/101947219/8c0aeabe-8ab4-4ef4-b1aa-0c8390318418">
 
 ### About the Scoring Mechanism: 
 Professional scoring would be a joint R&D with the key web3 people from protocol architects to security specialists. We are collecting feedbacks from privacy experts from the Ethereum Foundation, Railgun, Waku, NYM... while building on the experience of active members from both solar and lunarpunk communities. 
