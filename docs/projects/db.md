@@ -11,8 +11,8 @@ Despite the foundational role that privacy is meant to play in shaping Web3, gen
 That's why a ranking system of all privacy-related projects in the Web3 could help a lot the users to discern and decide who to trust.
 
 ### References:
-- [l2beat](www.l2beat.com)
-- [certik](www.certik.com)
+- [l2beat](https://l2beat.com/scaling/risk)
+- [certik](https://www.certik.com/)
 - [metacritic](https://www.metacritic.com/about-metascores)
 - [Clutch](https://clutch.co/methodology)
 
