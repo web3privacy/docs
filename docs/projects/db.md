@@ -4,6 +4,8 @@ Codename: `PrivacyBeat`
 
 A ranking system that empowers the general public to discern the privacy levels of various Web3 projects. [Live demo](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
 
+![Group 4100](https://github.com/web3privacy/docs/assets/101947219/b70759dd-cdad-43d1-87ac-479584eba7ec)
+
 Despite the foundational role that privacy is meant to play in shaping Web3, genuinely impactful initiatives remain scarce. Many projects leverage the concept of privacy as a buzzword or for public relations advantage, rather than addressing tangible issues or enacting substantial changes at the infrastructural and transactional level.
 
 That's why a ranking system of all privacy-related projects in the Web3 could help a lot the users to discern and decide who to trust.
