@@ -5,7 +5,9 @@ sidebar_position: 7
 # Get involved
 
 > WELCOME!
+
 > So you want to be part of the Web3Privacy Now Ecosystem?? We are so happy to have you!
+
 > Let’s make sure we are on the same page about what our work is all about.
 
 Despite the foundational role that privacy is meant to play in shaping Web3, genuinely impactful initiatives remain scarce. Many projects leverage the concept of privacy as a buzzword or for public relations advantage, rather than addressing tangible issues or enacting substantial changes at the infrastructural and transactional level.
