@@ -30,6 +30,7 @@ The most important milestones of our initiative.
 * **Research**: _Privacy Beat data survey_: [Typeform](https://gy0n92ttldn.typeform.com/to/clX8HhGi)
 * **Research**: _Scoring model testing repo_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/DeFi%20category%20prototype.md)
 * **Research**: _Privacy features audit concept for security audit organizations & whitehackers_: [GitHub](https://github.com/web3privacy/grants/blob/main/w3p-03.md)
+* **Event**: _Web3Privacy Now: Community 1st_ x Rome: [Lu.Ma](https://lu.ma/web3privacynow_rome)
 
 ### September
 
