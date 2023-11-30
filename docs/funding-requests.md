@@ -242,6 +242,9 @@ Practical guides will match:
 # ⎆ Hackathon Curation Pack:
 Hacker Manuals & Privacy Guidelines to help the builders to uderstand actual issues in the market.
 
+### Delivered
+**Research**: _Pagency framework - tool to facilitate impactful privacy-enhancing ideas for developers_: [GitHub](https://github.com/web3privacy/web3privacy/tree/main/Pagency), [PDF](https://github.com/web3privacy/web3privacy/blob/main/Pagency/Pagency%20-%20privacy%20use-case%20facilitation%20framework.pdf), [Template](https://github.com/web3privacy/web3privacy/blob/main/Pagency/Privacy%20framework%20template.pptx)
+
 ### Team
 - Project Manager: Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
 - R&D: [PG](https://github.com/EclecticSamurai)
