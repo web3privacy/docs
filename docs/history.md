@@ -56,9 +56,14 @@ The most important milestones of our initiative.
 
 * **Article**: _Privacy-Web3 market-fit: search of privacy sustainability_: [Medium](https://medium.com/@Svyazniy/privacy-web3-market-fit-search-of-privacy-sustainability-330c9c98f9df)
 * **Article**: _Web3 privacy layers overview from embedded to total anonymity_: [Medium](https://medium.com/@Svyazniy/web3-privacy-layers-overview-from-embedded-to-total-anonymity-4ddf8e7c3b4d)
+* **Research**: _What if... they won't have my data matrix_: [GitHub](https://github.com/web3privacy/web3privacy/tree/main/theywonthave)
+* **Research**: _Pagency framework - tool to facilitate impactful privacy-enhancing ideas for developers_: [GitHub](https://github.com/web3privacy/web3privacy/tree/main/Pagency), [PDF](https://github.com/web3privacy/web3privacy/blob/main/Pagency/Pagency%20-%20privacy%20use-case%20facilitation%20framework.pdf), [Template](https://github.com/web3privacy/web3privacy/blob/main/Pagency/Privacy%20framework%20template.pptx)
+* **Research**: _Privacy x web3 use-cases_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Use-cases.md)
+* **Research**: _200 projects in our Privacy services in Web3 database_, [GitHub](https://github.com/web3privacy/web3privacy)
 
 ### November
 
+* **Research**: _Privacy services in Web3 database creation_, [GitHub](https://github.com/web3privacy/web3privacy)
 * **November 11-13, 2022** - The emergence of Web3Privacy Now research as a hackathon project at [ETHBrno 2022](https://docs.ethbrno.cz/events/2022).
 * **Talk**: _#FreeAlex Web3 activism handbook, Mykola_: [YouTube](https://www.youtube.com/watch?v=oCvVKltmQgo)
 * **Article**: _Urge for the PEDApps -Privacy Enhanced Decentralised Applications_ [Medium](https://medium.com/@Svyazniy/urge-for-the-pedapps-privacy-enhanced-decentralised-applications-7efa980cdbb)
