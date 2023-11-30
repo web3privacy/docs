@@ -7,7 +7,7 @@ In our dedication to enhancing privacy and security in the Web3 ecosystem, we sh
 
 ⚛︎ [Web3privacy Now Platform](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#%EF%B8%8E-web3privacy-now-platform) 
 
-✵ [PrivacyBeats](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#-privacy-beats)
+✵ [Privacy Beat](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#-privacy-beats)
 
 ⌬ [Privacy Annual Report 2023](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#-privacy-annual-report-2023)
 
@@ -34,7 +34,7 @@ For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB
 - Summit #2 "Community 1st - Rome Takeover", Rome, 5 Oct 2023
 
 ### Under Development
-- [Privacy Beats](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat) - Ranking system of all privacy-related projects in the Web3
+- [Privacy Beat](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat) - Ranking system of all privacy-related projects in the Web3
 - [Privacy Checker Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool)
 - Updating [general database](https://github.com/web3privacy/web3privacy/blob/main/README.md) with the market stats for future research: % of the token projects, % of the anon/public teams, product liveliness, privacy delivery (year-to-year comparison), ecosystem-to-ecosystem comparison
 - Web3Privacy Now Platform
@@ -107,7 +107,7 @@ _This project is currently supported by Ethereum Foundation._
 - R&D: [PG](https://github.com/EclecticSamurai)
 - Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree)
 
-# ✵ Privacy Beats 
+# ✵ Privacy Beat 
 
 ## Project Overview
 A ranking system of all privacy-related projects in the Web3.
