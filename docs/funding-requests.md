@@ -34,7 +34,7 @@ For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB
 - Summit #2 "Community 1st - Rome Takeover", Rome, 5 Oct 2023
 
 ### Under Development
-- [PrivacyBeats](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat) - Ranking system of all privacy-related projects in the Web3
+- [Privacy Beats](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat) - Ranking system of all privacy-related projects in the Web3
 - [Privacy Checker Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool)
 - Updating [general database](https://github.com/web3privacy/web3privacy/blob/main/README.md) with the market stats for future research: % of the token projects, % of the anon/public teams, product liveliness, privacy delivery (year-to-year comparison), ecosystem-to-ecosystem comparison
 - Web3Privacy Now Platform
@@ -44,7 +44,7 @@ _"One ring to bring them all"_ → A comprehensive website to showcase our ecosy
 
 - Project details: 
 
-The goal is to make the concept of privacy easily accessible, understandable, and actionable for everyone, fostering a deeper connection and engagement with our initiatives.
+The goal is to make the concept of privacy easily accessible, understandable, and actionable for everyone, fostering a deeper collaboration and engagement with our initiatives.
 
 _This project is currently supported by Ethereum Foundation._
 
@@ -125,7 +125,15 @@ That is why we are developing this comprehensive platform to empower the general
 
 ![Group 4100](https://github.com/web3privacy/docs/assets/101947219/517e6e1f-af4e-4b0c-b3e4-ce017472c1ee)
 
-Our approach includes the development of an innovative scoring system, incorporating both expert analysis and community input, to offer impartial resources for evaluating projects. 
+Our approach includes the development of an innovative scoring system, incorporating both expert analysis and community input, to offer impartial resources for evaluating projects
+
+### Delivery
+* **Design**: _Privacy beat UI_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md), [V1.0](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v10-eth-rome-prototype),[V1.1](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v11-post-ethrome-update), [V 1.1 mobile](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v11-post-ethrome-update-mobile-version), [V1.2](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v12-post-ethrome-update-basic-scoring-x-brief-sync)
+* **Research**: _Privacy Beat breaf_: [Brief](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Brief.md). Pull requests by [Railgun_](https://github.com/web3privacy/web3privacy/pull/31), [Waku](https://github.com/web3privacy/web3privacy/pull/35), [Lit](https://github.com/web3privacy/web3privacy/pull/34), [Brume](https://github.com/web3privacy/web3privacy/pull/38), [Webb](https://github.com/web3privacy/web3privacy/pull/37)
+* **Research**: _Scoring matching: Brief, Non-techies validity, MVP_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Data%20brief%20%26%20scoring%20model%20comparison.md)
+* **Research**: _Privacy Beat product features_: [GitHub](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform/scoringmodel/Product%20features)
+* **Research**: _Data Manifest for Privacy Beat platform_: [GitHub](https://github.com/web3privacy/data/tree/main#readme)
+* **Research**: _Privacy Beat data survey_: [Typeform](https://gy0n92ttldn.typeform.com/to/clX8HhGi)
 
 ### References:
 - [l2beat](https://l2beat.com/scaling/risk)
@@ -151,6 +159,13 @@ We interviewed 100 privacy players & gathered an MVP vision — we are running a
 ### Deliverables & Timings:
 - [31st Dec 2023] Scoring model v 1.0 + experts validation:
 functionality mapping (incl. UX/UI research), copywriting, basic brand design system, scoring model applicability to +150 privacy-preserving web3 projects
+
+* **Playbook**: _Privacy-services' scoring model for non-techies (playbook)_: [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/90XEXa7AG_qc-VgYKs40i88xB1HF97gr1zqb-qvnif0)
+* **Research**: _Scoring matching: Brief, Non-techies validity, MVP_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Data%20brief%20%26%20scoring%20model%20comparison.md)
+* **Article**: _From scoring model to interfaces: Web3privacy now_: [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/f3EXL1pAuI6gusHf_soq9KopU8ABC1EcV002FFlYKoM)
+* **Article**: _Making web3-privacy assessment research: public feedback_: [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/E9QPx9iKgPXPqEsAN-YklipSRJy9VTBMOLwwEcqqVpU)
+* **Research**: _Scoring model testing repo_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/DeFi%20category%20prototype.md)
+* **Research**: _Framework for the privacy assessment for non-techies_: [PDF](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Web3Privacy%20Now%20scoring%20platform_test%20framework.pdf)
 
 - [3 to 5 months] Scoring model v 2.0 :
 advanced functionalities, scoring model applicability to +500 privacy-preserving web3 projects
