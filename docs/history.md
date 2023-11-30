@@ -1,6 +1,6 @@
 # History
 
-The most important milestones of our initiative.
+Historical track record of W3PN
 
 ## 2023
 
