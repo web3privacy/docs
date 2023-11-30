@@ -64,6 +64,6 @@ The most important milestones of our initiative.
 ### November
 
 * **Research**: _Privacy services in Web3 database creation_, [GitHub](https://github.com/web3privacy/web3privacy)
-* **November 11-13, 2022** - The emergence of Web3Privacy Now research as a hackathon project at [ETHBrno 2022](https://docs.ethbrno.cz/events/2022).
 * **Talk**: _#FreeAlex Web3 activism handbook, Mykola_: [YouTube](https://www.youtube.com/watch?v=oCvVKltmQgo)
 * **Article**: _Urge for the PEDApps -Privacy Enhanced Decentralised Applications_ [Medium](https://medium.com/@Svyazniy/urge-for-the-pedapps-privacy-enhanced-decentralised-applications-7efa980cdbb)
+* **November 11-13, 2022** - The emergence of Web3Privacy Now research as a hackathon project at [ETHBrno 2022](https://docs.ethbrno.cz/events/2022).
