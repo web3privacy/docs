@@ -1,4 +1,4 @@
-# Web3Privacy Now Funding Requests
+# Funding Requests
 ![1500x500](https://github.com/web3privacy/grants/assets/101947219/2b2b6ba7-09ba-4b9b-a5e8-65610e3afc1b)
 
 
