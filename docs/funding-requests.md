@@ -50,7 +50,7 @@ _Discover all historical deliverables in_ [docs](https://docs.web3privacy.info/h
 # ⚛︎ Web3privacy Now Ecosystem
 _"One ring to bring them all"_ → A comprehensive point-of-entry to ecosystem. Helping wide audience find all useful links, explore current projects, collaborate & support us.
 
-- Details 
+**Details **
 
 The goal is to make the concept of privacy easily accessible, understandable, and actionable for everyone, fostering a deeper collaboration and engagement with our initiatives.
 
