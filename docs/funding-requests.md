@@ -5,7 +5,7 @@
 # ⌭ Introduction
 In our dedication to enhancing privacy and security in the Web3 ecosystem, we showcase our projects and ideas seeking financial support to foster R&D on specific verticals:
 
-⚛︎ [Web3privacy Now Platform](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#%EF%B8%8E-web3privacy-now-platform) 
+⚛︎ [Web3privacy Now ecosystem](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#%EF%B8%8E-web3privacy-now-platform) 
 
 ✵ [Privacy Beat](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#-privacy-beats)
 
@@ -39,10 +39,10 @@ For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB
 - Updating [general database](https://github.com/web3privacy/web3privacy/blob/main/README.md) with the market stats for future research: % of the token projects, % of the anon/public teams, product liveliness, privacy delivery (year-to-year comparison), ecosystem-to-ecosystem comparison
 - Web3Privacy Now Platform
 
-# ⚛︎ Web3privacy Now Platform
-_"One ring to bring them all"_ → A comprehensive website to showcase our ecosystem to a wide audience, featuring an interactive and comprehensive collection of our activities and projects. 
+# ⚛︎ Web3privacy Now Ecosystem
+_"One ring to bring them all"_ → A comprehensive point-of-entry to ecosystem. Helping wide audience find all useful links, explore current projects, collaborate & support us.
 
-- Project details: 
+- Details 
 
 The goal is to make the concept of privacy easily accessible, understandable, and actionable for everyone, fostering a deeper collaboration and engagement with our initiatives.
 
@@ -55,9 +55,44 @@ _This project is currently supported by Ethereum Foundation._
 - Privacy Guides: 20%
 
 ## Project Overall Timings:
-- GitHub publishing: 30 days
+- Docs delivery: 30 days
+- Website: 30 days
 
-## Deliverables:
+## Milestones
+
+## 1. Documentation
+
+### Tasks
+- Fill ecosystem-related information into [docs](http://docs.web3privacy.info)
+- Document every research (completed, on-going & backlog)
+- Aggregate all links, documents, useful assets (like infographics)
+
+### Timing 
+- 14 days
+
+## 2. Design & content
+
+### Tasks
+- Prototype UI
+- Add basic content
+- Make clickable prototype
+
+### Timing 
+- 21 days
+
+## 3. Web-design
+
+### Tasks
+- Brief front-end dev
+- Sync with the back-end
+- Deploy beta version (incl mobile-ready)
+- Test & fix bugs
+
+### Timing 
+- 21 days
+
+# ⚛︎ Scoring model for privacy assessment
+Expert based scoring model that helps non-techies & techies to assess privacy claims of the web3 services.  
 
 ## 1. Objective | create a privacy assessment playbook for non-techies.
 
@@ -70,7 +105,6 @@ _This project is currently supported by Ethereum Foundation._
 - Create a framework for the assessment & test on non-techies (50 people from managers to designers, web3 & non-web3, different cultures, genders, markets)
 - Update framework with interview data
 - Make an easy to understandable & actionable playbook (format: PDF) for non-techies (general overview, assessment framework for non-techies, assessment journey examples - 5 different projects) 
-
 
 ## 2. Objective | create a privacy assessment playbook for techies.
 
@@ -102,6 +136,15 @@ _This project is currently supported by Ethereum Foundation._
 - QA
 - GitHub publishing
 
+### Deliveries 
+
+* **Playbook**: _Privacy-services' scoring model for non-techies (playbook)_: [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/90XEXa7AG_qc-VgYKs40i88xB1HF97gr1zqb-qvnif0)
+* **Research**: _Scoring matching: Brief, Non-techies validity, MVP_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Data%20brief%20%26%20scoring%20model%20comparison.md)
+* **Article**: _From scoring model to interfaces: Web3privacy now_: [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/f3EXL1pAuI6gusHf_soq9KopU8ABC1EcV002FFlYKoM)
+* **Article**: _Making web3-privacy assessment research: public feedback_: [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/E9QPx9iKgPXPqEsAN-YklipSRJy9VTBMOLwwEcqqVpU)
+* **Research**: _Scoring model testing repo_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/DeFi%20category%20prototype.md)
+* **Research**: _Framework for the privacy assessment for non-techies_: [PDF](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Web3Privacy%20Now%20scoring%20platform_test%20framework.pdf)
+
 ## Team
 - Project Manager: Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
 - R&D: [PG](https://github.com/EclecticSamurai)
@@ -115,11 +158,7 @@ A ranking system of all privacy-related projects in the Web3.
 - [Project details](https://docs.web3privacy.info/projects/db)
 - [Live Demo](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
 
-In the digital age, privacy is not just a priority but a fundamental human right. 
-
-Despite the foundational role that privacy is meant to play in shaping Web3, genuinely impactful initiatives remain scarce. Many projects leverage the concept of privacy as a buzzword or for public relations advantage, rather than addressing tangible issues or enacting substantial changes at the infrastructural and transactional level.
-
-That's why a ranking system of all privacy-related projects in the Web3 could help a lot the users to discern and decide who to trust and how to manage their sensible data.
+A ranking system of all privacy-related projects in the Web3 could help a lot the users to discern and decide who to trust and how to manage their sensible data.
 
 That is why we are developing this comprehensive platform to empower the general public in making informed decisions about the services they choose to trust by clearly and quickly check the privacy levels and security of various Web3 services.
 
@@ -158,13 +197,6 @@ We interviewed 100 privacy players & gathered an MVP vision — we are running a
 ### Deliverables & Timings:
 - [31st Dec 2023] Scoring model v 1.0 + experts validation:
 functionality mapping (incl. UX/UI research), copywriting, basic brand design system, scoring model applicability to +150 privacy-preserving web3 projects
-
-* **Playbook**: _Privacy-services' scoring model for non-techies (playbook)_: [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/90XEXa7AG_qc-VgYKs40i88xB1HF97gr1zqb-qvnif0)
-* **Research**: _Scoring matching: Brief, Non-techies validity, MVP_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Data%20brief%20%26%20scoring%20model%20comparison.md)
-* **Article**: _From scoring model to interfaces: Web3privacy now_: [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/f3EXL1pAuI6gusHf_soq9KopU8ABC1EcV002FFlYKoM)
-* **Article**: _Making web3-privacy assessment research: public feedback_: [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/E9QPx9iKgPXPqEsAN-YklipSRJy9VTBMOLwwEcqqVpU)
-* **Research**: _Scoring model testing repo_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/DeFi%20category%20prototype.md)
-* **Research**: _Framework for the privacy assessment for non-techies_: [PDF](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Web3Privacy%20Now%20scoring%20platform_test%20framework.pdf)
 
 - [3 to 5 months] Scoring model v 2.0 :
 advanced functionalities, scoring model applicability to +500 privacy-preserving web3 projects
