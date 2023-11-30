@@ -141,7 +141,6 @@ Our approach includes the development of an innovative scoring system, incorpora
 - [metacritic](https://www.metacritic.com/about-metascores)
 - [Clutch](https://clutch.co/methodology)
 
-
 ### Scoring Mechanism's details: 
 Professional scoring would be a joint R&D with the key web3 people from protocol architects to security specialists. We are collecting feedbacks from privacy experts from the Ethereum Foundation, Railgun, Waku, NYM... while building on the experience of active members from both solar and lunarpunk communities. 
 
@@ -226,7 +225,7 @@ The tool doesn't just cater to the needs of the seasoned blockchain enthusiasts 
 - Project Managers > Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/) | [PG](https://github.com/EclecticSamurai)
 - Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree), [Cryptomar1o](https://github.com/cryptomar1o)
 
-# ⎆ Privacy guides:
+# ⎆ Privacy guides
 Extensive privacy guides covering broad audiences from Iranian human rights activists to Ukrainian people living on occupied territories.
 
 Practical guides will match:
