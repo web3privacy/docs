@@ -7,7 +7,7 @@ In our dedication to enhancing privacy and security in the Web3 ecosystem, we sh
 
 ⚛︎ [Web3privacy Now ecosystem](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#%EF%B8%8E-web3privacy-now-platform) 
 
-⚛︎ [Scoring model for privacy assessment]
+⚛︎ [Scoring model for privacy assessment](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#%EF%B8%8E-scoring-model-for-privacy-assessment)
 
 ✵ [Privacy Beat](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#-privacy-beats)
 
