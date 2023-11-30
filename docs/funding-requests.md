@@ -94,7 +94,9 @@ _This project is currently supported by Ethereum Foundation._
 - 21 days
 
 # ⚛︎ Scoring model for privacy assessment
-Expert based scoring model that helps non-techies & techies to assess privacy claims of the web3 services.  
+Expert based scoring model that helps non-techies & techies to assess privacy claims of the web3 services.
+
+## Milestones
 
 ## 1. Objective | create a privacy assessment playbook for non-techies.
 
@@ -182,7 +184,7 @@ Our approach includes the development of an innovative scoring system, incorpora
 - [metacritic](https://www.metacritic.com/about-metascores)
 - [Clutch](https://clutch.co/methodology)
 
-### Scoring Mechanism's details: 
+### Scoring Mechanism's details 
 Professional scoring would be a joint R&D with the key web3 people from protocol architects to security specialists. We are collecting feedbacks from privacy experts from the Ethereum Foundation, Railgun, Waku, NYM... while building on the experience of active members from both solar and lunarpunk communities. 
 
 This will help to create an unbiased take from scratch & enabling a transparent working process, accessible to everyone via a forum.
@@ -196,7 +198,7 @@ We interviewed 100 privacy players & gathered an MVP vision — we are running a
 - Platform: 75%
 - Scoring Mechanism: 20%
 
-### Deliverables & Timings:
+## Milestones
 - [31st Dec 2023] Scoring model v 1.0 + experts validation:
 functionality mapping (incl. UX/UI research), copywriting, basic brand design system, scoring model applicability to +150 privacy-preserving web3 projects
 
@@ -221,8 +223,10 @@ Following our [Privacy Market Overview](https://github.com/web3privacy/web3priva
 ### Ecosystem/Market fit - Why is it important now? 
 Navigating the complex and delicate realm of privacy is very challenging. Although the focus has recently been put back on this foundamental issue, there is a lack of comprehensive overview and there is still little collaboration in this regard. With regulators centralizing the market and surveillance on the rise, the need for privacy champions is clear, especially with actions against private crypto and platforms like Tornado Cash highlighting the risks. Rather than vying for the top tech and perk, we should work together to create a web that prioritizes our collective privacy.
 
-### Deliverables:
--  Draft of 100+ pages 
+## Milestones
+-  Make market survey (50+ experts)
+-  Collide draft information in 1 place [Skiff Docs](https://app.skiff.com/docs/6c928739-abe6-4643-a9a7-b839a980f846#bhicLRLBDkO2AFyBFErHer37PFKfOjDAWtkZBopv4ns%3D)
+-  Design report
 -  Final 100+ pages PDF with visuals and metrics
 
 ### Budget
@@ -231,7 +235,6 @@ Navigating the complex and delicate realm of privacy is very challenging. Althou
 ### Team
 - [Mykola Siusko](https://github.com/Msiusko)
 - [PG](https://github.com/EclecticSamurai)
-
 
 # ⍚ Privacy Checker Tool
 
@@ -244,16 +247,11 @@ In an era where online privacy and security have become paramount concerns, the 
 
 The tool doesn't just cater to the needs of the seasoned blockchain enthusiasts but extends its utility to those seeking more privacy-conscious transactions in an increasingly interconnected digital landscape. With "Privacy Checker," users are empowered to navigate the intricate web of privacy measures efficiently, ensuring their data and assets remain secure.
 
-### Deliverables & Timings: 
-- [30 Nov 2023] [Non-tech Playbook](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/90XEXa7AG_qc-VgYKs40i88xB1HF97gr1zqb-qvnif0) release
-- [5 Jan 2024] Tech Playbook release
-- [Feb 2024] Scoring Model v1.0
-- [May 2024] Scoring Model v2.0
+## Milestones
+TBD
 
 ### Budget
-- Tech Playbook: 8k
-- Scoring Model v1.0: 15k
-- Scoring Model v2.0: 25k
+TBD
 
 ### Team
 - Project Managers > Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/) | [PG](https://github.com/EclecticSamurai)
@@ -282,4 +280,3 @@ Hacker Manuals & Privacy Guidelines to help the builders to uderstand actual iss
 - Project Manager: Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
 - R&D: [PG](https://github.com/EclecticSamurai)
 - Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree)
-
