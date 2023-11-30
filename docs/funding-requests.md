@@ -39,10 +39,13 @@ For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB
 _Discover all historical deliverables in_ [docs](https://docs.web3privacy.info/history)
 
 ### Under Development
-- [Privacy Beat](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat) - Ranking system of all privacy-related projects in the Web3
-- [Privacy Checker Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool)
-- Updating [general database](https://github.com/web3privacy/web3privacy/blob/main/README.md) with the market stats for future research: % of the token projects, % of the anon/public teams, product liveliness, privacy delivery (year-to-year comparison), ecosystem-to-ecosystem comparison
-- Web3Privacy Now Platform
+
+| Project | Description | Category | Link |
+| ------------- | ------------- | ------------- | ------------- |
+| Web3privacy Now Ecosystem | A comprehensive point-of-entry to ecosystem | Community | [link](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat) |
+| Privacy Beat | Ranking system of all privacy-related projects in the Web3 | Platform | [link](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat) |
+| Privacy Checker Tool | TBD | Research | [link](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool) |
+| Updating general database | TBD | Research | [link](https://github.com/web3privacy/web3privacy/blob/main/README.md) |
 
 # ⚛︎ Web3privacy Now Ecosystem
 _"One ring to bring them all"_ → A comprehensive point-of-entry to ecosystem. Helping wide audience find all useful links, explore current projects, collaborate & support us.
