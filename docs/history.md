@@ -13,6 +13,7 @@ The most important milestones of our initiative.
 * **Events**: _W3PSN event calendar_: [GitHub](https://github.com/web3privacy/events#list-of-events)
 * **Design**: _Privacy beat UI_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md), [V1.0](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v10-eth-rome-prototype),[V1.1](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v11-post-ethrome-update), [V 1.1 mobile](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v11-post-ethrome-update-mobile-version), [V1.2](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v12-post-ethrome-update-basic-scoring-x-brief-sync),
 * **Design**: _Asset Router concept_: [V1.0](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v10-post-eth-rome-asset-router-microservice)
+* **Research**: _Privacy Beat breaf_: [Brief](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Brief.md). Pull request by [Railgun_](https://github.com/web3privacy/web3privacy/pull/31), [Waku](https://github.com/web3privacy/web3privacy/pull/35), [Lit](https://github.com/web3privacy/web3privacy/pull/34), [Brume](https://github.com/web3privacy/web3privacy/pull/38), [Webb](https://github.com/web3privacy/web3privacy/pull/37), 
 
 ### October
 
