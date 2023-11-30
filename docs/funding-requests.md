@@ -26,14 +26,17 @@ For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB
 # Our Work
 
 ### Delivered (Retroactive Grants)
-- The biggest privacy-centric [database](https://github.com/web3privacy/web3privacy) with 500+ projects and services delivering web3-privacy
-- [Pagency framework](https://github.com/web3privacy/web3privacy/tree/main/Pagency) for privacy-ideas generation for builders
-- 130-pages long market and diversity [report](https://medium.com/@Svyazniy/privacy-market-outlook-in-web3-report-35a96c35b6ae)
-- ZK-centric privacy-services [database](https://github.com/web3privacy/web3privacy/tree/main/ZKprivacylandscape)
-- Privacy market [map](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Web3privacy%20landscape%20(jan%202023).jpg)
-- Zcash grant on privacy use-case [research](https://github.com/web3privacy/Grants/blob/main/w3p-01.md) within the Ukrainian-Russian war
-- [Summit](https://prague.web3privacy.info/)"Ecosystem Launch", Prague, 5 May 2023,
-- Summit #2 "Community 1st - Rome Takeover", Rome, 5 Oct 2023
+
+| Project | Category | Link |
+| ------------- | ------------- |
+| The biggest privacy-centric with 500+ projects and services delivering web3-privacy | Research | [link](https://github.com/web3privacy/web3privacy) |
+| Pagency framework for privacy-ideas generation for developers | Research | [link](https://github.com/web3privacy/web3privacy/tree/main/Pagency) |
+| 130-pages long privacy market report | Research | [link](https://medium.com/@Svyazniy/privacy-market-outlook-in-web3-report-35a96c35b6ae) |
+| Privacy Summit "W3PN ecosystem Launch", Prague, 5 May 2023 | Event | [link](https://prague.web3privacy.info/) |
+| Zcash grant on privacy use-case research within the Ukrainian-Russian war | Research | [link](https://github.com/web3privacy/Grants/blob/main/w3p-01.md) |
+| Privacy market map | Research | [link](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Web3privacy%20landscape%20(jan%202023).jpg) |
+
+_Discover all historical deliverables in_ [docs](https://docs.web3privacy.info/history)
 
 ### Under Development
 - [Privacy Beat](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat) - Ranking system of all privacy-related projects in the Web3
@@ -66,7 +69,7 @@ _This project is currently supported by Ethereum Foundation._
 - Timing: 14 days
 - Budget: 2,000USD
 
-| Tasks  | Description |
+| Task  | Description |
 | ------------- | ------------- |
 | Information & stakeholder search| Fill ecosystem-related information into [docs](http://docs.web3privacy.info) |
 | Ecosystem documenting  | Document every research (completed, on-going & backlog) |
