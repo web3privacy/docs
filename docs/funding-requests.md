@@ -69,8 +69,8 @@ _This project is currently supported by Ethereum Foundation._
 ## Milestones
 
 ### 1. Documentation
-- Timing: 14 days
-- Budget: 2,000USD
+- Timing: 2 weeks
+- Budget: 2,000 USD
 
 | Task  | Description |
 | ------------- | ------------- |
@@ -79,25 +79,29 @@ _This project is currently supported by Ethereum Foundation._
 | Content aggregation  | Aggregate all links, documents, useful assets (like infographics) |
 
 ### 2. Design & content
+- Timing: 3 weeks
+- Budget: 1,000 USD
 
 ### Tasks
-- Prototype UI
-- Add basic content
-- Make clickable prototype
 
-### Timing 
-- 21 days
+| Task  | Description |
+| ------------- | ------------- |
+| UI | Prototype UI |
+| Content | Add basic content |
+| Test | Make clickable prototype |
 
 ### 3. Web-design
+- Timing: 2 weeks
+- Budget: 2,000 USD
 
 ### Tasks
-- Brief front-end dev
-- Sync with the back-end
-- Deploy beta version (incl mobile-ready)
-- Test & fix bugs
 
-### Timing 
-- 21 days
+| Task  | Description |
+| ------------- | ------------- |
+| Front-end | Brief front-end dev |
+| Back-end | Sync with the back-end |
+| MVP | Deploy beta version (incl mobile-ready) |
+| QA | Test & fix bugs |
 
 # ⚛︎ Scoring model for privacy assessment
 Expert based scoring model that helps non-techies & techies to assess privacy claims of the web3 services.
