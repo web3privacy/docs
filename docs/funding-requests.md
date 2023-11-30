@@ -63,14 +63,13 @@ _This project is currently supported by Ethereum Foundation._
 ## Milestones
 
 ### 1. Documentation
+### Timing: 14 days
 
-### Tasks
-- Fill ecosystem-related information into [docs](http://docs.web3privacy.info)
-- Document every research (completed, on-going & backlog)
-- Aggregate all links, documents, useful assets (like infographics)
-
-### Timing 
-- 14 days
+| Tasks  | Description |
+| ------------- | ------------- |
+| Information & stakeholder search| Fill ecosystem-related information into [docs](http://docs.web3privacy.info) |
+| Ecosystem documenting  | Document every research (completed, on-going & backlog) |
+| Content aggregation  | Aggregate all links, documents, useful assets (like infographics) |
 
 ### 2. Design & content
 
