@@ -60,7 +60,7 @@ _This project is currently supported by Ethereum Foundation._
 
 ## Milestones
 
-## 1. Documentation
+### 1. Documentation
 
 ### Tasks
 - Fill ecosystem-related information into [docs](http://docs.web3privacy.info)
@@ -70,7 +70,7 @@ _This project is currently supported by Ethereum Foundation._
 ### Timing 
 - 14 days
 
-## 2. Design & content
+### 2. Design & content
 
 ### Tasks
 - Prototype UI
@@ -80,7 +80,7 @@ _This project is currently supported by Ethereum Foundation._
 ### Timing 
 - 21 days
 
-## 3. Web-design
+### 3. Web-design
 
 ### Tasks
 - Brief front-end dev
