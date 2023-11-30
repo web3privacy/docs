@@ -9,6 +9,7 @@ The most important milestones of our initiative.
 * **Article**: _Web3Privacy Now Summit #2 - "Community 1st"_, [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)
 * **Playbook**: _Privacy-services' scoring model for non-techies (playbook)_, [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/90XEXa7AG_qc-VgYKs40i88xB1HF97gr1zqb-qvnif0)
 * **Youtube**: _Web3privacy now account launch (with W3PN x ETHRome lectures)_, [YouTube](https://www.youtube.com/@Web3PrivacyNow)
+* **Research**: _500 projects in our Privacy services in Web3 database_: [GitHub](https://github.com/web3privacy/web3privacy)
 
 ### October
 
@@ -19,11 +20,16 @@ The most important milestones of our initiative.
 ### October
 
 * **Article**: _Making web3-privacy assessment research: public feedback_, [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/E9QPx9iKgPXPqEsAN-YklipSRJy9VTBMOLwwEcqqVpU)
+* **Development**: _Privacy Beat platform prototyping_: [Hackathon project](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
+* **Research**: _Data Manifest for Privacy Beat platform_: [GitHub](https://github.com/web3privacy/data/tree/main#readme)
+* **Design**: _Privacy Beat platform visual prototype_: [Figma](https://www.figma.com/file/fwUaS88ao4Ijlv3gIDYrQD/Web3Privacy?type=design&node-id=668%3A26840&mode=design&t=xWVqvb2facrhUFGj-1), [Try prototype](https://www.figma.com/proto/fwUaS88ao4Ijlv3gIDYrQD/Web3Privacy?page-id=558%3A22&type=design&node-id=668-26840&viewport=-5271%2C542%2C0.19&t=7yVsL5QlUqoAGn2T-1&scaling=scale-down-width&starting-point-node-id=668%3A26840&mode=design)
+* **Development**: _Privacy Beat platform live demo_: [Vercel](https://web3privacy-app.vercel.app)
 
 ### June
 
 * **First** [Event](/events/) **Web3Privacy Now Summit** in Prague ([web](https://prague.web3privacy.info/))
 * **Speaking**: _Privacy as a lifestyle @ ETHBarcelona_, Mykola [YouTube](https://www.youtube.com/live/iPFZcsQ2Jeg?feature=shared&t=3425)
+* **Research**: _Framework for the privacy assessment for non-techies_: [PDF](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Web3Privacy%20Now%20scoring%20platform_test%20framework.pdf)
 
 ### May
 
@@ -49,6 +55,9 @@ The most important milestones of our initiative.
 * **Talk**: _UkraineDAO on privacy x Mykola_: [X Spaces](https://twitter.com/cryptodrftng/status/1616807220628291585)
 * **Infographic**: _Web3privacy landscape_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Web3privacy%20landscape%20(jan%202023).jpg)
 * **Infographic**: _ZK x Privacy landscape_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/ZK-private%20landscape.jpg)
+* **Research**: _300 projects in our Privacy services in Web3 database_: [GitHub](https://github.com/web3privacy/web3privacy)
+* **Research**: _Privacy assessment platform concept_: [GitHub](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform)
+* **Research**: _Privacy assessment market survey_: [GitHub](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform/scoringmodel/Survey), [Spreadsheet](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/edit#gid=0)
 
 ## 2022
 
