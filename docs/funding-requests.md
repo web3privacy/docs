@@ -216,9 +216,9 @@ functionality mapping (incl. UX/UI research), copywriting, basic brand design sy
 advanced functionalities, scoring model applicability to +500 privacy-preserving web3 projects
 
 ### Budget
-- Platform v1.0: 10k
-- Platform v2.0: 8k
-- Maintainance: 15k
+- Platform v1.0: 10,000 USD
+- Platform v2.0: 8,000 USD
+- Maintainance (annual): 15,000 USD
 
 ### Team
 - Core project manager > Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
@@ -240,7 +240,7 @@ Navigating the complex and delicate realm of privacy is very challenging. Althou
 -  Final 100+ pages PDF with visuals and metrics
 
 ### Budget
-- 5k
+- 5,000 USD
 
 ### Team
 - [Mykola Siusko](https://github.com/Msiusko)
