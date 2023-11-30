@@ -63,7 +63,8 @@ _This project is currently supported by Ethereum Foundation._
 ## Milestones
 
 ### 1. Documentation
-### Timing: 14 days
+- Timing: 14 days
+- Budget: 2,000USD
 
 | Tasks  | Description |
 | ------------- | ------------- |
