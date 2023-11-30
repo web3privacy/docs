@@ -23,7 +23,8 @@ The most important milestones of our initiative.
 * **Development**: _Privacy Beat platform prototyping_: [Hackathon project](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
 * **Research**: _Data Manifest for Privacy Beat platform_: [GitHub](https://github.com/web3privacy/data/tree/main#readme)
 * **Design**: _Privacy Beat platform visual prototype_: [Figma](https://www.figma.com/file/fwUaS88ao4Ijlv3gIDYrQD/Web3Privacy?type=design&node-id=668%3A26840&mode=design&t=xWVqvb2facrhUFGj-1), [Try prototype](https://www.figma.com/proto/fwUaS88ao4Ijlv3gIDYrQD/Web3Privacy?page-id=558%3A22&type=design&node-id=668-26840&viewport=-5271%2C542%2C0.19&t=7yVsL5QlUqoAGn2T-1&scaling=scale-down-width&starting-point-node-id=668%3A26840&mode=design)
-* **Development**: _Privacy Beat platform live demo_: [Vercel](https://web3privacy-app.vercel.app)
+* **Development**: _Privacy Beat platform live demo_: [Vercel](https://web3privacy-app.vercel.app), [GitHub](https://github.com/web3privacy/web3privacy-app)
+* **Research**: _Privacy Beat data survey_: [Typeform](https://gy0n92ttldn.typeform.com/to/clX8HhGi)
 
 ### June
 
