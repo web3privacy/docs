@@ -28,7 +28,7 @@ For more information about our [Ecosystem](https://mirror.xyz/0x0f1F3DAf416B74DB
 ### Delivered (Retroactive Grants)
 
 | Project | Category | Link |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | The biggest privacy-centric with 500+ projects and services delivering web3-privacy | Research | [link](https://github.com/web3privacy/web3privacy) |
 | Pagency framework for privacy-ideas generation for developers | Research | [link](https://github.com/web3privacy/web3privacy/tree/main/Pagency) |
 | 130-pages long privacy market report | Research | [link](https://medium.com/@Svyazniy/privacy-market-outlook-in-web3-report-35a96c35b6ae) |
