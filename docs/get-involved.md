@@ -30,17 +30,15 @@ _Use our tools & research, share your ideas and perspective, join conversations 
 _Co-edit research and publications, update project's data throught pull requests, give us structured feedbacks, volunteer at events._
 
 👨🏻‍💻 Developers
-- If you are a web developer, join the Matrix (link above) and reach out to Coinmandeer
-- If you are confident with the web3 privacy stack, you can help us developing practical guidelines (link) for your colleagues, or/and contribute to the development of our new Privacy Playbook for technical people (link)!
+- _Web developer: join the [Matrix chat](https://matrix.to/#/#web3privacy:gwei.cz) and reach out to Coinmandeer_
+- _web3-privacy stack expert: join us developing practical guidelines (link) for the builders , and improving the new Privacy Playbook for techies (link)!_
 
 🫡 Marketing
-Our Vision is big! And Visions this big need to be amplified by a diverse & aligned group to help make it real.
-- If you have a talent for writing, design or visuals, come to Matrix (link above) and reach out to PG!
-- If your project wants some visibility, you can update your data here (link)
+- _If you have a talent for writing, design or visuals, come to [Matrix chat](https://matrix.to/#/#web3privacy:gwei.cz) and reach out to PG!_
+- _Get Noticed: Elevate your project's profile by updating your data here! (link)_
 
 💾 Data & Analytics
-Data is an essential ingredient to good decision making. We take our data seriously.
-- If you are a Data Analyst, help us updating and managing our DBs (link)
+- _Data Analyst: help us updating and managing our DBs (link)_
 
 ### ⎆ [Donate](https://docs.web3privacy.info/donate) 
 _Help us to stay distributed and independent so to constantly scale our impact on the state of the web3 privacy._
