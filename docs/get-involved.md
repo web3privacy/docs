@@ -35,8 +35,8 @@ _Co-edit research and publications, update project's data throught pull requests
 
 🐉 Writers, Storytellers and Marketers
 - _If you have a talent for writing, design or visuals, reach out to [PG](https://twitter.com/PG_CDG) on [Matrix chat](https://matrix.to/#/#web3privacy:gwei.cz)! There is a lot going on, this is the fastest way to understand where you could help ATM_
-- Help us in sharing our activities and story on [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073)
-- Join us in the development of this year [Annual Report](https://docs.web3privacy.info/projects/annual-report)
+- _Help us in sharing our activities and story on [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073)_
+- _Join us in the development of this year [Annual Report](https://docs.web3privacy.info/projects/annual-report)_
 
 🔭 Strategy, Research & Development
 - _Help us keep our web3-privacy [DB](https://github.com/web3privacy/web3privacy) the most extensive cool shit in the space with research, maintainance, and improvements._
