@@ -47,7 +47,7 @@ _Co-edit research and publications, update project's data throught pull requests
 👨‍🚀 CEOs, Ambassadors and Advocates of web3-privacy Projects
 - _Help us keep up with your latest updates and get visibility: elevate your project's profile by updating your data [here](https://github.com/web3privacy/web3privacy)!_
 
-### ⎆ [Contributor guide]
+### ⎆ Contributor guide
 _Maintaining privacy services database example: PR at GitHub_
 
 ### actualization
