@@ -30,8 +30,8 @@ _Use our tools & research, share your ideas and perspective, join conversations 
 _Co-edit research and publications, update project's data throught pull requests, give us structured feedbacks, volunteer at events._
 
 👨🏻‍💻 Developers
-- _Web developer: help us developing our [Ecosystem Website]LINK! and/or [Privacy Beat](https://docs.web3privacy.info/projects/db). Join the [Matrix chat](https://matrix.to/#/#web3privacy:gwei.cz) and reach out to Coinmandeer for precise instructions_
-- _web3-privacy stack expert: join us developing practical guidelines (LINK) for the builders , and improving the new Privacy Playbook for techies (link)!_
+- _Web developer: help us developing our Ecosystem Website and [Privacy Beat](https://docs.web3privacy.info/projects/db). Join the [Matrix chat](https://matrix.to/#/#web3privacy:gwei.cz) and reach out to Coinmandeer for precise instructions_
+- _web3-privacy stack expert: join us developing practical guidelines for the builders , and improving the new Privacy Playbook for techies!_
 
 🐉 Writers, Storytellers and Marketers
 - _If you have a talent for writing, design or visuals, reach out to [PG](https://twitter.com/PG_CDG) on [Matrix chat](https://matrix.to/#/#web3privacy:gwei.cz)! There is a lot going on, this is the fastest way to understand where you could help ATM_
