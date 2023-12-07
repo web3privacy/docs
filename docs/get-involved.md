@@ -90,7 +90,7 @@ _algorhithm_:
 ### ⎆ [Donate](https://docs.web3privacy.info/donate) 
 _Help us to stay distributed and independent so to constantly scale our impact on the state of the web3 privacy._
 
-### ⎆ [Give Grant](https://github.com/web3privacy/grants/tree/main)
+### ⎆ [Give Grant](https://docs.web3privacy.info/funding-requests)
 _We are dedicated to continuous R&D of privacy tools, actively seeking new funds to further market maturity and aim to introduce 1 million people to the world of Web3 privacy._
 
 
