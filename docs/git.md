@@ -18,7 +18,7 @@ All our projects are open-source and distributed across many Git repositories. P
 
 | Repository | Description |
 | --- | --- |
-| [@web3privacy/data](https://github.com/web3privacy/data) | Data repository for [Projects Database](/projects/db) project |
+| [@web3privacy/data](https://github.com/web3privacy/data) | Data repository for [Projects Database](/projects/privacy-projects-ranking) project |
 
 ## Mirrors
 
