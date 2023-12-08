@@ -1,6 +1,6 @@
 # Privacy Projects Ranking
 
-Codename: `PrivacyBeat`
+Codename: `Privacy Explorer`
 
 A ranking system to empower the general public in discerning the privacy levels, security, and reliability of Web3 projects. 
 
