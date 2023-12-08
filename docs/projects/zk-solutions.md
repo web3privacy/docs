@@ -1,4 +1,4 @@
-# ZK Privacy-enhancing Solutions DB
+# ZK Solutions DB
 
 Unified database of the privacy-enhancing ZK solutions.
 
