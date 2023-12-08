@@ -6,7 +6,7 @@ Codename: `Privacy Explorer`
 
 Live demo [here](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
 
-![Group 4100](https://github.com/web3privacy/docs/blob/main/docs/assets/Explorer%20platform%20overview.png)
+![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Explorer%20platform%20overview.png?raw=true)
 
 Despite the foundational role that privacy is meant to play in shaping Web3, genuinely impactful initiatives remain scarce. Many projects leverage the concept of privacy as a buzzword or for public relations advantage, rather than addressing tangible issues or enacting substantial changes at the infrastructural and transactional level.
 
