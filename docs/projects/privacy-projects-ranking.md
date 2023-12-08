@@ -12,7 +12,30 @@ Despite the foundational role that privacy is meant to play in shaping Web3, gen
 
 That's why a ranking system of all privacy-related projects in the Web3 could help a lot the users to discern and decide who to trust.
 
-### References:
+## Value
+
+**General public**
+- Find projects you can trust 
+- Explore your privacy stack
+- Compare projects’ privacy features
+- Filter projects by scoring
+- Filter projects by ecosystems
+- Explore which projects match your use case (like “swap assets”)
+
+**Devs**
+- Explore projects delivering privacy
+- Research on use-cases
+- Improve existing solutions
+
+**Security audit companies / white hackers**
+- Find clients lacking security audit (privacy-focused)
+
+**Investors**
+- Explore early-stage projects
+- Find outstanding builders
+- Back critical privacy stack
+
+## References:
 - [l2beat](https://l2beat.com/scaling/risk)
 - [certik](https://www.certik.com/)
 - [metacritic](https://www.metacritic.com/about-metascores)
