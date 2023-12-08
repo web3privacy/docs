@@ -1,4 +1,4 @@
-# Web3 Privacy Projects Hiring
+# Privacy Projects Hiring
 
 Find your next job in web3-privacy space.
 
