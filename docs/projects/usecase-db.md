@@ -1,4 +1,4 @@
-# Privacy Use-cases DB
+# Privacy Use-Cases DB
 
 Ideas & references for privacy builders.
 
