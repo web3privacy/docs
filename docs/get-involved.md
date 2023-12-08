@@ -14,10 +14,10 @@ We aim to change this by building practical tools, reserach and guidelines.
 Empowering individuals to take control of their digital privacy through the Web3 stack.
 We envision a world where privacy is a conscious, actively chosen lifestyle, accessible to everyone, everywhere.
 
-### Why
+### Why 🧐
 In the digital age, privacy is not just a priority but a fundamental human right.
 
-### How
+### How 🧩
 Our diverse array of research, projects and tools are fueled by people who care about digital privacy, and we aim to maintain this authenticity through your continued support and the vibrant help of all those people who care about Privacy - the community.
 
 # Join Us!
