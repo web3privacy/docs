@@ -14,10 +14,10 @@ We aim to change this by building practical tools, reserach and guidelines.
 Empowering individuals to take control of their digital privacy through the Web3 stack.
 We envision a world where privacy is a conscious, actively chosen lifestyle, accessible to everyone, everywhere.
 
-### 🧐 Why
+### Why
 In the digital age, privacy is not just a priority but a fundamental human right.
 
-### 🧩 How
+### How
 Our diverse array of research, projects and tools are fueled by people who care about digital privacy, and we aim to maintain this authenticity through your continued support and the vibrant help of all those people who care about Privacy - the community.
 
 # Join Us!
@@ -39,13 +39,13 @@ _Co-edit research and publications, update project's data throught pull requests
 - _Join us in the development of this year [Annual Report](https://docs.web3privacy.info/projects/annual-report)_
 
 ### 🔭 Strategy, Research & Development
-- _Help us keep our web3-privacy [DB](https://github.com/web3privacy/web3privacy) the most extensive cool shit in the space with research, maintainance, and improvements._
+- _Help us keep our web3-privacy [DB](https://github.com/web3privacy/web3privacy) the most extensive cool shit in the space with research, maintainance, and improvements. For more details have a look at 'contributors guide section below'._
 
 ### 💾 Data & Analytics
-- _Data Analyst: help us updating and managing our JSON [db](https://data.web3privacy.info/) to foster [Privacy Explorer](https://docs.web3privacy.info/projects/privacy-projects-ranking)_
+- _Data Analyst: help us updating and managing our JSON [db](https://data.web3privacy.info/) to foster [Privacy Explorer](https://docs.web3privacy.info/projects/privacy-projects-ranking). For more details have a look at 'contributors guide section below'._
 
 ### 👨‍🚀 CEOs, Ambassadors and Advocates of web3-privacy Projects
-- _Help us keep up with your latest updates and get visibility: elevate your project's profile by updating your data [here](https://github.com/web3privacy/web3privacy)!_
+- _Help us keep up with your latest updates and get visibility: elevate your project's profile by updating your data [here](https://github.com/web3privacy/web3privacy)! For more details have a look at 'contributors guide section below'._
 
 📖 Contributor guide
 _Maintaining privacy services database example: PR at GitHub_
