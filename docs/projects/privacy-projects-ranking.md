@@ -58,6 +58,8 @@ _Value_: explore the most secure projects within category
 
 **Activity module**
 
+_Value_: explore latest updates from the product-readiness to the GitHub activity
+
 ![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Activity%20block.png?raw=true)
 
 **Team module**
@@ -89,6 +91,12 @@ _Value_: explore similar services matching your search or use-case
 _Value_: explore or contribute with the transparent feedback by the community
 
 ![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Reviews%20block.png?raw=true)
+
+**Additional features**
+
+_We plan to include more modules from guides & checklists to academy & available jos in privacy_
+
+![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Additional%20product%20features.png?raw=true)
 
 ## References:
 - [l2beat](https://l2beat.com/scaling/risk)
