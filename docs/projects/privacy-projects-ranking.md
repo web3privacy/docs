@@ -35,13 +35,68 @@ That's why a ranking system of all privacy-related projects in the Web3 could he
 - Find outstanding builders
 - Back critical privacy stack
 
+## About the Scoring Mechanism
+![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Product%20features.png?raw=true)
+
+**Quick preview module**
+
+_Value_: rapid snapshot of the privacy readiness
+
+![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Quick%20previes%20block.png?raw=true)
+
+**Filtering module**
+
+_Value_: match projects within your search or use-case (filter "zk", "stealth addresses", "Ethereum" etc)
+
+![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Filtering%20module.png?raw=true)
+
+**Ranking module**
+
+_Value_: explore the most secure projects within category
+
+![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Ranking%20module.png?raw=true)
+
+**Activity module**
+
+![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Activity%20block.png?raw=true)
+
+**Team module**
+
+_Value_: explore team, it's reputation (historical privacy track record per person)
+
+![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Team%20block.png?raw=true)
+
+**Privacy features module**
+
+_Value_: explore key privacy features & practices from the data collection to compliance-readiness
+
+![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Privacy%20features%20block.png?raw=true)
+
+**Funding module**
+
+_Value_: find out about funding behind the project (VCs, donations, crowdloans)
+
+![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Funding%20block.png?raw=true)
+
+**Recommendations module**
+
+_Value_: explore similar services matching your search or use-case
+
+![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Recommendations%20block.png?raw=true)
+
+**Reviews module**
+
+_Value_: explore or contribute with the transparent feedback by the community
+
+![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Reviews%20block.png?raw=true)
+
 ## References:
 - [l2beat](https://l2beat.com/scaling/risk)
 - [certik](https://www.certik.com/)
 - [metacritic](https://www.metacritic.com/about-metascores)
 - [Clutch](https://clutch.co/methodology)
 
-### About the Scoring Mechanism: 
+### About the Scoring Mechanism 
 It will incorporate both expert analysis and community input, to offer impartial resources for evaluating projects.
 
 - Professional scoring would be a joint R&D with the key web3 people from protocol architects to security specialists. We are collecting feedbacks from privacy experts from the Ethereum Foundation, Railgun, Waku, NYM... 
