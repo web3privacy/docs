@@ -1,6 +1,4 @@
-# Privacy Projects Ranking
-
-Codename: `Privacy Explorer`
+# Privacy Explorer
 
 **3in1**: a ranking system, database & comprehensive profiling to empower the general public in discerning the privacy levels, security, and reliability of Web3 projects. 
 
