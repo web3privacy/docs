@@ -38,6 +38,14 @@ html[data-theme='dark'] .sidebar-divider {
   border-top: 1px solid var(--ifm-color-gray-800);
 }
 
+.theme-doc-markdown.markdown a {
+  text-decoration: underline;
+}
+
+.theme-doc-markdown.markdown a:hover {
+  text-decoration: none;
+}
+
 .sidebar-title {
   font-size: 0.8rem;
   letter-spacing: 0.05rem;
