@@ -13,7 +13,7 @@
 
 | Name | Lead | Members |
 | --- | --- | --- |
-| Privacy Explorer | Coinmandeer | Mykola, PG, Tree |
-| Privacy Research | Mykola | PG |
-| Privacy Events | Tree | PG, Coinmandeer, Mykola |
-| Privacy Tech Awards | Tree | PG, Mykola | 
+| Research | Mykola | PG |
+| [Events](/events) | Tree | PG, Coinmandeer, Mykola |
+| [Privacy Explorer](/projects/privacy-explorer) | Coinmandeer | Mykola, PG, Tree |
+| [Privacy Tech Awards](/projects/privacy-tech-awards) | Tree | PG, Mykola | 
