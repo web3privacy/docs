@@ -21,6 +21,7 @@ All our projects are open-source and distributed across many Git repositories. P
 | Repository | Description |
 | --- | --- |
 | [@web3privacy/explorer](https://github.com/web3privacy/explorer) | [Privacy Explorer](/projects/privacy-explorer) project main repository |
+| [@web3privacy/explorer-app](https://github.com/web3privacy/explorer-app) | [Privacy Explorer](/projects/privacy-explorer) application frontend |
 | [@web3privacy/explorer-data](https://github.com/web3privacy/explorer-data) | Data repository for [Privacy Explorer](/projects/privacy-explorer) project |
 
 ## Mirrors
