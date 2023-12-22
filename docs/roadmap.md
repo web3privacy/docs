@@ -15,8 +15,8 @@ sidebar_position: 3
 ## 2023
 - [Privacy Beat v1.0](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)
 - [Annual Report](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-annual-report-2023)
-- Event in Prague : Web3Privacy Now Summit | [Ecosystem Launch](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/_ykJ2VOcRrH720OZTy0tT1kjrgP5kdc0Vykb0VVle0w)
-- Event in Rome : Web3Privacy Now Summit II - [Community 1st](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)
+- Event in Prague: [Web3Privacy Now Summit - Ecosystem Launch](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/_ykJ2VOcRrH720OZTy0tT1kjrgP5kdc0Vykb0VVle0w)
+- Event in Rome: [Web3Privacy Now Summit II - Community 1st](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)
 - [Web3 Privacy DB (+500 projects)](https://web3privacy.info/)
 - [Report: Web3 Privacy Market Overview, Jan 2023](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Web3privacy%20landscape%20(jan%202023).jpg)
 - [Web3 Privacy Landscape](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Web3privacy%20landscape%20(jan%202023).jpg)
