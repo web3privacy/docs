@@ -42,9 +42,9 @@ Active research, collaboration with PSE team, one-on-one interviews from Railgun
 
 | Result  | Description |
 | ------------- | ------------- |
-| Data aggregation |  |
-| Interviewing | Final copy |
-| ... | Mirror article + Git repo (DB + PDF-report) + X |
+| Data aggregation | public data |
+| Interviewing | 20 one-on-one interviews |
+| Community engagement | Web3privacy community engagement: public call to contribution, the latest data sharing etc |
 
 ### 3. Design, copy & publishing
 - Timing: 2 weeks
