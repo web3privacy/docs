@@ -19,6 +19,10 @@ _Important purpose_:
 - create privacy-centric vocabulary that will help builders, researchers, startupers speak common language & empower existing privacy stack.
 - visualise complex Privacy Ecosystem in infographics
 
+## Homework
+1. [Privacy services DB](https://github.com/web3privacy/explorer). We have the majority of the Ethereum-related projects in our database (need to actualize the data).
+2. [Extensive Privacy project prpfile](https://github.com/web3privacy/explorer). Currently we are building platform that will feature detailed privacy project profile from on-chain data to funding. It will be used a source of data inputs to the research.
+
 ## Timing: 7 weeks
 ### Budget: 8,000 USD
 
