@@ -8,13 +8,14 @@ Ethereum ecosystem lacks detailed & actual report covering all the projects cont
 
 Ethereum Privacy Ecosystem will structure activities around privacy covering:
 
-- well-known projects like Aztec & newcomers like Nocturne
-- analyze privacy-centric hackathons from ETHRome to ETHBerlin
-- emerging concepts from stealth-addresses to EIP-7503
-- provide approach to privacy funding in Ethereum (sources from Gitcoin to VCs; practical examples from 2023)
-- map areas to be approached on the way to Vitalik's cypherphunk vision
+- **project diversity**: well-known projects like Aztec & newcomers like Nocturne
+- **dev-friendly**: analyze privacy-centric hackathons from ETHRome to ETHBerlin
+- **innovation**: emerging concepts from stealth-addresses to EIP-7503
+- **tech breakdown**: specify underliying tech/approaches from ZK to PP 
+- **funding**: provide approach to privacy funding in Ethereum (sources from Gitcoin to VCs; practical examples from 2023)
+- **challenges**: map areas to be tackled by the next generation of devs on the way to Vitalik's cypherphunk vision (like Nocturne's privacy policy)
 
-Important purpose: create privacy-centric vocabulary that will help many builders, researchers, startupers speak common language & empower existing privacy stack.
+_Important purpose_: create privacy-centric vocabulary that will help builders, researchers, startupers speak common language & empower existing privacy stack.
 
 ## Timing: 7 weeks
 
