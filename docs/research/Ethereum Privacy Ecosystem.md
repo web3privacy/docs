@@ -63,5 +63,5 @@ Active research, collaboration with PSE team, one-on-one interviews from Railgun
 - [Coinmandeer](https://twitter.com/KeenOfCoin)
 
 ## Appendix
-[Annual Privacy Market Report, Jan 2023](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf)
-[Privacy market map, 2023](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Web3privacy%20landscape%20(jan%202023).jpg)
+- [Annual Privacy Market Report, Jan 2023](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf)
+- [Privacy market map, 2023](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Web3privacy%20landscape%20(jan%202023).jpg)
