@@ -8,8 +8,8 @@ Ethereum ecosystem lacks detailed & actual report covering all the projects cont
 
 Ethereum Privacy Ecosystem will structure activities around privacy covering:
 
-- **project diversity**: well-known projects like Aztec & newcomers like Nocturne
-- **dev-friendly**: analyze privacy-centric hackathons from ETHRome to ETHBerlin
+- **project diversity**: featuring not just well-known projects like Aztec, but newcomers like Nocturne
+- **dev-friendly**: analyze privacy-centric hackathons from ETHRome to ETHBerlin (events, projects)
 - **innovation**: emerging concepts from stealth-addresses to EIP-7503
 - **tech breakdown**: specify underliying tech/approaches from ZK to PP 
 - **funding**: provide approach to privacy funding in Ethereum (sources from Gitcoin to VCs; practical examples from 2023)
