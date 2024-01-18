@@ -20,7 +20,7 @@ _Important purpose_:
 - visualise complex Privacy Ecosystem in infographics
 
 ## Timing: 7 weeks
-## Budget: 8,000 USD
+### Budget: 8,000 USD
 
 ### Milestones
 
