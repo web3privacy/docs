@@ -21,7 +21,7 @@ _Important purpose_:
 
 ## Homework
 1. [Privacy services DB](https://github.com/web3privacy/explorer). We have the majority of the Ethereum-related projects in our database (need to actualize the data).
-2. [Extensive Privacy project prpfile](https://github.com/web3privacy/explorer). Currently we are building platform that will feature detailed privacy project profile from on-chain data to funding. It will be used a source of data inputs to the research.
+2. [Extensive Privacy project profile](https://github.com/web3privacy/explorer). Currently we are building platform that will feature detailed privacy project profile from on-chain data to funding. It will be used a source of data inputs to the research.
 
 ## Timing: 7 weeks
 ### Budget: 8,000 USD
