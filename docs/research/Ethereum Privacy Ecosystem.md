@@ -15,7 +15,9 @@ Ethereum Privacy Ecosystem will structure activities around privacy covering:
 - **funding**: provide approach to privacy funding in Ethereum (sources from Gitcoin to VCs; practical examples from 2023)
 - **challenges**: map areas to be tackled by the next generation of devs on the way to Vitalik's cypherphunk vision (like Nocturne's privacy policy)
 
-_Important purpose_: create privacy-centric vocabulary that will help builders, researchers, startupers speak common language & empower existing privacy stack.
+_Important purpose_: 
+- create privacy-centric vocabulary that will help builders, researchers, startupers speak common language & empower existing privacy stack.
+- visualise complex Privacy Ecosystem in infographics
 
 ## Timing: 7 weeks
 
