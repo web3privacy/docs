@@ -29,7 +29,7 @@ _Important purpose_:
 ### Milestones
 
 ### 1. Preliminary research
-Purpose: assemble raw market data (authonomously & through one-on-one interviews with experts) + create separate Ethereum-centric DD.md based on our [Privacy projects DB](https://github.com/web3privacy/web3privacy)
+Purpose: assemble raw market data (authonomously & through one-on-one interviews with experts) + create separate Ethereum-centric DD.md based on our [Privacy projects DB](https://github.com/web3privacy/web3privacy): [Ethereum Privacy DB repo](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Ethereum%20Ecosystem/Readme.md)
 
 - Timing: 2 weeks
 - Budget: 3,000 USD
