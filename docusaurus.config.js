@@ -51,6 +51,17 @@ const config = {
     ]
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          { from: '/research/Ethereum Privacy Ecosystem', to: '/research/ethereum-privacy-ecosystem' },
+        ],
+      }
+    ]
+  ],
+
   presets: [
     [
       '@docusaurus/preset-classic',
