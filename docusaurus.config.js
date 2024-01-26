@@ -97,11 +97,16 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-          /*{
-            href: 'https://github.com/facebook/docusaurus',
+          {
+            href: 'https://web3privacy.info/',
+            label: 'Website',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/web3privacy',
             label: 'GitHub',
             position: 'right',
-          },*/
+          },
         ],
       },
       /*footer: {
