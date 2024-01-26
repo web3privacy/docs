@@ -26,6 +26,8 @@
   --ifm-color-primary-light: #ffffff;
   --ifm-color-primary-lighter: #ffffff;
   --ifm-color-primary-lightest: #ffffff;
+
+  --search-local-highlight-color: #000000; 
 }
 
 .sidebar-divider {
