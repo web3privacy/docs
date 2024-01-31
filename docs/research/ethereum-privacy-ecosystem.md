@@ -6,6 +6,8 @@ Research will cover comprehensive & up to date report on the state of privacy in
 
 Ethereum ecosystem lacks detailed & actual report covering all the projects contributing to Ethereum privacy stack. This creates missunderstanding & shallow view on the state of privacy in Ethereum - when people can name several hyped projects, but can't see a bigger "towards the full-stack privacy" picture.
 
+![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Types%20of%20projects%20contributing%20to%20Ethereum%20privacy.png?raw=true)
+
 Ethereum Privacy Ecosystem will structure activities around privacy covering:
 
 - **project diversity**: featuring not just well-known projects like Aztec, but newcomers like Nocturne
