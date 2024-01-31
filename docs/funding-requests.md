@@ -9,7 +9,7 @@ In our dedication to enhancing privacy and security in the Web3 ecosystem, we sh
 
 ⚛︎ [Scoring model for privacy assessment](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#%EF%B8%8E-scoring-model-for-privacy-assessment)
 
-✵ [Privacy Beat](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#-privacy-beats)
+✵ [Explorer](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#-privacy-beats)
 
 ⌬ [Privacy Annual Report 2023](https://github.com/web3privacy/docs/blob/main/docs/funding-requests.md#-privacy-annual-report-2023)
 
@@ -43,7 +43,7 @@ _Discover all historical deliverables in_ [docs](https://docs.web3privacy.info/h
 | Project | Description | Category | Link |
 | ------------- | ------------- | ------------- | ------------- |
 | Web3privacy Now Ecosystem | A comprehensive point-of-entry to ecosystem | Community | [link](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat) |
-| Privacy Beat | Ranking system of all privacy-related projects in the Web3 | Platform | [link](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat) |
+| Explorer | Ranking system of all privacy-related projects in the Web3 | Platform | [link](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat) |
 | Privacy Checker Tool | TBD | Research | [link](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool) |
 | Updating general database | TBD | Research | [link](https://github.com/web3privacy/web3privacy/blob/main/README.md) |
 
@@ -59,7 +59,7 @@ _This project is currently supported by Ethereum Foundation._
 ## Readiness:
 - Website: 80%
 - Data & Research: 90%
-- Privacy Beat: 65%
+- Explorer: 65%
 - Privacy Guides: 20%
 
 ## Project Overall Timings:
@@ -164,7 +164,7 @@ Expert based scoring model that helps non-techies & techies to assess privacy cl
 - R&D: [PG](https://github.com/EclecticSamurai)
 - Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree)
 
-# ✵ Privacy Beat 
+# ✵ Explorer 
 
 ## Project Overview
 A ranking system of all privacy-related projects in the Web3.
@@ -181,12 +181,12 @@ That is why we are developing this comprehensive platform to empower the general
 Our approach includes the development of an innovative scoring system, incorporating both expert analysis and community input, to offer impartial resources for evaluating projects
 
 ### Delivery
-* **Design**: _Privacy beat UI_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md), [V1.0](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v10-eth-rome-prototype),[V1.1](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v11-post-ethrome-update), [V 1.1 mobile](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v11-post-ethrome-update-mobile-version), [V1.2](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v12-post-ethrome-update-basic-scoring-x-brief-sync)
-* **Research**: _Privacy Beat breaf_: [Brief](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Brief.md). Pull requests by [Railgun_](https://github.com/web3privacy/web3privacy/pull/31), [Waku](https://github.com/web3privacy/web3privacy/pull/35), [Lit](https://github.com/web3privacy/web3privacy/pull/34), [Brume](https://github.com/web3privacy/web3privacy/pull/38), [Webb](https://github.com/web3privacy/web3privacy/pull/37)
+* **Design**: _Explorer UI_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md), [V1.0](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v10-eth-rome-prototype),[V1.1](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v11-post-ethrome-update), [V 1.1 mobile](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v11-post-ethrome-update-mobile-version), [V1.2](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v12-post-ethrome-update-basic-scoring-x-brief-sync)
+* **Research**: _Explorer breaf_: [Brief](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Brief.md). Pull requests by [Railgun_](https://github.com/web3privacy/web3privacy/pull/31), [Waku](https://github.com/web3privacy/web3privacy/pull/35), [Lit](https://github.com/web3privacy/web3privacy/pull/34), [Brume](https://github.com/web3privacy/web3privacy/pull/38), [Webb](https://github.com/web3privacy/web3privacy/pull/37)
 * **Research**: _Scoring matching: Brief, Non-techies validity, MVP_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Data%20brief%20%26%20scoring%20model%20comparison.md)
-* **Research**: _Privacy Beat product features_: [GitHub](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform/scoringmodel/Product%20features)
-* **Research**: _Data Manifest for Privacy Beat platform_: [GitHub](https://github.com/web3privacy/data/tree/main#readme)
-* **Research**: _Privacy Beat data survey_: [Typeform](https://gy0n92ttldn.typeform.com/to/clX8HhGi)
+* **Research**: _Explorer product features_: [GitHub](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform/scoringmodel/Product%20features)
+* **Research**: _Data Manifest for Explorer platform_: [GitHub](https://github.com/web3privacy/data/tree/main#readme)
+* **Research**: Explorer data survey_: [Typeform](https://gy0n92ttldn.typeform.com/to/clX8HhGi)
 
 ### References:
 - [l2beat](https://l2beat.com/scaling/risk)
