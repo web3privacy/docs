@@ -10,11 +10,15 @@ We aim to produce high quality events that bring a very similar atmosphere and c
 
 ## List of events
 
-All our events and RSVPs can be found in our lu.ma calendar:
+All our events and RSVPs can be found on our webpage:
+
+* [web3privacy.info/events](https://web3privacy.info/events)
+
+Alternatively, announced events are available in our lu.ma calendar:
 
 * [lu.ma/web3privacy](https://lu.ma/web3privacy)
 
-The source files can be found in the [`@web3privacy/w3pn-events`](https://github.com/web3privacy/w3pn-events) GitHub repository ([list](https://github.com/web3privacy/w3pn-events/blob/main/README.md#list-of-events)).
+The source files can be found in the [`@web3privacy/data`](https://github.com/web3privacy/data) GitHub repository (`src/events` directory).
 
 ## Seasons
 
