@@ -2,7 +2,9 @@
 
 Historical track record of W3PN
 
-## 2023
+## 2024
+
+### January
 
 * **Research**: _Scoring model for techies update_: [GitHub](https://github.com/web3privacy/explorer/blob/main/Web3privacynowplatform/scoringmodel/Scoringmodel_techies.md)
 * **Research**: Explorer platform beta update [web](https://explorer.web3privacy.info)
@@ -14,6 +16,8 @@ Historical track record of W3PN
 * **Article**: _Major news & events in 23' privacy #2023privacyproof_ [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/sy5SdjIHlu-6FMbF6bos_NNWveHSc-_RstKfdIdbfJQ)
 * **Article**: _Pro-privacy projects of the year #2023privacyproof_ [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/LdOt0mlG_nXqhnmLf7s-X13NDNdpwQw72ESKaJq-0zA)
 * **Article**: _Annual Privacy Tech Poll: longlist update_ [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/hEDewxQxukOHZcTqoXNdkrmioEiBb2SrObDZ9oanVM4)
+
+## 2023
 
 ### December
 
