@@ -4,6 +4,25 @@ Historical track record of W3PN
 
 ## 2023
 
+* **Research**: _Scoring model for techies update_: [GitHub](https://github.com/web3privacy/explorer/blob/main/Web3privacynowplatform/scoringmodel/Scoringmodel_techies.md)
+* **Research**: Explorer platform beta update [web](https://explorer.web3privacy.info)
+* **Development**: W3PN website launch [web](https://web3privacy.info)
+* **Research**: _Ethereum Privacy Ecosystem_ [GitHub](https://github.com/web3privacy/docs/blob/main/docs/research/ethereum-privacy-ecosystem.md)
+* **Article**: #2023privacyproof finalists announced [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/wyFhJ9_ayxA6BXTW0WE1h4ZackVTjrZTeC28Y6-J4mc)
+* **Article**: _Doxxer of the year #2023privacyproof_ [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/Yx-Hc2kw2sDVixLkKQ5F1ZDN33eKGYYkK4fjVdPouIE)
+* **Article**: _Exciting innovation in privacy #2023privacyproof_ [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/pbTUSd5RerKKwmeqWmzl5VDmtuykkalqFUBTy0EQUNA)
+* **Article**: _Major news & events in 23' privacy #2023privacyproof_ [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/sy5SdjIHlu-6FMbF6bos_NNWveHSc-_RstKfdIdbfJQ)
+* **Article**: _Pro-privacy projects of the year #2023privacyproof_ [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/LdOt0mlG_nXqhnmLf7s-X13NDNdpwQw72ESKaJq-0zA)
+* **Article**: _Annual Privacy Tech Poll: longlist update_ [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/hEDewxQxukOHZcTqoXNdkrmioEiBb2SrObDZ9oanVM4)
+
+### December
+
+* **Article**: _#2023privacyproof longlist selection announced_ [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/g9ypqVmAIllC3q1qy1EmNfaKR4RemDBYlMLDNbnooEk)
+* **Poll**: _Annual Privacy Tech Poll launching_ [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/u-K59tVbfnFB9M-TTSpTIf7ef3zlsg9FXklDCRwAr70)
+* **Article**: _Delivery Update Q423_ [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/QWXwYD2KYO6V9RDRikDGdUZe9gN9dz5jfVfrFAKxb5k)
+* **Research**: _600 projects in our Privacy services in Web3 database_: [GitHub](https://github.com/web3privacy/web3privacy)
+* **Research**: _Privacy coins watchlist on CMC_: [Coinmarketcap](https://coinmarketcap.com/watchlist/657adcdae8548e6716084ba0/)
+
 ### November
 
 * **Article**: _Web3Privacy Now Summit #2 - "Community 1st"_: [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)
@@ -11,11 +30,11 @@ Historical track record of W3PN
 * **Youtube**: _Web3privacy now account launch (with W3PN x ETHRome lectures)_: [YouTube](https://www.youtube.com/@Web3PrivacyNow)
 * **Event**: _Web3Privacy Now Meetup Prague #1_: [Lu.Ma](https://lu.ma/w3pm-prg1)
 * **Events**: _W3PSN event calendar_: [GitHub](https://github.com/web3privacy/events#list-of-events)
-* **Design**: _Privacy beat UI_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md), [V1.0](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v10-eth-rome-prototype),[V1.1](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v11-post-ethrome-update), [V 1.1 mobile](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v11-post-ethrome-update-mobile-version), [V1.2](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v12-post-ethrome-update-basic-scoring-x-brief-sync),
+* **Design**: _Explorer UI_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md), [V1.0](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v10-eth-rome-prototype),[V1.1](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v11-post-ethrome-update), [V 1.1 mobile](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v11-post-ethrome-update-mobile-version), [V1.2](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v12-post-ethrome-update-basic-scoring-x-brief-sync),
 * **Design**: _Asset Router concept_: [V1.0](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md#v10-post-eth-rome-asset-router-microservice)
-* **Research**: _Privacy Beat breaf_: [Brief](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Brief.md). Pull requests by [Railgun_](https://github.com/web3privacy/web3privacy/pull/31), [Waku](https://github.com/web3privacy/web3privacy/pull/35), [Lit](https://github.com/web3privacy/web3privacy/pull/34), [Brume](https://github.com/web3privacy/web3privacy/pull/38), [Webb](https://github.com/web3privacy/web3privacy/pull/37)
+* **Research**: _Explorer breaf_: [Brief](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Brief.md). Pull requests by [Railgun_](https://github.com/web3privacy/web3privacy/pull/31), [Waku](https://github.com/web3privacy/web3privacy/pull/35), [Lit](https://github.com/web3privacy/web3privacy/pull/34), [Brume](https://github.com/web3privacy/web3privacy/pull/38), [Webb](https://github.com/web3privacy/web3privacy/pull/37)
 * **Research**: _Scoring matching: Brief, Non-techies validity, MVP_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Data%20brief%20%26%20scoring%20model%20comparison.md)
-* **Research**: _Privacy Beat product features_: [GitHub](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform/scoringmodel/Product%20features)
+* **Research**: _Explorer product features_: [GitHub](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform/scoringmodel/Product%20features)
 
 ### October
 
@@ -23,11 +42,11 @@ Historical track record of W3PN
 * **Article**: _From scoring model to interfaces: Web3privacy now_: [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/f3EXL1pAuI6gusHf_soq9KopU8ABC1EcV002FFlYKoM)
 * **Judging**: _ETHRome privacy & governance hackathon_
 * **Article**: _Making web3-privacy assessment research: public feedback_: [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/E9QPx9iKgPXPqEsAN-YklipSRJy9VTBMOLwwEcqqVpU)
-* **Development**: _Privacy Beat platform prototyping_: [Hackathon project](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
-* **Research**: _Data Manifest for Privacy Beat platform_: [GitHub](https://github.com/web3privacy/data/tree/main#readme)
-* **Design**: _Privacy Beat platform visual prototype_: [Figma](https://www.figma.com/file/fwUaS88ao4Ijlv3gIDYrQD/Web3Privacy?type=design&node-id=668%3A26840&mode=design&t=xWVqvb2facrhUFGj-1), [Try prototype](https://www.figma.com/proto/fwUaS88ao4Ijlv3gIDYrQD/Web3Privacy?page-id=558%3A22&type=design&node-id=668-26840&viewport=-5271%2C542%2C0.19&t=7yVsL5QlUqoAGn2T-1&scaling=scale-down-width&starting-point-node-id=668%3A26840&mode=design)
-* **Development**: _Privacy Beat platform live demo_: [Vercel](https://web3privacy-app.vercel.app), [GitHub](https://github.com/web3privacy/web3privacy-app)
-* **Research**: _Privacy Beat data survey_: [Typeform](https://gy0n92ttldn.typeform.com/to/clX8HhGi)
+* **Development**: _Explorer platform prototyping_: [Hackathon project](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
+* **Research**: _Data Manifest for Explorer platform_: [GitHub](https://github.com/web3privacy/data/tree/main#readme)
+* **Design**: _Explorer platform visual prototype_: [Figma](https://www.figma.com/file/fwUaS88ao4Ijlv3gIDYrQD/Web3Privacy?type=design&node-id=668%3A26840&mode=design&t=xWVqvb2facrhUFGj-1), [Try prototype](https://www.figma.com/proto/fwUaS88ao4Ijlv3gIDYrQD/Web3Privacy?page-id=558%3A22&type=design&node-id=668-26840&viewport=-5271%2C542%2C0.19&t=7yVsL5QlUqoAGn2T-1&scaling=scale-down-width&starting-point-node-id=668%3A26840&mode=design)
+* **Development**: _Explorer platform live demo_: [Vercel](https://web3privacy-app.vercel.app), [GitHub](https://github.com/web3privacy/web3privacy-app)
+* **Research**: _Explorer data survey_: [Typeform](https://gy0n92ttldn.typeform.com/to/clX8HhGi)
 * **Research**: _Scoring model testing repo_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/DeFi%20category%20prototype.md)
 * **Research**: _Privacy features audit concept for security audit organizations & whitehackers_: [GitHub](https://github.com/web3privacy/grants/blob/main/w3p-03.md)
 * **Event**: _Web3Privacy Now: Community 1st_ x Rome: [Lu.Ma](https://lu.ma/web3privacynow_rome)
