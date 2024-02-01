@@ -6,14 +6,14 @@ sidebar_position: 3
 
 ## 2024
 - [Privacy Guides for the general public](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-guides)
-- [Privacy Beat v2.0](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)
+- [Explorer platform v2.0](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)
 - [Scoring Model v2.0](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)
 - [Hackathon Curation Pack](https://github.com/web3privacy/grants/blob/main/README.md#-hackathon-curation-pack)
 - [Privacy Checker Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool)
 - Events (2 hackathon, 2 Summit, 11 Meetups)
 
 ## 2023
-- [Privacy Beat v1.0](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)
+- [Explorer platform v1.0](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)
 - [Annual Report](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-annual-report-2023)
 - Event in Prague - [Web3Privacy Now Summit: Ecosystem Launch](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/_ykJ2VOcRrH720OZTy0tT1kjrgP5kdc0Vykb0VVle0w)
 - Event in Rome - [Web3Privacy Now Summit II: "Community 1st"](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)
