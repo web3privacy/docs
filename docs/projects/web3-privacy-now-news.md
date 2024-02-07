@@ -1,12 +1,12 @@
 # Web3Privacy Now News
 
-News within the market are highly scattered. It's hard to keep track on the latest disscussions, Twitter spaces, product releases & major news. W3PN wants to facilite privacy x web3 related newsletter build by the community.
+News within the market is highly scattered. It's hard to keep track of the latest discussions, Twitter spaces, product releases & major news. W3PN wants to facilitate privacy x web3-related newsletter build by the community.
 
 ![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Web3Privacy%20Now%20news.png?raw=true)
 
 > Bigger purpose
 
-1. It will help to have privacy related archive available to everyone from researchers to enthusiasts.
+1. News in 1 place will help to build a privacy related archive available to everyone from researchers to enthusiasts.
 2. Web3Privacy Now News will become the foundation of annual market report & multiple researches.
 3. Keep privacy actors with up to date information.
 
