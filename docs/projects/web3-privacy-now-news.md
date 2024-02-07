@@ -20,6 +20,10 @@ News within the market are highly scattered. It's hard to keep track on the late
 2. Follow structure: newsletter is organized by week [here](https://github.com/web3privacy/news/tree/main/src/2024); follow block structure &/or create a new "news" category.
 3. Send a suggestion to our Matrix channel: [#w3p-news:gwei.cz](https://matrix.to/#/#w3p-news:gwei.cz)
 
+## How to subscribe
+
+Follow us in socials ([X](http://twitter.com/web3privacy)) - soon we will enroll subscription details
+
 ## Weekly frequency
 
 The news is divided to calendar weeks. At the end of each week the news is taken, polished and published in the form of a newsletter.
