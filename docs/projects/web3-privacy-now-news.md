@@ -21,8 +21,7 @@ News within the market is highly scattered. It's hard to keep track of the lates
 5. Send a suggestion to our Matrix channel: [#w3p-news:gwei.cz](https://matrix.to/#/#w3p-news:gwei.cz)
 
 ## How to subscribe
-
-Follow us in socials ([X](http://twitter.com/web3privacy)) - soon we will enroll subscription details
+[Click here](https://paragraph.xyz/@privacynews/subscribe)
 
 ## Weekly frequency
 
