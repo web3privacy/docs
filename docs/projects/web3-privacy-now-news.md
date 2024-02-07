@@ -29,10 +29,11 @@ Follow us in socials ([X](http://twitter.com/web3privacy)) - soon we will enroll
 The news is divided to calendar weeks. At the end of each week the news is taken, polished and published in the form of a newsletter.
 
 ### Weekly checklist
-1. collect all suggestions from the input funnels and create a records from them
-2. check all items, add categories and other mandatory parameters
+1. Collect all suggestions from the input funnels and create a records from them
+2. Check all items, add categories and other mandatory parameters
 
 ## Trial Period
+Currently we are testing concept, discuss format with privacy enthusiasts, facilitate news categories & analyze incoming updates.
 
 * Period: Feb 5 - Mar 3, 2024 (4 weeks)
 
