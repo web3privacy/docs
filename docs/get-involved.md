@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # Get involved
 
-## _So you wish to be part of W3PN Ecosystem?? We are so happy to have you! Let’s make sure we are on the same page about what our work is all about._
+## _So you wish to be part of W3PN Ecosystem?? Let’s make sure we are on the same page about what our work is all about._
 
 Despite the foundational role that privacy is meant to play in shaping Web3, genuinely impactful initiatives remain scarce. Many projects leverage the concept of privacy as a buzzword or for public relations advantage, rather than addressing tangible issues or enacting substantial changes at the infrastructural and transactional level.
 
@@ -14,10 +14,9 @@ We aim to change this by building practical tools, reserach and guidelines.
 Empowering individuals to take control of their digital privacy through the Web3 stack.
 We envision a world where privacy is a conscious, actively chosen lifestyle, accessible to everyone, everywhere.
 
-### Why 🧐
+### Why & How
 In the digital age, privacy is not just a priority but a fundamental human right.
 
-### How 🧩
 Our diverse array of research, projects and tools are fueled by people who care about digital privacy, and we aim to maintain this authenticity through your continued support and the vibrant help of all those people who care about Privacy - the community.
 
 # Join Us!
@@ -29,28 +28,28 @@ _Use our tools & research, share your ideas and perspective, join conversations 
 ### ⎆ [Become a Contributor](https://matrix.to/#/#web3privacy:gwei.cz) 
 _Co-edit research and publications, update project's data throught pull requests, give us structured feedbacks, volunteer at events._
 
-### 👨🏻‍💻 Developers
+### Developers
 - _Web developer: help us developing our Ecosystem Website and [Privacy Explorer](https://docs.web3privacy.info/projects/privacy-projects-ranking). Join the [Matrix chat](https://matrix.to/#/#web3privacy:gwei.cz) and reach out to Coinmandeer for precise instructions_
 - _web3-privacy stack expert: join us developing practical guidelines for the builders , and improving the new Privacy Playbook for techies!_
 
-### 🐉 Writers, Storytellers and Marketers
+### Writers, Storytellers and Marketers
 - _If you have a talent for writing, design or visuals, reach out to [PG](https://twitter.com/PG_CDG) on [Matrix chat](https://matrix.to/#/#web3privacy:gwei.cz)! There is a lot going on, this is the fastest way to understand where you could help ATM_
 - _Help us in sharing our activities and story on [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073)_
 - _Join us in the development of this year [Annual Report](https://docs.web3privacy.info/projects/annual-report)_
 
-### 🔭 Strategy, Research & Development
+### Strategy, Research & Development
 - _Help us keep our web3-privacy [DB](https://github.com/web3privacy/web3privacy) the most extensive cool shit in the space with research, maintainance, and improvements. For more details have a look at 'contributors guide section below'._
 
-### 💾 Data & Analytics
+### Data & Analytics
 - _Data Analyst: help us updating and managing our JSON [db](https://data.web3privacy.info/) to foster [Privacy Explorer](https://docs.web3privacy.info/projects/privacy-projects-ranking). For more details have a look at 'contributors guide section below'._
 
-### 👨‍🚀 CEOs, Ambassadors and Advocates of web3-privacy Projects
+### CEOs, Ambassadors and Advocates of web3-privacy Projects
 - _Help us keep up with your latest updates and get visibility: elevate your project's profile by updating your data [here](https://github.com/web3privacy/web3privacy)! For more details have a look at 'contributors guide section below'._
 
 
 ↓
 
-### 📖 Contributor guide 📖 
+### 📖 Contributor guide 
 _Maintaining privacy services database example: PR at GitHub_
 
 ### actualization
