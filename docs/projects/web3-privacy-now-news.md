@@ -18,7 +18,7 @@ News within the market are highly scattered. It's hard to keep track on the late
 
 1. Manually add a news item via PR to [repository](https://github.com/web3privacy/news/tree/main).
 2. Follow structure: newsletter is organized by week [here](https://github.com/web3privacy/news/tree/main/src/2024); follow block structure &/or create a new "news" category.
-3. Send a suggestion to our Matrix channel: [#w3p-news:gwei.cz](https://matrix.to/#/#w3p-news:gwei.cz)
+5. Send a suggestion to our Matrix channel: [#w3p-news:gwei.cz](https://matrix.to/#/#w3p-news:gwei.cz)
 
 ## How to subscribe
 
