@@ -128,7 +128,14 @@ We interviewed 100 privacy players & gathered an MVP vision — we are running a
 | V 1.0 | Feb, 2024 | 1. Category expansion (200 projects). 2. Scoring model major update (built by community). 2. Content update. 3. Content filled by the projects themselves (plus moderation). 5. Extended documentation. |
 | V 2.0 | March, 2024 | 1. Full [database](https://github.com/web3privacy/web3privacy) synchronization (600 projects). 2. Content update (actualisation). 3. Content filled by the projects themselves (plus moderation). |
 
-### Team
+## Team
 - Core project manager: Mykola Siusko [GitHub](https://github.com/Msiusko), [Twitter](https://twitter.com/nicksvyaznoy), [LinkedIn](https://www.linkedin.com/in/siusko/)
 - Research track: [Mykola Siusko](https://github.com/Msiusko), [PG](https://github.com/EclecticSamurai)
 - Product:[Coinmandeer](https://github.com/coinmandeer), [Tree](https://github.com/burningtree), [Cryptomar1o](https://github.com/cryptomar1o)
+
+## Project Repositories
+| Repository | Description |
+| --- | --- |
+| [@web3privacy/explorer](https://github.com/web3privacy/explorer) | [Privacy Explorer](/projects/privacy-explorer) project main repository |
+| [@web3privacy/explorer-app](https://github.com/web3privacy/explorer-app) | [Privacy Explorer](/projects/privacy-explorer) application frontend |
+| [@web3privacy/explorer-data](https://github.com/web3privacy/explorer-data) | Data repository for [Privacy Explorer](/projects/privacy-explorer) project |

@@ -9,20 +9,17 @@ All our projects are open-source and distributed across many Git repositories. P
 | Repository | Description |
 | --- | --- |
 | [@web3privacy/web3privacy](https://github.com/web3privacy/web3privacy) | The original monorepo with research |
+| [@web3privacy/data](https://github.com/web3privacy/data) | Data repository (Team, Projects, Events..) |
 | [@web3privacy/pm](https://github.com/web3privacy/pm) | [Project Management](/governance/pm) repository |
 | [@web3privacy/docs](https://github.com/web3privacy/docs) | Source code of this documentation |
-| [@web3privacy/events](https://github.com/web3privacy/events) | Data repository with informations about our [Events](/events/) |
 | [@web3privacy/web](https://github.com/web3privacy/web) | Source-code of our website ([web3privacy.info](https://web3privacy.info)) |
 | [@web3privacy/brand](https://github.com/web3privacy/brand) | Brand assets (logos and other visual) |
-
+| [@web3privacy/dns-zones](https://github.com/web3privacy/dns-zones) 🔒 | Our DNS zones (private) | 
+| [@web3privacy/sysop-info](https://github.com/web3privacy/sysop-info) 🔒 | Basic sysop info (private) | 
 
 ### Projects-related
 
-| Repository | Description |
-| --- | --- |
-| [@web3privacy/explorer](https://github.com/web3privacy/explorer) | [Privacy Explorer](/projects/privacy-explorer) project main repository |
-| [@web3privacy/explorer-app](https://github.com/web3privacy/explorer-app) | [Privacy Explorer](/projects/privacy-explorer) application frontend |
-| [@web3privacy/explorer-data](https://github.com/web3privacy/explorer-data) | Data repository for [Privacy Explorer](/projects/privacy-explorer) project |
+Information on repositories for each project can be found in the individual project documentation.
 
 ## Mirrors
 
