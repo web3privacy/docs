@@ -17,4 +17,4 @@ The Core Team is the team of people who manage this organization.
 
 * web3privacynow@skiff.com
 
-Note: If you have Skiff you can make the communication E2E encrypted.
+Note: If you use Skiff/Proton Mail you can make the communication E2E encrypted.
