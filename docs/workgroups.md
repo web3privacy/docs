@@ -4,7 +4,7 @@
 
 | Name | Lead | Members | Links |
 | --- | --- | --- | --- |
-| **Core** | Mykola | PG, Coinmandeer, Tree | [PM](https://github.com/orgs/web3privacy/projects/8) |
+| [**Core Team**](/core-team) | Mykola | PG, Coinmandeer, Tree | [PM](https://github.com/orgs/web3privacy/projects/8) |
 | **Marketing & Outreach** | Mykola | PG |
 | **Fundraising** | PG | Mykola |
 | **IT Operation** | Tree | |

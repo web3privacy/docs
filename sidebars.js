@@ -82,6 +82,7 @@ const sidebars = {
       value: "Governance",
       defaultStyle: true,
     },
+    'core-team',
     'workgroups',
     'governance/pm',
     'git',
