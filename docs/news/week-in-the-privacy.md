@@ -60,6 +60,10 @@ A 4-week trial period has been set to start.
 | [`@web3privacy/news`](https://github.com/web3privacy/news) | News source data |
 | [`@web3privacy/news-app`](https://github.com/web3privacy/news-app) | Frontend source code ([news.web3privacy.info](https://news.web3privacy.info)) |
 
+## Sources (alternatives)
+
+* [Privacy Matters](https://mirror.xyz/0xd0A0012b360B92A14c655A3fD60cfC52A99353e4) (weekly) by Automata Network
+
 ## Curators
 
 * Tree (lead)
