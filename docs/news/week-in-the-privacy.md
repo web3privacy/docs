@@ -48,10 +48,10 @@ A 4-week trial period has been set to start.
 
 | Week | Start - End | Curator |
 | --- | --- | --- |
-| [2024-06](https://github.com/web3privacy/news/blob/main/src/2024/week06.yaml) | Feb 5 - 11 | Tree |
-| [2024-07](https://github.com/web3privacy/news/blob/main/src/2024/week07.yaml) | Feb 12 - 18 | Mykola |
-| [2024-08](https://github.com/web3privacy/news/blob/main/src/2024/week08.yaml) | Feb 19 - 25 | PG |
-| [2024-09](https://github.com/web3privacy/news/blob/main/src/2024/week09.yaml) | Feb 26 - Mar 3 | Coinmandeer |
+| [2024-06](https://github.com/web3privacy/news/blob/main/data/2024/week06.md) | Feb 5 - 11 | Tree |
+| [2024-07](https://github.com/web3privacy/news/blob/main/data/2024/week07.md) | Feb 12 - 18 | Mykola |
+| [2024-08](https://github.com/web3privacy/news/blob/main/data/2024/week08.md) | Feb 19 - 25 | PG |
+| [2024-09](https://github.com/web3privacy/news/blob/main/data/2024/week09.md) | Feb 26 - Mar 3 | Coinmandeer |
 
 ## Repositories
 
