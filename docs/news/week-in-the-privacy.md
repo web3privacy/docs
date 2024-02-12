@@ -57,8 +57,7 @@ A 4-week trial period has been set to start.
 
 | Repository | Description |
 | --- | --- |
-| [`@web3privacy/news`](https://github.com/web3privacy/news) | News source data |
-| [`@web3privacy/news-app`](https://github.com/web3privacy/news-app) | Frontend source code ([news.web3privacy.info](https://news.web3privacy.info)) |
+| [`@web3privacy/news`](https://github.com/web3privacy/news) | News source data & web frontend |
 
 ## Sources (alternatives)
 
