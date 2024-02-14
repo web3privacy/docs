@@ -22,4 +22,5 @@ Our self-hosted [Discourse](https://www.discourse.org/) community forum where yo
 | **Research** | [#w3p-research:gwei.cz](https://matrix.to/#/#w3p-research:gwei.cz) | Discussion about our Research |
 | **Events** | [#w3p-events:gwei.cz](https://matrix.to/#/#w3p-events:gwei.cz) | Everything around our [Events](/events/) |
 | **Explorer** | [#w3p-explorer:gwei.cz](https://matrix.to/#/#w3p-explorer:gwei.cz) | [Privacy Explorer](/projects/privacy-explorer) project |
+| **News** | [#w3p-news:gwei.cz](https://matrix.to/#/#w3p-news:gwei.cz) | [Week in the Privacy News](/news/week-in-the-privacy) project |
 | **Awards** | [#w3p-awards:gwei.cz](https://matrix.to/#/#w3p-awards:gwei.cz) | [Privacy Tech Awards](/projects/privacy-tech-awards) project |
