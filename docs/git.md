@@ -14,6 +14,7 @@ All our projects are open-source and distributed across many Git repositories. P
 | [@web3privacy/docs](https://github.com/web3privacy/docs) | Source code of this documentation |
 | [@web3privacy/web](https://github.com/web3privacy/web) | Source-code of our website ([web3privacy.info](https://web3privacy.info)) |
 | [@web3privacy/brand](https://github.com/web3privacy/brand) | Brand assets (logos and other visual) |
+| [@web3privacy/pm-internal](https://github.com/web3privacy/pm-internal) 🔒 | Core team internals (private) | 
 | [@web3privacy/dns-zones](https://github.com/web3privacy/dns-zones) 🔒 | Our DNS zones (private) | 
 | [@web3privacy/sysop-info](https://github.com/web3privacy/sysop-info) 🔒 | Basic sysop info (private) | 
 
