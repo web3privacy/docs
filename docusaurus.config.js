@@ -57,6 +57,7 @@ const config = {
       {
         redirects: [
           { from: '/research/Ethereum Privacy Ecosystem', to: '/research/ethereum-privacy-ecosystem' },
+          { from: '/governance/multi-sig', to: '/core-team/multi-sig' },
         ],
       }
     ]

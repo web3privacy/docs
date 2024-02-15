@@ -1,3 +1,7 @@
+---
+sidebar_label: Week in the Privacy
+---
+
 # Week in the Privacy News
 
 Weekly newsletter with round-up of the most important news happening around privacy in Web3.

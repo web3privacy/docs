@@ -2,13 +2,7 @@
 
 We use different platforms for communication:
 
-## Forum
-
-Our self-hosted [Discourse](https://www.discourse.org/) community forum where you can post your suggestions and participate in the wider discussion:
-
-* [forum.web3privacy.info](https://forum.web3privacy.info/)
-
-## Matrix
+## Matrix (chat)
 
 [Matrix Protocol](https://matrix.org/) is our main real-time communication tool within the community.
 
@@ -24,3 +18,9 @@ Our self-hosted [Discourse](https://www.discourse.org/) community forum where yo
 | **Explorer** | [#w3p-explorer:gwei.cz](https://matrix.to/#/#w3p-explorer:gwei.cz) | [Privacy Explorer](/projects/privacy-explorer) project |
 | **News** | [#w3p-news:gwei.cz](https://matrix.to/#/#w3p-news:gwei.cz) | [Week in the Privacy News](/news/week-in-the-privacy) project |
 | **Awards** | [#w3p-awards:gwei.cz](https://matrix.to/#/#w3p-awards:gwei.cz) | [Privacy Tech Awards](/projects/privacy-tech-awards) project |
+
+## Forum
+
+Our self-hosted [Discourse](https://www.discourse.org/) community forum where you can post your suggestions and participate in the wider discussion:
+
+* [forum.web3privacy.info](https://forum.web3privacy.info/)
