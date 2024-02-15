@@ -90,6 +90,7 @@ const sidebars = {
     },
     'follow-us',
     'get-involved',
+    'membership',
     'donate',
     'code-of-conduct',
     {

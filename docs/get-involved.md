@@ -22,7 +22,7 @@ Our diverse array of research, projects and tools are fueled by people who care 
 # Join Us!
 You can contribute towards the ecosystem in a million different ways, and there is no way we could make processes for all of these contributions. Nor would we want to! However, getting from 0 to 1 is the hardest step. So we have made a few ways to get you up to speed.
 
-### ⎆ [Enter the Community](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhDAKUlgYdpxpCpTkNVxow4X) 
+### ⎆ [Enter the Community](https://matrix.to/#/#web3privacy:gwei.cz) 
 _Use our tools & research, share your ideas and perspective, join conversations and help each other to make better questions, attend and enjoy our events!_
 
 ### ⎆ [Become a Contributor](https://matrix.to/#/#web3privacy:gwei.cz) 
