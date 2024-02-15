@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
+sidebar_label: Events Introduction
 ---
 
-# Events Introduction
+# Events
 
 Our event concept is based on creating a unified schedule of events for the entire season and spreading events over whole year and different locations. Instead of just doing one huge event in one location that only happens for a day or two, we are trying to create something like a "distributed conference".
 

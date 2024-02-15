@@ -19,7 +19,7 @@ const sidebars = {
   // But you can create a sidebar manually
 
   tutorialSidebar: [
-    'welcome',
+    'index',
     {
       type: "html",
       value: '<span class="sidebar-divider" />',
@@ -33,6 +33,7 @@ const sidebars = {
     'manifesto',
     'roadmap',
     'history',
+    'brand',
     {
       type: "html",
       value: '<span class="sidebar-divider" />',

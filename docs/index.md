@@ -36,7 +36,7 @@ A summary of what we have already accomplished can be found on the [History](/hi
 
 ## Governance
 
-The initiative is managed by a [Core Team](/core-team) of four people who take care of operations.
+The initiative is managed by a [Core Team](/core-team) of four people who take care of operations. We are also in the process of creating [Association](/association) as legal entity for our activities.
 
 ## We are very open 💛
 
