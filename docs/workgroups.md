@@ -11,9 +11,11 @@ Here you will find an overview of all the workgroups together with the people in
 | [**Association**](/association/) | Mykola, Tree | | 🔒 Matrix |
 | [**Core Team**](/core-team) | Mykola | PG, Coinmandeer, Tree | [PM](https://github.com/orgs/web3privacy/projects/8), 🔒 [GitHub](https://github.com/web3privacy/pm-internal), 🔒 Matrix |
 | **Marketing & Outreach** | Mykola | PG |
-| **Partnerships** | PG | Mykola | 🔒 [PM](https://github.com/orgs/web3privacy/projects/10) |
+| **Partnerships** | PG | Mykola | 🔒 [PM](https://github.com/orgs/web3privacy/projects/10), 🔒 Matrix |
 | **IT Operation** | Tree | ||
 | **Design department** | Coinmandeer | ||
+
+🔒 - private tool (non-public)
 
 ## Project-specific
 
