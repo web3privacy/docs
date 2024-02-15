@@ -13,4 +13,4 @@ Anyone can donate ETH and ERC-20 tokens to the following addresses and networks:
 
 ![](./assets/donate-qr.svg)
 
-Funds sent to the above address will be held in the [Web3Privacy Now multisig](/governance/multisig) and used to boost development of our projects.
+Funds sent to the above address will be held in the [Web3Privacy Now multisig](/core-team/multisig) and used to boost development of our projects.
