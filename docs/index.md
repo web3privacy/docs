@@ -28,11 +28,16 @@ Whether you're new to *Web3Privacy Now* or looking to deepen your involvement, y
 
 A summary of what we have already accomplished can be found on the [History](/history) page. For those interested in our future plans, there is a [Roadmap](/roadmap) page.
 
+## Tools
+
+We use various [Communication tools](/communication). For our work we use different [Git repositories](/git), and for organizational purposes our effort is divided into several [Workgroups](/workgroups).
+
 ## Become part of the community
 
 * [Follow us](/follow-us)
 * [Get involved](/get-involved)
 * [Donate](/donate)
+* [Code of Conduct](/code-of-conduct)
 
 ## Governance
 

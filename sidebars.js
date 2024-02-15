@@ -91,7 +91,6 @@ const sidebars = {
     'follow-us',
     'get-involved',
     'donate',
-    'contacts',
     'code-of-conduct',
     {
       type: "html",
@@ -112,6 +111,7 @@ const sidebars = {
         'core-team/multisig'
       ],
     },
+    'contacts',
     /*{
       type: "html",
       value: '<span class="sidebar-divider" />',
