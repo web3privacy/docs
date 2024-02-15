@@ -2,7 +2,7 @@
 
 :::note
 
-This project is a concept.
+This project is a concept. First edition is planned for 2024 Q3/Q4 around ETHBrno.
 
 :::
 
