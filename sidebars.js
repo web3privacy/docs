@@ -95,7 +95,8 @@ const sidebars = {
       label: "Membership",
       link: {type: 'doc', id: 'membership/index'},
       items: [
-        'membership/org-benefits'
+        'membership/personal-benefits',
+        'membership/org-benefits',
       ],
     },
     'donate',
