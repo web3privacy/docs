@@ -24,7 +24,7 @@ Membership for individuals is for all independent privacy advocates, developers 
 
 * You are supporting good thing!
 * Free access to all our [events](/events/)
-* Free swag - t-shirt and stickers (1x bundle per year)
+* Free "Privacy Survival Kit" - incl. t-shirt, stickers etc. (1x bundle per year)
 * Access to special members-only events
 * Exclusive access to our [research](/research/) reports
 * Special chat group for members
