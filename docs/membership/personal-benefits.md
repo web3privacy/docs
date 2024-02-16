@@ -49,11 +49,11 @@ Members automatically receive a 25% discount on all of the products in our store
 
 ### Voting rights in our association
 
-For members who want to be more involved in the governance of our initiative, we offer the opportunity to become a voting member of our [association](/association).
+For members who want to be more involved in the governance of our initiative, we offer the opportunity to become a *voting member* of our [association](/association).
 
 As a *voting member*, you will have the opportunity to participate in the decisions of our Congress once a year by voting on our plans and other topics.
 
-To become a voting member, you must fill out a special form (upcoming) and be approved by the [association](/association/) comittee.
+To become a *voting member*, you must fill out a special form (upcoming) and be approved by the [association](/association/) comittee.
 
 ### Opportunity to vote in a special category at the Privacy Tech Awards
 

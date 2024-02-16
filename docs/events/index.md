@@ -27,7 +27,7 @@ In terms of time, everything is divided into individual programme seasons or pla
 
 Prior to each season, each [regional team](/events/regional-teams) will prepare a unified event plan for the entire region.
 
-Within the season, all events are prepared together as one package. This also applies to sponsors and speakers, which are gathered for the whole package.
+Within the season, all events are prepared together as one package. This also applies to partners and speakers, which are gathered for the whole package.
 
 * Current season: [2023](/events/seasons/2023)
 * Upcoming season: [2024](/events/seasons/2024)
@@ -38,7 +38,7 @@ Within the season, all events are prepared together as one package. This also ap
 
 Each season as a whole has a predetermined budget that we want to raise from sponsors and donors. These funds are then used to cover the costs associated with organising these events.
 
-The Season Budget consists of sponsorship donations (see [Event sponsorship](/events/sponsors)) and donations from Web3Privacy Now initiative itself.
+The Season Budget consists of budget approved by Web3Privacy Now [association](/association/).
 
 ## Regions
 
@@ -156,19 +156,29 @@ We usually accept these payment methods:
   * ETH and stablecoins (also L2s)
   * XMR
 
-## Contributors
-
-### Speakers
+## Speakers
 
 We are looking for speakers for all events combined using a single [Call for Proposal (CfP)](/events/cfp) form.
 
 Within this form, speakers are able to choose the months and locations that suit them. This will offer speakers great flexibility in when and where they can present their ideas or projects.
 
-### Sponsors
+## Partners
 
-For information about sponsorship options, continue to page [Event sponsoring](./sponsors).
+If you are interested in visibility of your organization at our events, then we have the following options for you:
 
-### Volunteers
+### Members (General Partners)
+
+Your organisation can become [organisational member](/membership/#membership-for-organizations) of Web3Privacy Now and automatically gain visibility at our events, depending on the Tier choosen.
+
+### Media partners
+
+It is possible to become a general partner for all events, or just a partner for a specific event. Please [contact us](/contacts) for more details.
+
+### Community partners
+
+We offer local non-profit organizations and communities the opportunity to become a community partner for a specific event. Please [contact us](/contacts) for more details.
+
+## Volunteers
 
 TODO
 
