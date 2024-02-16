@@ -6,7 +6,7 @@ Here you will find a detailed description of the benefits of [membership for org
 
 ### Personal membership for your people
 
-We are primarily a community initiavity, based on individuals, so each membership for organisations includes a certain number of free [Personal memberships](/membership/#personal-membership) for your employees, developers or other stakeholders.
+We are primarily a community initiative, based on individuals, so each membership for organisations includes a certain number of free [Personal memberships](/membership/#personal-membership) for your employees, developers or other stakeholders.
 
 ### Special support group for member organizations
 

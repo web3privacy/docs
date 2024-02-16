@@ -18,7 +18,7 @@ We only need one verifiable identifier, which can be an email or cryptocurrency 
 
 Membership for individuals is for all independent privacy advocates, developers or just curious people.
 
-* Personal membership fee: **100 EUR / year**
+* Personal membership fee: **150 EUR / year**
 
 ### Benefits
 
@@ -41,16 +41,16 @@ Just fill out the application form on our website (TODO) and pay the annual memb
 
 We also offer membership for companies, projects and other organizations. This type of membership is divided into several tiers, according to the amount of membership fee paid.
 
-* Company membership fee: **3 000 - 15 000 EUR / year** (depends on tier)
-* Company membership fee (non-profits): 1 000 EUR / year
+* Company membership fee: **7 000 - 25 000 EUR / year** (depends on tier)
+* Company membership fee (non-profits): 1 500 EUR / year
 
 ### Benefits for organizations
 
 | Tier | Membership fee* | Benefits |
 | --- | --- | --- |
-| **Tier III** | **3 000 EUR**<br/>non-profits: 1 000 EUR | - 1x personal membership (incl. tickets to Events)<br />- visibility on our web<br />- free job listing on our web<br />- highlighting a member project in Privacy Explorer<br />- special group for member organizations |
-| **Tier II** | **7 000 EUR** | - 3x personal membership (incl. tickets to Events)<br/>- visibility on our web<br/>- visibility at our events (Summits)<br/>- job listing on our web & in newsletter and socials (max 1)<br/>- highlighting a member project in Privacy Explorer<br/>- special group for member organizations |
-| **Tier I** | **15 000 EUR** | - 5x personal membership (incl. tickets to Events)<br/>- visibility on our web<br />- visibility at our events (Summits & Hackathons)<br/>- job listing on our web & in newsletter and socials (max 2)<br/>- highlighting a member project in Privacy Explorer<br/>- special group for member organizations |
+| **Tier III** | **7 000 EUR**<br/>non-profits: 1 500 EUR | - 1x personal membership (incl. tickets to Events)<br />- visibility on our web<br />- free job listing on our web<br />- highlighting a member project in Privacy Explorer<br />- special group for member organizations |
+| **Tier II** | **10 000 EUR** | - 3x personal membership (incl. tickets to Events)<br/>- visibility on our web<br/>- visibility at our events (Summits)<br/>- job listing on our web & in newsletter and socials (max 1)<br/>- highlighting a member project in Privacy Explorer<br/>- special group for member organizations |
+| **Tier I** | **25 000 EUR** | - 5x personal membership (incl. tickets to Events)<br/>- visibility on our web<br />- visibility at our events (Summits & Hackathons)<br/>- job listing on our web & in newsletter and socials (max 2)<br/>- highlighting a member project in Privacy Explorer<br/>- special group for member organizations |
 
 \* Note: If you give us a donation, you are automatically entitled to a subscription discount equal to the amount you donate.
 
