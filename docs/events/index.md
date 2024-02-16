@@ -11,15 +11,27 @@ We aim to produce high quality events that bring a very similar atmosphere and c
 
 ## List of events
 
-All our events and RSVPs can be found on our webpage:
+All our events and RSVPs can be found on our website:
 
 * [web3privacy.info/events](https://web3privacy.info/events)
+
+import EventListScreen from '../assets/events-list.png';
+
+<a href="https://web3privacy.info/events"><img src={EventListScreen} width="75%" /></a>
+
+### Lu.ma calendar
 
 Alternatively, announced events are available in our lu.ma calendar:
 
 * [lu.ma/web3privacy](https://lu.ma/web3privacy)
 
-The source files can be found in the [`@web3privacy/data`](https://github.com/web3privacy/data) GitHub repository (`src/events` directory).
+## Source data
+
+The source files with basic data about our events can be found in our `data` [Git repository](/git):
+
+* [`@web3privacy/data`](https://github.com/web3privacy/data) (`src/events` directory)
+
+Feel free to edit or modify!
 
 ## Seasons
 
@@ -99,7 +111,7 @@ The amount to be provided for a particular event depends on the [type of event](
 
 ### Legal entity
 
-TODO
+Legal cover for events is handled by our [association](/association/).
 
 ### Visual identity
 
@@ -126,6 +138,8 @@ Larger events such as the Summits can also be streamed online.
 Whether a particular event is free or we charge admission will depend on the context. The entrance fee and its amount are mainly taken as a tool for self-regulation of the number and quality of visitors.
 
 We will apply admission fees where we expect a lot of interest and, on the contrary, events in less busy periods should be free of charge, which will serve as an incentive for visitors.
+
+All our [members](/membership/#personal-membership) have a **free admission** to event, even if an entry fee is applied.
 
 ### Pre-registration
 
