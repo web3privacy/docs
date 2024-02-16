@@ -41,8 +41,8 @@ Prior to each season, each [regional team](/events/regional-teams) will prepare 
 
 Within the season, all events are prepared together as one package. This also applies to partners and speakers, which are gathered for the whole package.
 
-* Current season: [2023](/events/seasons/2023)
-* Upcoming season: [2024](/events/seasons/2024)
+* Current season: [2024](/events/seasons/2024)
+* Past seasons: [2023](/events/seasons/2023)
 
 [List of seasons →](/events/seasons)
 
