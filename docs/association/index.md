@@ -5,3 +5,7 @@ We are [in the process](https://github.com/web3privacy/association) of creating 
 ## Web3Privacy Now z.s.
 
 TBA
+
+## Congress
+
+TODO
