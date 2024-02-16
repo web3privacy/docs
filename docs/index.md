@@ -12,7 +12,7 @@ Whether you're new to *Web3Privacy Now* or looking to deepen your involvement, y
 
 ## What is *Web3Privacy Now*?
 
-[Web3Privacy Now](https://web3privacy.info/) is an independent, non-profit and community-based initiative to research and popularize privacy-enhancing services within web3 industry. You can read our [Manifesto](/manifesto).
+[Web3Privacy Now](https://web3privacy.info/) (W3PN) is an independent, non-profit and community-based initiative to research and popularize privacy-enhancing services within web3 industry. You can read our [Manifesto](/manifesto).
 
 ## Our activities
 
@@ -22,7 +22,7 @@ Whether you're new to *Web3Privacy Now* or looking to deepen your involvement, y
 | 📅 [Events](/events) | organizing events such as meetups, summits or hackathons |
 | 👁️ [Privacy Explorer](/projects/privacy-explorer) | the most extensive database of privacy-enhancing solutions |
 | 📰 [Week in the Privacy News](/news/week-in-the-privacy) | weekly newsletter with round-up of the most important news |
-| 🏆 [Privacy Tech Awards](/projects/privacy-tech-awards) | annual vote of most popular and interesting privacy projects (concept) |
+<!--| 🏆 [Privacy Tech Awards](/projects/privacy-tech-awards) | annual vote of most popular and interesting privacy projects (concept) |-->
 
 ## History & Roadmap
 

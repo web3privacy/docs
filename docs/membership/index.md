@@ -50,9 +50,9 @@ We also offer membership for companies, projects and other organizations. This t
 
 | Tier | Membership fee* | Benefits |
 | --- | --- | --- |
-| **Tier III** | **7 000 EUR**<br/>non-profits: 1 500 EUR | - 1x personal membership (incl. tickets to Events)<br />- visibility on our web<br />- free job listing on our web<br />- highlighting a member project in Privacy Explorer<br />- special group for member organizations |
-| **Tier II** | **15 000 EUR** | - 3x personal membership (incl. tickets to Events)<br/>- visibility on our web<br/>- visibility at our events (Summits)<br/>- job listing on our web & in newsletter and socials (max 1)<br/>- highlighting a member project in Privacy Explorer<br/>- special group for member organizations |
-| **Tier I** | **25 000 EUR** | - 5x personal membership (incl. tickets to Events)<br/>- visibility on our web<br />- visibility at our events (Summits & Hackathons)<br/>- job listing on our web & in newsletter and socials (max 2)<br/>- highlighting a member project in Privacy Explorer<br/>- special group for member organizations |
+| **Tier III** | **7 000 EUR**<br/>non-profits: 1 500 EUR | • 1x personal membership (incl. tickets to Events)<br />• visibility on our web<br />• free job listing on our web<br />• highlighting a member project in Privacy Explorer<br />• special group for member organizations |
+| **Tier II** | **15 000 EUR** | • 3x personal membership (incl. tickets to Events)<br/>• visibility on our web<br/>• visibility at our events (Summits)<br/>• job listing on our web & in newsletter and socials (max 1)<br/>• highlighting a member project in Privacy Explorer<br/>• special group for member organizations |
+| **Tier I** | **25 000 EUR** | • 5x personal membership (incl. tickets to Events)<br/>• visibility on our web<br />• visibility at our events (Summits & Hackathons)<br/>• job listing on our web & in newsletter and socials (max 2)<br/>• highlighting a member project in Privacy Explorer<br/>• special group for member organizations |
 
 \* Note: If you give us a donation, you are automatically entitled to a subscription discount equal to the amount you donate.
 

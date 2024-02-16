@@ -1,29 +1,22 @@
----
-sidebar_position: 3
----
-
 # Roadmap
 
-## 2024
-- [Privacy Guides for the general public](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-guides)
-- [Explorer platform v2.0](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)
-- [Scoring Model v2.0](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)
-- [Hackathon Curation Pack](https://github.com/web3privacy/grants/blob/main/README.md#-hackathon-curation-pack)
-- [Privacy Checker Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool)
-- Events (2 hackathon, 2 Summit, 11 Meetups)
+Here you can find a high-level overview of what we are planning for the future.
 
-## 2023
-- [Explorer platform v1.0](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)
-- [Annual Report](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-annual-report-2023)
-- Event in Prague - [Web3Privacy Now Summit: Ecosystem Launch](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/_ykJ2VOcRrH720OZTy0tT1kjrgP5kdc0Vykb0VVle0w)
-- Event in Rome - [Web3Privacy Now Summit II: "Community 1st"](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)
-- [Web3 Privacy DB (+500 projects)](https://web3privacy.info/)
-- [Report: Web3 Privacy Market Overview, Jan 2023](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Web3privacy%20landscape%20(jan%202023).jpg)
-- [Web3 Privacy Landscape](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Web3privacy%20landscape%20(jan%202023).jpg)
-- [Pagency Framework](https://github.com/web3privacy/web3privacy/tree/main/Pagency)
-- [Privacy use-cases](https://github.com/web3privacy/web3privacy/blob/main/Use-cases.md)
-- [Web3 Privacy Jobs ](https://docs.google.com/spreadsheets/d/1dN6bIWyOh01Dl-y1iZh-1TASZxKUefD098BUALcnUb8/edit#gid=0)
-- [ZK Privacy Landscape](https://github.com/web3privacy/web3privacy/tree/main/ZKprivacylandscape)
+## Current projects
 
-## 2022
-- Research & Analyses of the web3 privacy market
+| Project | 2024 Roadmap |
+| --- | --- |
+| ⚙️ Core Initiative | • [Association](/association/) (legal entity)<br/> • [Membership](/membership/)
+| 🔬 [Research](/research/) | Upcoming reports:<br/> • [Privacy Guides for the general public](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-guides)<br/>• [Scoring Model v2.0](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)<br/>• [Hackathon Curation Pack](https://github.com/web3privacy/grants/blob/main/README.md#-hackathon-curation-pack) |
+| 📅 [Events](/events/) | [2024 Season](/events/seasons/2024): 1 hackathon, 2 summits, 14 meetups (17 events) |
+| 👁️ [Privacy Explorer](/projects/privacy-explorer) | [v2.0](/projects/privacy-explorer#milestones) upgrade |
+| 📰 [Week in the Privacy News](/news/week-in-the-privacy) | Trial period, general launch March 11, 2024 |
+
+## Future projects (concepts)
+
+| Project | Description |
+| --- | --- |
+| 🏆 [Privacy Tech Awards](/projects/privacy-tech-awards) | annual vote of most popular and interesting privacy projects (concept) |
+| 🔀 [Privacy Routing Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool) | tool which help you choose the right private service for your transactions |
+| 🛒 W3PN Store | online store with privacy tools and promotional items |
+| 📔 W3PN Magazine | quarterly (semi-annual) printed edition for all privacy enthusiasts |
