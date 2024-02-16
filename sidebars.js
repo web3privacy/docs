@@ -90,7 +90,14 @@ const sidebars = {
     },
     'follow-us',
     'get-involved',
-    'membership',
+    {
+      type: "category",
+      label: "Membership",
+      link: {type: 'doc', id: 'membership/index'},
+      items: [
+        'membership/org-benefits'
+      ],
+    },
     'donate',
     'code-of-conduct',
     {

@@ -54,6 +54,8 @@ We also offer membership for companies, projects and other organizations. This t
 
 \* Note: If you give us a donation, you are automatically entitled to a subscription discount equal to the amount you donate.
 
+You can find a detailed description of each benefit on the [Benefits for Organisations](/membership/org-benefits) page.
+
 ### How to become an organisational member?
 
 If you would like a membership for your organisation then please contact us on our email:
