@@ -16,7 +16,9 @@ Here you can find a high-level overview of what we are planning for the future.
 
 | | Description |
 | --- | --- |
+| ↴ [Privacy Corner](https://github.com/web3privacy/privacy-corner) | community pop-up space for hackathons and other events |
 | 🏆 [Privacy Tech Awards](/projects/privacy-tech-awards) | annual vote of most popular and interesting privacy projects |
 | 🔀 [Privacy Routing Tool](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-checker-tool) | tool which help you choose the right private service for your transactions |
-| 🛒 W3PN Store | online store with privacy tools and promotional items |
+| 🎓 Privacy Academy | 101 privacy educational track |
+| 🛒 Privacy Store | online store with privacy tools and cypherpunk items |
 | 📔 Privacy Mag | periodic printed magazine about web3 privacy topics & culture & art |
