@@ -12,14 +12,9 @@ Of course, all our members have **free entry to all our [events](/events/)**.
 
 ### Free swag bundle: "Privacy Survival Kit"
 
-Each member is entitled to collect their *Privacy Survival Kit* swag bundle once a year. Pick up is possible at our [events](/events/) (for free) or by delivery (for an extra fee).
+Each member is entitled to collect their [Privacy Survival Kit](/membership/survival-kit) swag bundle once a year.
 
-*Privacy Survival Kit 2024* contains:
-* 1x W3PN bag
-* 1x W3PN t-shirt - multiple designs (depends on availability), sizes XS-XXL
-* 10x W3PN stickers - multiple designs and sizes
-* 1x W3PN notebook camera cover (cap)
-* other useful items from our organizational members
+Pick up is possible at our [events](/events/) (for free) or by delivery (for an extra fee).
 
 ### Access to special members-only events
 

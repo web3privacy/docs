@@ -103,6 +103,7 @@ const sidebars = {
       items: [
         'membership/personal-benefits',
         'membership/org-benefits',
+        'membership/survival-kit',
       ],
     },
     'donate',
