@@ -58,6 +58,19 @@ We also offer membership for companies, projects and other organizations. This t
 
 You can find a detailed description of each benefit on the [Benefits for Organisations](/membership/org-benefits) page.
 
+### Benefits for organizations (by activity)
+
+| | Tier III | Tier II | Tier I |
+| --- | --- | --- | --- |
+| **Membership** | 1x personal membership | 3x personal membership | 5x personal membership |
+| **Website** | visibility on our web (low), free job listing on our web | visibility on our web (mid), free job listing on our web | visibility on our web (high), free job listing on our web |
+| **Social** | - | ?? | ?? |
+| **Communication** | special group for member organizations | special group for member organizations | special group for member organizations |
+| **Research** | - | ?? | ?? |
+| **Events** | - | visibility at our events (Summits) | visibility at our events (Summits & Hackathons) |
+| **Privacy Explorer** | highlighting a member project in Privacy Explorer | highlighting a member project in Privacy Explorer | highlighting a member project in Privacy Explorer |
+| **Week in the Privacy** | - | 1x job listing in newsletter | 2x job listing in newsletter | 
+
 ### How to become an organisational member?
 
 If you would like a membership for your organisation then please contact us on our email:
