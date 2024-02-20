@@ -127,6 +127,7 @@ const sidebars = {
         'core-team/multisig'
       ],
     },
+    'guild',
     'contacts',
     /*{
       type: "html",
