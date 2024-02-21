@@ -21,7 +21,7 @@ Sorted by competencies - from least to most.
 | --- | --- | --- |
 | Guest / Visitor | none | 🔒 private |
 | [Member](/membership) | none | 🔒 private |
-| [Member](/membership) with voting rights | voting on the [congress](/Congress) | 🔒 private |
+| [Member](/membership) with voting rights | voting on the [congress](/congress) | 🔒 private |
 | [Workgroup](/workgroups) member (*contributor*) | decision-making within the working group | 🔒 private |
 | [Contributors Guild](/guild) member* | receives financial compensation | 🥷 pseudonym (name, link) |
 | [Association](/association) Committee member* | operate with finances and curate [Contributors Guild](/guild) | 👁️ public |
