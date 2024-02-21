@@ -54,7 +54,7 @@ For transparency purposes, we are disclosing each Guild member’s team, the nam
 | Partnership | [PG](https://github.com/EclecticSamurai) |
 | Design | [Coinmandeer](https://github.com/coinmandeer) |
 | Research | [niclaz](https://github.com/niclaz) |
-| Research | [Mykola Siusko](https://github.com/Msiusko) |
+| Growth | [Mykola Siusko](https://github.com/Msiusko) |
 | Explorer | [Mario](https://github.com/cryptomar1o) |
 | Events | [Tree](https://github.com/burningtree) |
 | Events | [Wesley](https://github.com/wslyvh) |
