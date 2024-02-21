@@ -115,19 +115,27 @@ const sidebars = {
     {
       type: "html",
       className: "sidebar-title",
-      value: "Governance",
+      value: "Organization",
       defaultStyle: true,
     },
-    'association/index',
     {
       type: "category",
-      label: "Core Team",
-      link: {type: 'doc', id: 'core-team/index'},
+      label: "Governance",
+      link: {type: 'doc', id: 'governance'},
       items: [
-        'core-team/multisig'
+        'congress',
+        {
+          type: "category",
+          label: "Core Team",
+          link: {type: 'doc', id: 'core-team/index'},
+          items: [
+            'core-team/multisig'
+          ],
+        },
+        'association/index',
+        'guild',
       ],
     },
-    'guild',
     'contacts',
     /*{
       type: "html",

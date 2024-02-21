@@ -2,6 +2,11 @@
 
 A collective of *Web3Privacy Now* contributors.
 
+## Source of money
+
+* 25% of W3PN donations and membership fees (pledged automatically by [Association](/association))
+* direct donations to Guild
+
 ## Rules
 
 ### Slot holders
