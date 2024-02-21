@@ -9,7 +9,7 @@ The Congress is held once a year and is organized by [Association](/association)
 | W3PN Congress #1 (2025) | ~Feb 2025 | TBD |
 | W3PN Congress #2 (2026) | ~Feb 2026 | TBD |
 
-## What is being decided
+## Purpose
 
 * a vote on the long-term direction of the initiative
 * approval of the financial plan for the following year
@@ -18,4 +18,4 @@ The Congress is held once a year and is organized by [Association](/association)
 
 ## Who makes the decisions
 
-* our [members](/membership) with a vote
+* our [Members](/membership) with a voting rights

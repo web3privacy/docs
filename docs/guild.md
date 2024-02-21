@@ -1,8 +1,12 @@
-# Guild
+# Contributors Guild
 
-A collective of *Web3Privacy Now* contributors.
+A collective of *Web3Privacy Now* contributors receiving personal incentives.
 
-## Source of money
+## Purpose
+
+* reward long-term contributors
+
+## Income
 
 * 25% of W3PN donations and membership fees (pledged automatically by [Association](/association))
 * direct donations to Guild

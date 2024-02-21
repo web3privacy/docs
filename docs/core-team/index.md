@@ -1,12 +1,17 @@
 # Core Team
 
-The Core Team is the team of people who manage this organization.
+The Core Team is the team of people who manage this initiative.
 
-## Email
+Core Team members are elected by decision of the [Congress](/congress) for a term of 5 years. It is also exceptionally possible to recall or elect a new member by majority decision of the Core Team itself.
 
-* web3privacynow@skiff.com
-
-Note: If you use Skiff/Proton Mail you can make the communication E2E encrypted.
+## Purpose
+* handle daily decision-making of initiative
+* communicates with the general public ([Contact us](/contacts))
+* oversees and guides the [Association](/association)
+* may extraordinarily elect or recall members of the [Association](/association) Committee
+* control access to basic infrastructure (domains, service accounts etc.)
+* control on-chain treasury ([Multi-sig wallet](/core-team/multisig))
+* hosts weekly Core Team calls
 
 ## Members
 
@@ -34,3 +39,10 @@ Note: If you use Skiff/Proton Mail you can make the communication E2E encrypted.
 | **Core Team** 🔒 | Main channel - general Core Team discussion |
 | **Asssociation** 🔒 | Internal discussion about [Association](/association/) |
 | **Partnership** 🔒 | Partnership workstream discussion |
+
+## Contact
+
+### Email
+* web3privacynow@skiff.com
+
+Note: If you use Skiff/Proton Mail you can make the communication E2E encrypted.
