@@ -1,6 +1,9 @@
 # Governance
 
-## Basic units
+In this section you will find a detailed description of how *Web3Privacy Now* governance works.
+
+## Structure
+### Basic units
 
 *The Web3Privacy Now* initiative is composed of these basic governance units:
 
@@ -9,9 +12,21 @@
 | [Congress](/congress) | top organ, votes on most important issues, elects Core Team/Association executives |
 | [Core Team](/core-team) | main decision-making and executive body |
 | [Association](/association) | legal entity, executes Core Team requirements, accepts donations, pay expenses |
-| [Contributors Guild](/guild) | group of members receiving incentives |
 
-Additionaly, each our project/subdivion has its own [Workgroup](/workgroups).
+### Support units
+
+| Name | Purpose | Control |
+| --- | --- | --- |
+| [Contributors Guild](/guild) | group of members receiving incentives | [Association](/association) |
+| Marketing & Outreach | marketing and social networks | autonomous |
+| Partnerships | recruitment of new (organizational) members | autonomous | 
+| IT Operation | operation of technical infrastructure | autonomous |
+| Design department | designing graphics for our projects | autonomous |
+
+### Project-specific
+
+Additionaly, each project has its own [Workgroup](/workgroups#project-specific).
+
 
 ## Personal roles within initiative
 
