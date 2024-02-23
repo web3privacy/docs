@@ -21,6 +21,5 @@ Information on repositories for each project can be found in the individual proj
 
 ## Mirrors
 
-We don't want to depend solely on a centralized GitHub provider, so our repositories are mirrored to our own server.
-
-Link TODO
+A mirror of our Git repositories can be found at:
+* [git.web3privacy.info](https://git.web3privacy.info)
