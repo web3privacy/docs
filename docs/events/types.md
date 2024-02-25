@@ -8,20 +8,28 @@ We divide events into the following types according to their length and goal:
 
 ## Overview
 
-| Type | [Slots](/events#slots) | Budget | Description |
+### Main types
+
+| Type (code) | [Slots](/events#slots) | Budget | Description |
 | --- | --- | --- | --- |
-| [Hackathon](#hackathon) | *variable* | $25-50k | a multi-day event including hacking |
-| [Summit](#summit) | 10 - 16 | $15-30k | a day-long gathering |
-| [Meetup](#meetup) | 3 - 5 | $1-2k | shorter gatherings for a few hours |
+| [Meetup](#meetup) (`m`) | 3 - 5 | $1-2k | shorter gatherings for a few hours |
+| [Summit](#summit) (`s`) | 10 - 16 | $15-30k | a day-long gathering |
+| [Hackathon](#hackathon) (`h`) | *variable* | $25-50k | a multi-day event including hacking |
+
+### Associated types
+
+| Type (code) | [Slots](/events#slots) | Budget | Description |
+| --- | --- | --- | --- |
+| [Privacy Corner](https://github.com/web3privacy/privacy-corner) (`c`) | - | $3-10k | pop-up space inside of major hackathons |
+| Congress (`x`) | - | ? | W3PN governance gathering |
 
 ## Details of types
-### Hackathon
 
-A hackathon is usually a multi-day event focused on creation. What makes it different from other types is that it should end with some work being done, whether it's some privacy-focused projects or pushing our own projects forward.
+### Meetup
 
-A Hackathon is usually accompanied by one or more Meetups, or possibly a Summit.
+A meetup is a shorter type of event for 2-6 hours (usually afternoon/evening).
 
-The number of slots at the hackathon is very flexible.
+The number of slots at a meetup is usually 3-5.
 
 ### Summit
 
@@ -29,8 +37,10 @@ The Summit is an all-day event, usually followed by an afterparty.
 
 Summit is usually made up of 10-16 slots.
 
-### Meetup
+### Hackathon
 
-A meetup is a shorter type of event for 2-6 hours (usually afternoon/evening).
+A hackathon is usually a multi-day event focused on creation. What makes it different from other types is that it should end with some work being done, whether it's some privacy-focused projects or pushing our own projects forward.
 
-The number of slots at a meetup is usually 3-5.
+A Hackathon is usually accompanied by one or more Meetups, or possibly a Summit.
+
+The number of slots at the hackathon is very flexible.

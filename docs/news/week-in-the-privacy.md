@@ -4,6 +4,10 @@ sidebar_label: Week in the Privacy
 
 # Week in the Privacy News
 
+| Lead | Links | Workgroup |
+| --- | --- | --- |
+| @Tree | • Web: [news.web3privacy.info](https://news.web3privacy.info/)<br/> • newsletter: [paragraph.xyz/@privacynews](https://paragraph.xyz/@privacynews) | [GitHub](https://github.com/web3privacy/news), [Matrix](https://matrix.to/#/#w3p-news:gwei.cz) |
+
 Weekly newsletter with round-up of the most important news happening around privacy in Web3.
 
 * [Subscribe now!](https://paragraph.xyz/@privacynews/subscribe)

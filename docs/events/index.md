@@ -5,13 +5,17 @@ sidebar_label: Events Introduction
 
 # Events
 
+| Lead | Links | Workgroup |
+| --- | --- | --- |
+| @Tree | • Events list: [web3privacy.info/events](https://web3privacy.info/events)<br/> • lu.ma calendar: [lu.ma/web3privacy](https://lu.ma/web3privacy) | [PM](https://github.com/orgs/web3privacy/projects/7), [GitHub](https://github.com/web3privacy/events), [Matrix](https://matrix.to/#/#w3p-events:gwei.cz) |
+
+## Concept
+
 Our event concept is based on creating a unified schedule of events for the entire season and spreading events over whole year and different locations. Instead of just doing one huge event in one location that only happens for a day or two, we are trying to create something like a "distributed conference".
 
 We aim to produce high quality events that bring a very similar atmosphere and content to many venues around the world, providing a unique experience for visitors, speakers and other participants.
 
 ## List of events
-
-All our events and RSVPs can be found on our website:
 
 * [web3privacy.info/events](https://web3privacy.info/events)
 
@@ -19,19 +23,48 @@ import EventListScreen from '../assets/events-list.png';
 
 <a href="https://web3privacy.info/events"><img src={EventListScreen} width="75%" /></a>
 
-### Lu.ma calendar
-
-Alternatively, announced events are available in our lu.ma calendar:
-
-* [lu.ma/web3privacy](https://lu.ma/web3privacy)
-
-## Source data
+## Structured data source
 
 The source files with basic data about our events can be found in our `data` [Git repository](/git):
 
 * [`@web3privacy/data`](https://github.com/web3privacy/data) (`src/events` directory)
 
 Feel free to edit or modify!
+
+## Naming conventions
+
+### Unique event identifier (ID)
+
+Each event has an assigned unique identifier for referencing.
+
+The event identifier consists of:
+
+| Length | Description | Example |
+| --- | --- | --- |
+| 1 letter | code of [event type](/events/types) | `s` |
+| 2 letter | calendar year | `24` |
+| 2-3 letters | pseudo city/event code | `prg` |
+| 1 letter | sequence number (optional) | - |
+
+Example identifiers:
+* `s24prg` - summit in Prague 2024
+* `m24dc` - meetup near Devcon 2024
+* `c25be` - Privacy Corner on MoneroKon 2025
+* `m25prg2` - second meetup in Prague 2025
+
+### Name of the event
+
+The name of the event is based on its type, geographical location and year:
+
+* `Web3Privacy Now <event-type> <city> <year>`
+* `W3PN <event-type> <city> <year>`
+
+For internal referencing its possible to skip `W3PN` or `Web3Privacy Now` part.
+
+Examples:
+* `Web3Privacy Now Summit Prague 2024`
+* `W3PN Hackathon Bled 2024`
+* `Meetup Bucharest 2024` (internal)
 
 ## Seasons
 
@@ -79,11 +112,9 @@ We are also preparing a couple of separate events within the season, which are i
 
 ## Event types
 
-We divide events into the following types according to their length and goal:
+We divide events into different types according to their length and purpose.
 
-* [Hackathon](./types#hackathon) - a multi-day event including hacking
-* [Summit](./types#summit) -  a day-long gathering
-* [Meetup](./types#meetup) - shorter gatherings for a few hours
+Example: *Summit, Meetup, Hackathon* etc.
 
 [List of event types →](./types)
 
@@ -98,6 +129,8 @@ The standard duration of one slot is 30 minutes.
 ## Program formats
 
 At each event, the program is made up of [slots](#slots) that are filled with different formats.
+
+Example: *Talk, Workshop, Panel discussion* etc.
 
 [List of program formats →](./formats)
 
