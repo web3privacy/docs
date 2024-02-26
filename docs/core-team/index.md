@@ -23,7 +23,8 @@ Note: If you use Skiff/Proton Mail you can make the communication E2E encrypted.
 
 | Repository | Description |
 | --- | --- |
-| [@web3privacy/pm-internal](https://github.com/web3privacy/pm-internal) 🔒 | Core team internals (private) | 
+| [@web3privacy/core](https://github.com/web3privacy/core) | Core team PM | 
+| [@web3privacy/core-internal](https://github.com/web3privacy/core-internal) 🔒 | Core team internals (private) | 
 | [@web3privacy/dns-zones](https://github.com/web3privacy/dns-zones) 🔒 | Our DNS zones (private) | 
 | [@web3privacy/sysop-info](https://github.com/web3privacy/sysop-info) 🔒 | Basic sysop info (private) | 
 
