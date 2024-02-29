@@ -10,6 +10,6 @@ Unified database of the privacy-enhancing ZK solutions.
 
 _Find your next job in web3-privacy_
 
-## Phase 1: initial DB aggregaton 23'
+### Phase 1: initial DB aggregaton 23'
 
 [DB](https://github.com/Msiusko/web3privacy/tree/main/ZKprivacylandscape)
