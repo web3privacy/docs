@@ -2,6 +2,8 @@
 
 Here you will find a detailed description of the benefits of [membership for organisations](/membership#membership-for-organizations).
 
+![sponsor-13](https://github.com/web3privacy/docs/assets/101947219/25e571c1-1f94-4f59-ad7a-a163df11da13)
+
 ## General benefits
 
 ### Personal membership for your people
