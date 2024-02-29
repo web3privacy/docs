@@ -8,9 +8,8 @@ Usually hackers don’t know what use-cases they will build, so we want to empow
 
 ### Sub-goals
 
-increase efficiency behind solutions (towards more practical & viable)
-
-skip duplications (so people wouldn’t build the same solutions, but invent something new)
+- increase efficiency behind solutions (towards more practical & viable)
+- skip duplications (so people wouldn’t build the same solutions, but invent something new)
 
 ## Form
 
