@@ -10,6 +10,8 @@ slug: /
 This documentation aims to provide a comprehensive overview of our motivations, activities, and the various ways in which you can contribute. 
 Whether you're new to *Web3Privacy Now* or looking to deepen your involvement, you'll find valuable insights and directions.
 
+![Welcome to Web3Privacy Now Documentation](./assets/Bringing-100M-to-privacy-market.png)
+
 ## What is *Web3Privacy Now*?
 
 [Web3Privacy Now](https://web3privacy.info/) (W3PN) is an independent, non-profit and community-based initiative to research and popularize privacy-enhancing services within web3 industry. You can read our [Manifesto](/manifesto).
