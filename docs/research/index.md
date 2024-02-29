@@ -32,3 +32,7 @@ W3PN research branch fills the gap within the market knowledge + makes data free
 1. Privacy features audit concept for security audit organizations & whitehackers: [link](https://github.com/orgs/web3privacy/projects/11/views/1?pane=issue&itemId=54620227)
 2. Hackathon curation pack: [link](https://github.com/orgs/web3privacy/projects/11/views/1?pane=issue&itemId=54409761)
 3. Privacy market outlook (annual report): [24](https://github.com/orgs/web3privacy/projects/11/views/1?pane=issue&itemId=54411368)
+
+# Useful links
+[Contribute on Github](https://github.com/orgs/web3privacy/projects/11/views/1)
+[Contribute on Matrix](https://matrix.to/#/#web3privacy:matrix.org)
