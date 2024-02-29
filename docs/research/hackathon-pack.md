@@ -3,9 +3,10 @@
 Hacker Manuals & Privacy Guidelines to help the builders to uderstand actual issues in the market.
 To showcase and distribute during our [events](https://lu.ma/calendar/manage/cal-WJeK56sraztsiIa) worldwide.
 
-**Idea**: usually hackers don’t know what use-cases they will build, so we want to empower them with a practical set of frameworks guiding them across dev hackathon journey. “Hackathon curation pack” will become a “privacy-centric hackathon bible” for both devs & event managers.
+## **Idea**: 
+Usually hackers don’t know what use-cases they will build, so we want to empower them with a practical set of frameworks guiding them across dev hackathon journey. “Hackathon curation pack” will become a “privacy-centric hackathon bible” for both devs & event managers.
 
-### Sub-goals:
+### Sub-goals
 
 increase efficiency behind solutions (towards more practical & viable)
 
