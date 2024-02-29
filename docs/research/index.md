@@ -9,7 +9,7 @@ W3PN research branch fills the gap within the market knowledge + makes data free
 
 **Areas of interest**
 
-_delivered_
+## _delivered_
 1. Privacy market [DB](https://github.com/web3privacy/web3privacy)
 2. Privacy market outlook (annual report): [22](https://github.com/web3privacy/web3privacy/tree/main/Market%20overview)
 3. ZK in privacy [DB](https://github.com/web3privacy/web3privacy/tree/main/ZKprivacylandscape)
@@ -21,14 +21,14 @@ _delivered_
 8. Privacy use-cases [DB](https://github.com/Msiusko/web3privacy/blob/main/Use-cases.md)
 9. Privacy use-cases ideation for devs: [Pagency](https://github.com/web3privacy/web3privacy/tree/main/Pagency)
 
-_Ongoing researches_
+## _Ongoing researches_
 1. Scoring model for privacy-services attestation: [link](https://github.com/web3privacy/explorer/blob/main/Research.md#scoring-model)
    _supported by Ethereum Foundation, Mask Network_
 
 2. Ethereum Privacy Ecosystem
    _supported by MolochDAO_
 
-_Future researches_
+## _Future researches_
 1. Privacy features audit concept for security audit organizations & whitehackers: [link](https://github.com/orgs/web3privacy/projects/11/views/1?pane=issue&itemId=54620227)
 2. Hackathon curation pack: [link](https://github.com/orgs/web3privacy/projects/11/views/1?pane=issue&itemId=54409761)
 3. Privacy market outlook (annual report): [24](https://github.com/orgs/web3privacy/projects/11/views/1?pane=issue&itemId=54411368)
