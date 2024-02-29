@@ -35,4 +35,5 @@ W3PN research branch fills the gap within the market knowledge + makes data free
 
 # Useful links
 [Contribute on Github](https://github.com/orgs/web3privacy/projects/11/views/1)
+
 [Contribute on Matrix](https://matrix.to/#/#web3privacy:matrix.org)
