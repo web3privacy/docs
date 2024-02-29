@@ -10,4 +10,4 @@
 - **Build tools** to enhance privacy.
 - **Advocate** for the following business models not based on surveillance capitalism. 
 
-* https://github.com/web3privacy/web3privacy/tree/main/Pagency
+https://github.com/web3privacy/web3privacy/tree/main/Pagency
