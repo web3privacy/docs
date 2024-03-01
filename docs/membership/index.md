@@ -10,9 +10,9 @@ For all privacy enthusiasts, as well as projects and companies, we offer a simpl
 
 3. Perfect match is a partner who cares about privacy market growth & support advocacy. Together we can growth.
 
-## Personal membership
+### Personal Membership
 
-Membership for individuals is for all independent privacy advocates, developers or just curious people.
+For all independent privacy advocates, developers or just curious people.
 
 * fee: **150 EUR / year**
 
@@ -22,7 +22,7 @@ Membership for individuals is for all independent privacy advocates, developers 
 
 Just fill out the application form on our website (TODO) and pay the annual membership fee.
 
-## Membership for Organizations
+## Organizations Membership
 
 We also offer membership for companies, projects and other organizations. This type of membership is divided into several tiers, according to the amount of membership fee paid.
 
