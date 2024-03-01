@@ -2,33 +2,34 @@
 
 ## Benefits:
 
-### You are supporting good thing!
+### ✦ You are supporting good thing!
 
-### Free access to all our events → [List of all events](https://web3privacy.info/events)
+### ✦ Free access to all our events 
+→ [List of all events](https://web3privacy.info/events)
 
-### Free swag bundle: "Privacy Survival Kit"
+### ✦ Free swag bundle: "Privacy Survival Kit"
 
 Each member is entitled to collect their [Privacy Survival Kit](/membership/survival-kit) swag bundle once a year. Pick up at our [events](/events/) (for free) or by delivery (extra fee).
 
-### Access to special members-only events
+### ✦ Access to special members-only events
 
 For example:
 * Web3Privacy Now Congress (upcoming)
 * special educational seminars or workshops for our members (upcoming)
 
-### Exclusive access to our research reports
+### ✦ Exclusive access to our research reports
 
-### Special chat group access
+### ✦ Special chat group access
 
 There is a closed chat group for all individual members where you can communicate directly with the [Core Team](/core-team) or connect with each other.
 
-### Access to special deals of our partners
+### ✦ Access to special deals of our partners
 
 As a member, you are entitled to special discounts and offers from our Partners or member organisations.
 
-### Discount in our store (25%)
+### ✦ Discount in our store (25%)
 
-### Voting rights in our association
+### ✦ Voting rights in our association
 
 For members who want to be more involved in the governance of our initiative, we offer the opportunity to become a *voting member* of our [association](/association).
 
