@@ -8,7 +8,7 @@
 
 ### ✦ "Privacy Survival Kit" swag bundle
 
-Each member is entitled to collect their [Privacy Survival Kit](/membership/survival-kit) swag bundle once a year. Pick up at our [events](/events/) (for free) or by delivery (extra fee).
+Collect your [Privacy Survival Kit](/membership/survival-kit) once a year [Pick up at our [events](/events/) (for free) or by delivery (extra fee)]
 
 ### ✦ Access to special members-only events
 
