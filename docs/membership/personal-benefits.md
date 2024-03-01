@@ -20,11 +20,11 @@ For example:
 
 ### ✦ Special chat group access
 
-There is a closed chat group for all individual members where you can communicate directly with the [Core Team](/core-team) or connect with each other.
+Private chat for all members where you can communicate directly with the [Core Team](/core-team) and connect with each other.
 
 ### ✦ Access to special deals of our partners
 
-As a member, you are entitled to special discounts and offers from our Partners or member organisations.
+Special discounts and offers from our member organisations.
 
 ### ✦ Discount in our store (25%)
 
