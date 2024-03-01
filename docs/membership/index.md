@@ -8,12 +8,6 @@ The final parameters and terms of membership have not yet been set, so take this
 
 For all privacy enthusiasts, as well as projects and companies, we offer a simple and straightforward way for you to support us financially and become an integral part of our community with many benefits.
 
-### We respect the privacy of our members
-
-Membership is essentially **anonymous** and the **list of members is confidential** - we do not require or collect any personal information about our members unless they explicitly declare that they want to be listed publicly.
-
-We only need one verifiable identifier, which can be an email or cryptocurrency address (private key), which is used to prove your membership.
-
 ## Personal membership
 
 Membership for individuals is for all independent privacy advocates, developers or just curious people.
