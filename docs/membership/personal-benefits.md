@@ -1,6 +1,6 @@
 # Personal benefits
 
-## List of benefits
+## Benefits:
 
 ### You are supporting good thing!
 
@@ -53,3 +53,10 @@ To become a *voting member*, you must fill out a special form (upcoming) and be 
 ### Opportunity to vote in a special category at the Privacy Tech Awards
 
 We are planning a special category in the [Privacy Tech Awards](/projects/privacy-tech-awards) where only our members will be able to vote.
+
+
+### We respect the privacy of our members
+
+Membership is essentially **anonymous** and the **list of members is confidential** - we do not require or collect any personal information about our members unless they explicitly declare that they want to be listed publicly.
+
+We only need one verifiable identifier, which can be an email or cryptocurrency address (private key), which is used to prove your membership.
