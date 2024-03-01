@@ -6,7 +6,7 @@
 
 ### ✦ Free access to [all our events](https://web3privacy.info/events)
 
-### ✦ Free swag bundle: "Privacy Survival Kit"
+### ✦ "Privacy Survival Kit" swag bundle
 
 Each member is entitled to collect their [Privacy Survival Kit](/membership/survival-kit) swag bundle once a year. Pick up at our [events](/events/) (for free) or by delivery (extra fee).
 
