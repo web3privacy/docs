@@ -3,6 +3,7 @@
 | Privacy marke DB | _Privacy services x web3 initial market DB aggregation: segmentation, key links (web, git, docs), ecosystem, product liveliness etc. 600 projects in the DB._ | [link](https://github.com/web3privacy/web3privacy) |
 
 ### Current status
+600 projects in the DB (basic data aggregated)
 
 ### Internal need
 - actualise current data
