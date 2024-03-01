@@ -4,8 +4,7 @@
 
 ### ✦ You are supporting good thing!
 
-### ✦ Free access to all our events 
-→ [List of all events](https://web3privacy.info/events)
+### ✦ Free access to [all our events](https://web3privacy.info/events)
 
 ### ✦ Free swag bundle: "Privacy Survival Kit"
 
