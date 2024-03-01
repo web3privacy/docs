@@ -4,21 +4,13 @@
 
 ### You are supporting good thing!
 
-### Free access to all our events
-
-Of course, all our members have **free entry to all our [events](/events/)**.
-
-→ [List of all events](https://web3privacy.info/events)
+### Free access to all our events → [List of all events](https://web3privacy.info/events)
 
 ### Free swag bundle: "Privacy Survival Kit"
 
-Each member is entitled to collect their [Privacy Survival Kit](/membership/survival-kit) swag bundle once a year.
-
-Pick up is possible at our [events](/events/) (for free) or by delivery (for an extra fee).
+Each member is entitled to collect their [Privacy Survival Kit](/membership/survival-kit) swag bundle once a year. Pick up at our [events](/events/) (for free) or by delivery (extra fee).
 
 ### Access to special members-only events
-
-As a member, in addition to free admission to our public events, you also have access to special members-only events.
 
 For example:
 * Web3Privacy Now Congress (upcoming)
@@ -26,21 +18,15 @@ For example:
 
 ### Exclusive access to our research reports
 
-TODO
-
-### Special chat group for members
+### Special chat group access
 
 There is a closed chat group for all individual members where you can communicate directly with the [Core Team](/core-team) or connect with each other.
 
-### Access to special deals of other members & our partners
+### Access to special deals of our partners
 
 As a member, you are entitled to special discounts and offers from our Partners or member organisations.
 
-TODO
-
 ### Discount in our store (25%)
-
-Members automatically receive a 25% discount on all of the products in our store (upcoming).
 
 ### Voting rights in our association
 
@@ -55,7 +41,7 @@ To become a *voting member*, you must fill out a special form (upcoming) and be 
 We are planning a special category in the [Privacy Tech Awards](/projects/privacy-tech-awards) where only our members will be able to vote.
 
 
-### We respect the privacy of our members
+## We respect the privacy of our members
 
 Membership is essentially **anonymous** and the **list of members is confidential** - we do not require or collect any personal information about our members unless they explicitly declare that they want to be listed publicly.
 
