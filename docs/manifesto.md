@@ -44,3 +44,5 @@ Empowering individuals with knowledge is key to restoring their agency in our hy
 **Empowering individuals to take control of their digital privacy through the Web3 stack.**
 
 _We envision a world where privacy is a conscious, actively chosen lifestyle, accessible to everyone, everywhere._
+
+![Bringing 100M users to privacy market](./assets/Bringing-100M-to-privacy-market.png)

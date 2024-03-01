@@ -10,25 +10,31 @@ slug: /
 This documentation aims to provide a comprehensive overview of our motivations, activities, and the various ways in which you can contribute. 
 Whether you're new to *Web3Privacy Now* or looking to deepen your involvement, you'll find valuable insights and directions.
 
-![Welcome to Web3Privacy Now Documentation](./assets/Bringing-100M-to-privacy-market.png)
-
 ## What is *Web3Privacy Now*?
 
 [Web3Privacy Now](https://web3privacy.info/) (W3PN) is an independent, non-profit and community-based initiative to research and popularize privacy-enhancing services within web3 industry. You can read our [Manifesto](/manifesto).
 
-## Our activities
+## Our activities & roadmap
+
+### Current projects
 
 | | Description |
 | --- | --- |
 | 🔬 [Research](/research) | analyzing the ecosystem, creating reports |
 | 📅 [Events](/events) | organizing events such as meetups, summits or hackathons |
-| 👁️ [Privacy Explorer](/projects/privacy-explorer) | the most extensive database of privacy-enhancing solutions |
 | 📰 [Week in the Privacy News](/news/week-in-the-privacy) | weekly newsletter with round-up of the most important news |
-<!--| 🏆 [Privacy Tech Awards](/projects/privacy-tech-awards) | annual vote of most popular and interesting privacy projects (concept) |-->
 
-## History & Roadmap
+### Future projects
 
-A summary of what we have already accomplished can be found on the [History](/history) page. For those interested in our future plans, there is a [Roadmap](/roadmap) page.
+| | Description |
+| --- | --- |
+| 👁️ [Privacy Explorer](/projects/privacy-explorer) | the most extensive database of privacy-enhancing solutions |
+| ↴ [Privacy Corner](https://github.com/web3privacy/privacy-corner) | community pop-up space for hackathons and other events |
+| 🏆 [Privacy Tech Awards](/projects/privacy-tech-awards) | annual vote of most popular and interesting privacy projects |
+
+## History
+
+A summary of what we have already accomplished can be found on the [History](/history) page.
 
 ## Tools
 
