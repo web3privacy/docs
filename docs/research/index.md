@@ -24,15 +24,10 @@ W3PN research branch fills the gap within the market knowledge + makes data free
 | Privacy use-cases ideation framework for devs | _Pagency framework for facilitation privacy use-cases (privacy services modelling)_ | [link](https://github.com/web3privacy/web3privacy/tree/main/Pagency) |
 
 ## _Ongoing researches_
-1. Scoring model for privacy-services attestation: [link](https://github.com/web3privacy/explorer/blob/main/Research.md#scoring-model)
-   _supported by Ethereum Foundation, Mask Network_
-
-_Research aimed to find out dark patterns in privacy, create comprehensive scoring model to test privacy claims on behalf of the projects_
-
-2. Ethereum Privacy Ecosystem
-   _supported by MolochDAO_
-
-_Comprehensive privacy-centric research aimed to map Ethereum-centric privacy services, use-cases, product stages, missing areas (use-cases), funding landscape etc_
+| Research | Info | Link |
+| ------------- | ------------- | ------------- |
+| Scoring model for privacy-services attestation | _Research aimed to find out dark patterns in privacy, create comprehensive scoring model to test privacy claims on behalf of the projects_ Supported by Ethereum Foundation, Mask Network. | [link](https://github.com/web3privacy/explorer/blob/main/Research.md#scoring-model) |
+| Ethereum Privacy Ecosystem | _Comprehensive privacy-centric research aimed to map Ethereum-centric privacy services, use-cases, product stages, missing areas (use-cases), funding landscape etc_ _Supported by MolochDAO_ | [link](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem) |
 
 ## _Future researches_
 1. Privacy features audit concept for security audit organizations & whitehackers: [link](https://github.com/orgs/web3privacy/projects/11/views/1?pane=issue&itemId=54620227)
