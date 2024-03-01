@@ -12,9 +12,7 @@ Collect your [Privacy Survival Kit](/membership/survival-kit) once a year [Pick 
 
 ### ✦ Access to special members-only events
 
-For example:
-* Web3Privacy Now Congress (upcoming)
-* special educational seminars or workshops for our members (upcoming)
+For example: Web3Privacy Now Congress (upcoming) and special educational seminars or workshops (upcoming)
 
 ### ✦ Exclusive access to our research reports
 
