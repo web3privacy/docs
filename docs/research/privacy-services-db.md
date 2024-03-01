@@ -5,11 +5,14 @@
 ### Current status
 600 projects in the DB (basic data aggregated)
 
-### Internal need
+### Internal need (regular basis)
 - actualise current data
 - add new projects
 - moved sunset projects into "Sunset" category
 - fix broken links
+
+### Ultimate need
+- aggregate reach data to match explorer project [profile](https://explorer.web3privacy.info)
 
 ### 📖 Contributor guide 
 _Maintaining privacy services database example: PR at GitHub_
