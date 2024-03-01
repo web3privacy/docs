@@ -2,7 +2,7 @@
 
 For all privacy enthusiasts, as well as projects and companies, we offer a simple and straightforward way for you to support us financially and become an integral part of our community with many benefits.
 
-### Partnership Principles:
+### Our Principles:
 
 1. We care about our independence being an open-source & community-driven organisation.
 
