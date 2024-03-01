@@ -10,7 +10,7 @@ For all privacy enthusiasts, as well as projects and companies, we offer a simpl
 
 3. Perfect match is a partner who cares about privacy market growth & support advocacy. Together we can growth.
 
-### Personal Membership
+## Personal Membership
 
 For all independent privacy advocates, developers or just curious people.
 
