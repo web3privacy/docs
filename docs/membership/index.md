@@ -1,33 +1,22 @@
 # Membership
 
-:::note
-
-The final parameters and terms of membership have not yet been set, so take this as a draft for now.
-
-:::
-
 For all privacy enthusiasts, as well as projects and companies, we offer a simple and straightforward way for you to support us financially and become an integral part of our community with many benefits.
+
+### Partnership Principles:
+
+1. We care about our independence being an open-source & community-driven organisation.
+
+2. We don’t work for any company, but collaborate with them. The last decision always on us.
+
+3. Perfect match is a partner who cares about privacy market growth & support advocacy. Together we can growth.
 
 ## Personal membership
 
 Membership for individuals is for all independent privacy advocates, developers or just curious people.
 
-* Personal membership fee: **?? EUR / year**
+* fee: **150 EUR / year**
 
-### [Personal benefits](/membership/personal-benefits)
-
-* You are supporting good thing!
-* Free access to all our [events](/events/)
-* Free [Privacy Survival Kit](/membership/survival-kit) - incl. t-shirt, stickers etc. (1x bundle per year)
-* Access to special members-only events
-* Exclusive access to our [research](/research/) reports
-* Special chat group for members
-* Access to special deals of other members & our partners
-* 25% discount in our online store (upcoming)
-* Voting rights in our [association](/association/) (optional, requires approval)
-* Opportunity to vote in a special category at the [Privacy Tech Awards](/projects/privacy-tech-awards) (upcoming) 
-
-You can find a detailed description of each benefit on the [Personal benefits](/membership/personal-benefits) page.
+### [Check all the details and benefits of becoming Web3Privacy Now Member](/membership/personal-benefits)
 
 ### How to become a member?
 
@@ -37,10 +26,10 @@ Just fill out the application form on our website (TODO) and pay the annual memb
 
 We also offer membership for companies, projects and other organizations. This type of membership is divided into several tiers, according to the amount of membership fee paid.
 
-* Company membership fee: **?? - ?? EUR / year** (depends on tier)
-* Company membership fee (non-profits): ?? EUR / year
+* Company membership fee: **7K - 40K EUR / year** (depends on tier)
+* Company membership fee (non-profits): 1K EUR / year
 
-### [Benefits for organizations](/membership/org-benefits)
+### [Check all the benefits for organizations](/membership/org-benefits)
 
 | Tier | Membership fee* | Benefits |
 | --- | --- | --- |
