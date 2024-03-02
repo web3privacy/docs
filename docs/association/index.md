@@ -14,18 +14,19 @@ Registered entity representing our initiative in communication with authorities 
 
 ## Purpose
 
-- Non-financial
-  - officially representing our initiative and our projects
-  - operates our [Membership](/membership) program
-  - curates the [Contributors Guild](/guild) members & their weight (quarterly)
-  - organises [Congress](/congress) (once a year)
-- Financial
-  - receiving donations and membership fees
-  - pleding 25% of income (donations, membership fees) to [Contributors Guild](/guild) split contract
-  - paying basic infrastructure (services) controlled by [Core Team](/core-team)
-  - paying expenses of our [Workgroups](/workgroups) or projects
-  - fulfilling other financial & operational tasks of the [Core Team](/core-team)
-  - controls bank(s) and exchange(s) accounts
+### Non-financial
+- officially representing our initiative and our projects
+- operates our [Membership](/membership) program
+- curates the [Contributors Guild](/guild) members & their weight (quarterly)
+- organises [Congress](/congress) (once a year)
+
+### Financial
+- receiving donations and membership fees
+- pleding 25% of income (donations, membership fees) to [Contributors Guild](/guild) split contract
+- paying basic infrastructure (services) controlled by [Core Team](/core-team)
+- paying expenses of our [Workgroups](/workgroups) or projects
+- fulfilling other financial & operational tasks of the [Core Team](/core-team)
+- controls bank(s) and exchange(s) accounts
 
 ## Committee
 

@@ -2,14 +2,18 @@
 
 A collective of *Web3Privacy Now* contributors receiving personal incentives.
 
+The Contributor Guild serves as the main financial reward system for people working for W3PN. We don't want to give ourselves paychecks, nor do we want to make a complicated system of paying by hourly rates or tasks completed, so we choose a simpler route inspired by the [Protocol Guild](https://protocol-guild.readthedocs.io/).
+
+This Guild is automatically funded by percentage cut from our income and anyone who does long-term activity (or “work") for W3PN have the opportunity to become a part of this guild and thus receive some financial compensation, based on simple criteria. In simplicity there is power, and we think this system can be much fairer and more scalable. Its also good that it motivates for long-term cooperation.
+
 ## Purpose
 
 * reward long-term contributors
 
 ## Income
 
-* 25% of W3PN donations and membership fees (pledged automatically by [Association](/association))
-* direct donations to Guild
+* XX% of W3PN [membership](/membership) fees and [donations](/donate) (pledged automatically by [Association](/association))
+* direct donations
 
 ## Rules
 
@@ -51,10 +55,11 @@ For transparency purposes, we are disclosing each Guild member’s team, the nam
 
 | Team | Name / Link to work |
 | --- | --- |
+| TBD | - |
+
+<!-- 
 | Partnership | [PG](https://github.com/EclecticSamurai) |
 | Design | [Coinmandeer](https://github.com/coinmandeer) |
-| Research | [niclaz](https://github.com/niclaz) |
 | Growth | [Mykola Siusko](https://github.com/Msiusko) |
-| Explorer | [Mario](https://github.com/cryptomar1o) |
 | Events | [Tree](https://github.com/burningtree) |
-| Events | [Wesley](https://github.com/wslyvh) |
+-->
