@@ -98,6 +98,13 @@ const sidebars = {
     'get-involved',
     {
       type: "category",
+      label: "Contributors Guide",
+      link: {type: 'doc', id: 'contributors/index'},
+      items: [
+      ],
+    },
+    {
+      type: "category",
       label: "Membership",
       link: {type: 'doc', id: 'membership/index'},
       items: [
