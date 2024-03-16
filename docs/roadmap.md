@@ -8,7 +8,7 @@ Here you can find a high-level overview of what we are planning for the future.
 | --- | --- |
 | ⚙️ Core Initiative | • [Association](/association/) (legal entity)<br/> • [Membership](/membership/) (incl. [Privacy Survival Kit](/membership/survival-kit)) |
 | 🔬 [Research](/research/) | Upcoming reports:<br/> • [Privacy Guides for the general public](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-guides)<br/>• [Scoring Model v2.0](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)<br/>• [Hackathon Curation Pack](https://github.com/web3privacy/grants/blob/main/README.md#-hackathon-curation-pack)<br/>• [Ethereum Privacy Ecosystem](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem) |
-| 📅 [Events](/events/) | [2024 Season](/events/seasons/2024):<br/> • 17 events in 14 countries<br/> • 1 hackathon, 2 summits, 14 meetups |
+| 📅 [Events](/events/) | 2024 Season:<br/> • 17 events in 14 countries<br/> • 1 hackathon, 2 summits, 14 meetups |
 | 👁️ [Privacy Explorer](/projects/privacy-explorer) | [v2.0](/projects/privacy-explorer#milestones) upgrade |
 | 📰 [Week in the Privacy News](/news/week-in-the-privacy) | Trial period, general launch March 11, 2024 |
 

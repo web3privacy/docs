@@ -12,16 +12,17 @@ We divide events into the following types according to their length and goal:
 
 | Type (code) | [Slots](/events#slots) | Budget | Description |
 | --- | --- | --- | --- |
-| [Meetup](#meetup) (`m`) | 3 - 5 | $1-2k | shorter gatherings for a few hours |
-| [Summit](#summit) (`s`) | 10 - 16 | $15-30k | a day-long gathering |
-| [Hackathon](#hackathon) (`h`) | *variable* | $25-50k | a multi-day event including hacking |
+| [Meetup](#meetup) (`m`) | 3 - 5 | $1-5k | shorter gatherings for a few hours |
+| [Summit](#summit) (`s`) | 10 - 16 | $20-40k | a day-long gathering |
+| [Hackathon](#hackathon) (`h`) | *variable* | $40-60k | a multi-day event focused on hacking |
 
 ### Associated types
 
 | Type (code) | [Slots](/events#slots) | Budget | Description |
 | --- | --- | --- | --- |
 | [Privacy Corner](https://github.com/web3privacy/privacy-corner) (`c`) | - | $3-10k | pop-up space inside of major hackathons |
-| Congress (`x`) | - | ? | W3PN governance gathering |
+| [Meta-hackathon](#meta-hackathon) (`q`) | *variable* | $15-30k | a multi-day event focused on W3PN activities |
+| [Congress](/congress) (`x`) | - | ? | W3PN governance gathering |
 
 ## Details of types
 
@@ -44,3 +45,7 @@ A hackathon is usually a multi-day event focused on creation. What makes it diff
 A Hackathon is usually accompanied by one or more Meetups, or possibly a Summit.
 
 The number of slots at the hackathon is very flexible.
+
+### Meta-hackathon
+
+The meta-hackathon is a multi-day event focused purely on building and expanding Web3Privacy Now activities.
