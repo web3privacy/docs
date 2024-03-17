@@ -1,5 +1,5 @@
 ---
-title: Governance overview
+title: Governance
 ---
 
 In this section you will find a detailed description of how *Web3Privacy Now* governance works.
