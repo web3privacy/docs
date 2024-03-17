@@ -12,7 +12,7 @@ export default defineConfig({
 				twitter: 'https://twitter.com/web3privacy',
 			},
 			logo: {
-				src: './public/logo.svg',
+				src: './public/logo.png',
 				replacesTitle: true
 			},
 			editLink: {
