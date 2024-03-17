@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+title: Program formats
+sidebar:
+    order: 4
 ---
-
-# Program formats
 
 At each event, the program is made up of [slots](/events#slots) that are filled with different formats.
 

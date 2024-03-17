@@ -1,4 +1,6 @@
-# Privacy Use-Cases DB
+---
+title: Privacy Use-Cases DB
+---
 
 Ideas & references for privacy builders
 

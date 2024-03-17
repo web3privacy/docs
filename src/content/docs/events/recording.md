@@ -1,4 +1,6 @@
-# Recording setup
+---
+title: Recording setup
+---
 
 All content at our events is recorded (unless stated otherwise).
 

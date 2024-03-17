@@ -1,4 +1,6 @@
-# Call for Proposals (CfP)
+---
+title: Call for Proposals (CfP)
+---
 
 Our [events](/events/) are open to all privacy enthusiasts.
 

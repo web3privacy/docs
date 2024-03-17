@@ -1,5 +1,8 @@
 ---
 title: Research
+sidebar:
+    order: 0
+    label: Research introduction
 ---
 
 W3PN research branch fills the gap within the market knowledge + makes data free & public forever (not locked within web3 analytical services).

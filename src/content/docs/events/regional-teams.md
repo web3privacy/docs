@@ -1,8 +1,6 @@
 ---
-sidebar_position: 4
+title: Regional teams
 ---
-
-# Regional teams
 
 The regional team is responsible for organising [events](/events) in a [specific region](/events#regions) (e.g. Europe, LATAM, etc.).
 

@@ -1,8 +1,6 @@
 ---
-sidebar_label: Week in the Privacy
+title: Week in the Privacy News
 ---
-
-# Week in the Privacy News
 
 | Lead | Links | Workgroup |
 | --- | --- | --- |

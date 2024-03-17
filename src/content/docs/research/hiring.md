@@ -1,4 +1,6 @@
-# Privacy Projects Hiring
+---
+title: Privacy Projects Hiring
+---
 
 **Goal**: create one-point-of-entry to privacy jobs market - allocate all existing vacancies & companies
 

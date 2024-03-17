@@ -1,4 +1,6 @@
-# Privacy Annual Report
+---
+title: Privacy Annual Report
+---
 
 Following our [Privacy Market Overview](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf) (Jan 2023) we intend to produce a comprehensive report to showcase all happenings and achievements of the year. This will consist in structuring the overall picture of the web3-privacy market and exploring hundreds of independent companies - and their connections - with the potential for unity and collaboration.  
 

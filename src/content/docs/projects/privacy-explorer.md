@@ -6,7 +6,7 @@ title: Privacy Explorer
 
 Live demo [here](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
 
-![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Explorer%20platform%20overview.png?raw=true)
+![alt text](../assets/explorer-platform-overview.png)
 
 Despite the foundational role that privacy is meant to play in shaping Web3, genuinely impactful initiatives remain scarce. Many projects leverage the concept of privacy as a buzzword or for public relations advantage, rather than addressing tangible issues or enacting substantial changes at the infrastructural and transactional level.
 
@@ -36,67 +36,67 @@ That's why a ranking system of all privacy-related projects in the Web3 could he
 - Back critical privacy stack
 
 ## About the Scoring Mechanism
-![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Product%20features.png?raw=true)
+![alt text](../assets/explorer-product-features.png)
 
 **Quick preview module**
 
 _Value_: rapid snapshot of the privacy readiness
 
-![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Quick%20previes%20block.png?raw=true)
+![alt text](../assets/explorer-quick-preview.png)
 
 **Filtering module**
 
 _Value_: match projects within your search or use-case (filter "zk", "stealth addresses", "Ethereum" etc)
 
-![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Filtering%20module.png?raw=true)
+![alt text](../assets/explorer-filtering-module.png)
 
 **Ranking module**
 
 _Value_: explore the most secure projects within category
 
-![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Ranking%20module.png?raw=true)
+![alt text](../assets/explorer-ranking-module.png)
 
 **Activity module**
 
 _Value_: explore latest updates from the product-readiness to the GitHub activity
 
-![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Activity%20block.png?raw=true)
+![alt text](../assets/explorer-activity-block.png)
 
 **Team module**
 
 _Value_: explore team, it's reputation (historical privacy track record per person)
 
-![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Team%20block.png?raw=true)
+![alt text](../assets/explorer-team-block.png)
 
 **Privacy features module**
 
 _Value_: explore key privacy features & practices from the data collection to compliance-readiness
 
-![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Privacy%20features%20block.png?raw=true)
+![alt text](../assets/explorer-privacy-features.png)
 
 **Funding module**
 
 _Value_: find out about funding behind the project (VCs, donations, crowdloans)
 
-![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Funding%20block.png?raw=true)
+![alt text](../assets/explorer-funding-block.png)
 
 **Recommendations module**
 
 _Value_: explore similar services matching your search or use-case
 
-![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Recommendations%20block.png?raw=true)
+![alt text](../assets/explorer-recommendations-block.png)
 
 **Reviews module**
 
 _Value_: explore or contribute with the transparent feedback by the community
 
-![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Reviews%20block.png?raw=true)
+![alt text](../assets/explorer-reviews-block.png)
 
 **Additional features**
 
 _We plan to include more modules from guides & checklists to academy & available jos in privacy_
 
-![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Additional%20product%20features.png?raw=true)
+![alt text](../assets/explorer-additional-product-features.png)
 
 ## References:
 - [l2beat](https://l2beat.com/scaling/risk)

@@ -1,9 +1,9 @@
 ---
-sidebar_position: 1
-sidebar_label: Events Introduction
+title: Events
+sidebar:
+  label: Events introduction
+  order: 1
 ---
-
-# Events
 
 | Lead | Links | Workgroup |
 | --- | --- | --- |
@@ -19,9 +19,7 @@ We aim to produce high quality events that bring a very similar atmosphere and c
 
 * [web3privacy.info/events](https://web3privacy.info/events)
 
-import EventListScreen from '../assets/events-list.png';
-
-<a href="https://web3privacy.info/events"><img src={EventListScreen} width="75%" /></a>
+<a href="https://web3privacy.info/events">![](../assets/events-list.png)</a>
 
 ## Structured data source
 
@@ -113,7 +111,7 @@ We divide events into different types according to their length and purpose.
 
 Example: *Summit, Meetup, Hackathon* etc.
 
-[List of event types →](./types)
+[List of event types →](/events/types)
 
 ## Slots
 

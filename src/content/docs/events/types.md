@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+title: Event types
+sidebar:
+    order: 3
 ---
-
-# Event types
 
 We divide events into the following types according to their length and goal:
 

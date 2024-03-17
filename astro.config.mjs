@@ -15,13 +15,18 @@ export default defineConfig({
 				src: './public/logo.svg',
 				replacesTitle: true
 			},
+			editLink: {
+				baseUrl: 'https://github.com/web3privacy/docs/tree/main/',
+			},
+			lastUpdated: true,
+			favicon: '/favicon.ico',
 			customCss: [
 				'./src/styles/custom.css'
 			],
 			sidebar: [
 				{ label: 'Introduction', link: '/' },
 				{
-					label: 'About Web3Privacy Now',
+					label: 'About us',
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Manifesto', link: '/manifesto' },
@@ -35,24 +40,27 @@ export default defineConfig({
 					label: 'Projects',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Research', link: '/research' },
-						{ label: 'Privacy Explorer', link: '/projects/privacy-explorer' },
+						{
+							label: '🔬 Research',
+							collapsed: true,
+							autogenerate: { directory: 'research' },
+						},
+						{
+							label: '📅 Events',
+							collapsed: true,
+							autogenerate: { directory: 'events' },
+						},
+						{ label: '👁️ Privacy Explorer', link: '/projects/privacy-explorer' },
+						{ label: '📰 Week in the Privacy', link: '/news/week-in-the-privacy' },
+						{ label: '🏆 Privacy Tech Awards', link: '/projects/privacy-tech-awards' },
 					],
 				},
-				{
+				/*{
 					label: 'Future concepts',
 					items: [
 						{ label: 'Privacy Tech Awards', link: '/projects/privacy-tech-awards' }
 					]
-				},
-				{
-					label: 'Tools',
-					items: [
-						{ label: 'Git repositories', link: '/git' },
-						{ label: 'Communication tools', link: '/communication' },
-						{ label: 'Workgroups', link: '/workgroups' }
-					]
-				},
+				},*/
 				{
 					label: 'Community',
 					items: [
@@ -68,6 +76,14 @@ export default defineConfig({
 						},
 						{ label: 'Donate', link: '/donate' },
 						{ label: 'Code of conduct', link: '/code-of-conduct' },
+					]
+				},
+				{
+					label: 'Tools',
+					items: [
+						{ label: 'Git repositories', link: '/git' },
+						{ label: 'Communication tools', link: '/communication' },
+						{ label: 'Workgroups', link: '/workgroups' }
 					]
 				},
 				{

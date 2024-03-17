@@ -1,3 +1,7 @@
+---
+title: Scoring model
+---
+
 | Research | Info | Link |
 | ------------- | ------------- | ------------- |
 | Scoring model for privacy-services attestation | _Research aimed to find out dark patterns in privacy, create comprehensive scoring model to test privacy claims on behalf of the projects_ Supported by Ethereum Foundation, Mask Network. | [link](https://github.com/web3privacy/explorer/blob/main/Research.md#scoring-model) |

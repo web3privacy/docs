@@ -1,4 +1,6 @@
-# Pagency Framework for private use-case ideation
+---
+title: Pagency Framework for private use-case ideation
+---
 
 **Pagency framework** is a tool to facilitate impactful privacy-enhancing ideas & raise privacy culture in web3.
 
