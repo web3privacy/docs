@@ -55,18 +55,12 @@ export default defineConfig({
 						{ label: '🏆 Privacy Tech Awards', link: '/projects/privacy-tech-awards' },
 					],
 				},
-				/*{
-					label: 'Future concepts',
-					items: [
-						{ label: 'Privacy Tech Awards', link: '/projects/privacy-tech-awards' }
-					]
-				},*/
 				{
 					label: 'Community',
 					items: [
 						{ label: 'Follow us', link: '/follow-us' },
 						{ label: 'Get involved', link: '/get-involved' },
-						{ label: 'Contributors guide', link: '/contributors' },
+						{ label: 'Donate', link: '/donate' },
 						{
 							label: 'Membership',
 							link: '/membership',
@@ -74,16 +68,31 @@ export default defineConfig({
 								{ label: 'Personal benefits', link: '/membership/personal-benefits' }
 							]
 						},
-						{ label: 'Donate', link: '/donate' },
+						{ label: 'Communication tools', link: '/communication' },
 						{ label: 'Code of conduct', link: '/code-of-conduct' },
 					]
 				},
 				{
-					label: 'Tools',
+					label: 'For contributors',
 					items: [
+						{ label: 'Contributors guide', link: '/contributors' },			
+						{ label: 'Workgroups', link: '/workgroups' },
 						{ label: 'Git repositories', link: '/git' },
-						{ label: 'Communication tools', link: '/communication' },
-						{ label: 'Workgroups', link: '/workgroups' }
+					]
+				},
+				{
+					label: 'Shared resources',
+					collapsed: true,
+					badge: { text: 'wip' },
+					items: [
+						{ label: 'Developers', link: '/resources/developers' },
+						{ label: 'Community outreach', link: '/resources/outreach' },
+						{ label: 'Funding', link: '/resources/funding' },
+						{ label: 'Design', link: '/resources/design' },
+						{ label: 'IT Infrastructure', link: '/resources/it-infrastructure' },
+						{ label: 'Partners', link: '/resources/partners' },
+						{ label: 'Training and Education', link: '/resources/training-education' },
+						{ label: 'Legal assistance', link: '/resources/legal-assistance' },
 					]
 				},
 				{
@@ -93,6 +102,7 @@ export default defineConfig({
 						{ label: 'Congress', link: '/congress' },
 						{ label: 'Core Team', link: '/core-team' },
 						{ label: 'Association', link: '/association' },
+						{ label: 'Treasury', link: '/treasury' },
 						{ label: 'Contributors Guild', link: '/guild' },
 					]
 				}

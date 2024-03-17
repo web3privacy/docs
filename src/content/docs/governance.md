@@ -19,6 +19,7 @@ In this section you will find a detailed description of how *Web3Privacy Now* go
 
 | Name | Purpose | Control |
 | --- | --- | --- |
+| [Treasury](/treasury) | funds management | [Core Team](/core-team) |
 | [Contributors Guild](/guild) | group of members receiving incentives | [Association](/association) |
 | Marketing & Outreach | marketing and social networks | autonomous |
 | Partnerships | recruitment of new (organizational) members | autonomous | 

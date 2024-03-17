@@ -4,7 +4,9 @@ title: Association
 
 :::note
 
-We are [currently working](https://github.com/web3privacy/association) on the creation of this association. The likely date of establishment is March 2024.
+We are [currently working](https://github.com/web3privacy/association) on the creation of this association.
+
+The likely date of establishment is April 2024.
 
 :::
 
