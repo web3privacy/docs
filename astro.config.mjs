@@ -37,19 +37,19 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Projects',
+					label: '🔬 Research',
+					collapsed: true,
+					autogenerate: { directory: 'research' },
+				},
+				{
+					label: '📅 Events',
+					collapsed: true,
+					autogenerate: { directory: 'events' },
+				},
+				{
+					label: 'Other projects',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{
-							label: '🔬 Research',
-							collapsed: true,
-							autogenerate: { directory: 'research' },
-						},
-						{
-							label: '📅 Events',
-							collapsed: true,
-							autogenerate: { directory: 'events' },
-						},
 						{ label: '👁️ Privacy Explorer', link: '/projects/privacy-explorer' },
 						{ label: '📰 Week in the Privacy', link: '/news/week-in-the-privacy' },
 						{ label: '🏆 Privacy Tech Awards', link: '/projects/privacy-tech-awards' },
