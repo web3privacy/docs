@@ -3,6 +3,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://docs.web3privacy.info',
 	integrations: [
 		starlight({
 			title: 'Web3Privacy Now Docs',
@@ -11,9 +12,12 @@ export default defineConfig({
 				twitter: 'https://twitter.com/web3privacy',
 			},
 			logo: {
-				src: './public/logo.png',
+				src: './public/logo.svg',
 				replacesTitle: true
 			},
+			customCss: [
+				'./src/styles/custom.css'
+			],
 			sidebar: [
 				{ label: 'Introduction', link: '/' },
 				{
