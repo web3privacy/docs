@@ -12,8 +12,17 @@ We are developing a transparent grant system that will serve as the main way to 
 * operating costs
 * marketing and promotional expenses
 
-## Funding Requests (FR)
+The subject of the funding request cannot be the direct payment of contributors - for these purposes it is necessary to become a member of the [Contributors Guild](/guild).
 
-Funding requests is a transparent application process to receive money from our [Treasury](/treasury).
+## Funding Requests
+
+*Funding Request Proposals* (FRPs) is a transparent application process to receive money from our [Treasury](/treasury). Most of our income is redistributed through these applications.
+
+Each application will be assessed by members of the [Core Team](/core-team), according to whose decision it will be accepted or rejected.
 
 All funding requests are handled through Issues in the [`@web3privacy/funding`](https://github.com/web3privacy/funding) repository.
+
+### Proposal requirements
+* the amount required
+* the purpose for which the funds will be used
+* the person or group of people responsible
