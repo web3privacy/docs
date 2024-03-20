@@ -26,17 +26,12 @@ _Important purpose_:
 ## Homework
 1. [Privacy services DB](https://github.com/web3privacy/explorer). We have the majority of the Ethereum-related projects in our database (need to actualize the data).
 2. [Extensive Privacy project profile](https://github.com/web3privacy/explorer). Currently we are building platform that will feature detailed privacy project profile from on-chain data to funding. It will be used a source of data inputs to the research.
-
-## Timing: 7 weeks
-### Budget: 8,000 USD
+3. [Hackathon use-cases DB](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Ethereum%20Ecosystem/Hackathon%20projects.md)
 
 ### Milestones
 
 ### 1. Preliminary research
 Purpose: assemble raw market data (authonomously & through one-on-one interviews with experts) + create separate Ethereum-centric DD.md based on our [Privacy projects DB](https://github.com/web3privacy/web3privacy): [Ethereum Privacy DB repo](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Ethereum%20Ecosystem/Readme.md)
-
-- Timing: 2 weeks
-- Budget: 3,000 USD
 
 | Result  | Description |
 | ------------- | ------------- |
@@ -47,9 +42,6 @@ Purpose: collect detailed data on every project from the links to the product-re
 
 Active research, collaboration with PSE team, one-on-one interviews from Railgun_ to Aztec, feedback loop from Ethereum protocol team to ETH pro-privacy hackathons teams.
 
-- Timing: 3 weeks
-- Budget: 3,000 USD
-
 ### Tasks
 
 | Result  | Description |
@@ -59,8 +51,6 @@ Active research, collaboration with PSE team, one-on-one interviews from Railgun
 | Community engagement | Web3privacy community engagement: public call to contribution, the latest data sharing etc |
 
 ### 3. Design, copy & publishing
-- Timing: 2 weeks
-- Budget: 2,000 USD
 
 | Result  | Description |
 | ------------- | ------------- |
