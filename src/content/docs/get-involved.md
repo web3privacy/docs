@@ -8,8 +8,8 @@ Despite the foundational role that privacy is meant to play in shaping Web3, gen
 Many projects leverage the concept of privacy as a buzzword or for public relations advantage, rather than addressing tangible issues or enacting substantial changes at the infrastructural and transactional level.
 
 Our ultimate goal is to empower individuals to take control of their digital privacy through the Web3 stack by:
-1. building practical tools and spreading knowledge (research, infographics, guidelines, academy...)
-2. gathering people (from hacktivists to policymakers, from philosophers to founders...), and facilitating understanding and collaboration
++ building practical tools and spreading knowledge (research, infographics, guidelines, academy...)
++ gathering people (from hacktivists to policymakers, from philosophers to founders...), and facilitating understanding and collaboration
 
 We envision a world where privacy is a conscious, actively chosen lifestyle, accessible to everyone, everywhere.
 
