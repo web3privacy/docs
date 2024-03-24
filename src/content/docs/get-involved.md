@@ -32,7 +32,8 @@ _Help us to stay distributed and independent so to constantly scale our impact o
 ⎆ [Give Grant](https://docs.web3privacy.info/funding-requests)
 _We are dedicated to continuous R&D of privacy tools, actively seeking new funds to further market maturity and aim to introduce 1 million people to the world of Web3 privacy._
 
-### How you can practically help and become a Core Contributor:
+
+### Some directions you can follow to become a Core Contributor:
 
 **Developers**
 - _Web developer: help us iterating our [Website](https://web3privacy.info/) and [Privacy Explorer](https://docs.web3privacy.info/projects/privacy-projects-ranking)._
