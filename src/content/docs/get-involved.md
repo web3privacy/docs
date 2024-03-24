@@ -17,6 +17,7 @@ Our ultimate goal is to empower individuals to take control of their digital pri
 You can contribute towards the ecosystem in a million different ways, and there is no way we could make processes for all of these contributions. Nor would we want to! However, getting from 0 to 1 is the hardest step. So we have made a few ways to get you up to speed.
 
 ⎆ [Enter the Community](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhABUP9wOCxQoDFWpJchERkm) 
+
 _Use our tools & research, share your ideas and perspective, join conversations and help each other to make better questions, attend and enjoy our events!_
 
 ⎆ [Donate](https://docs.web3privacy.info/donate) 
@@ -27,9 +28,6 @@ _We are dedicated to continuous R&D of privacy tools, actively seeking new funds
 
 ⎆ [Become a Contributor](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhABUP9wOCxQoDFWpJchERkm) 
 _Co-edit research and publications, update project's data throught pull requests, give us structured feedbacks, volunteer at events. Join our [Signal chat](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhABUP9wOCxQoDFWpJchERkm) and reach out to [PG](https://twitter.com/PG_CDG) for precise instructions_
-
-
-**Some directions you can follow to become a Contributor:**
 
 **Developers**
 - _Web developer: help us iterating our [Website](https://web3privacy.info/) and [Privacy Explorer](https://docs.web3privacy.info/projects/privacy-projects-ranking)._
