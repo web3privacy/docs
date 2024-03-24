@@ -29,8 +29,8 @@ _We are dedicated to continuous R&D of privacy tools, actively seeking new funds
 _Co-edit research and publications, update project's data throught pull requests, give us structured feedbacks, volunteer at events. Join our [Signal chat](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhABUP9wOCxQoDFWpJchERkm) and reach out to [PG](https://twitter.com/PG_CDG) for precise instructions_
 
 
-### Some directions you can follow to become a Contributor:
-
+**Some directions you can follow to become a Contributor:
+**
 **Developers**
 - _Web developer: help us iterating our [Website](https://web3privacy.info/) and [Privacy Explorer](https://docs.web3privacy.info/projects/privacy-projects-ranking)._
 - _web3-privacy stack expert: join us developing practical guidelines for the builders, and improving the new Privacy Playbook for techies!_
