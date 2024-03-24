@@ -7,7 +7,7 @@ title: Get involved
 Despite the foundational role that privacy is meant to play in shaping Web3, genuinely impactful initiatives remain scarce. 
 Many projects leverage the concept of privacy as a buzzword or for public relations advantage, rather than addressing tangible issues or enacting substantial changes at the infrastructural and transactional level.
 
-Our aim is to change this by building practical tools, reserach and guidelines.
+Our aim is to change this by building practical tools, gathering IRL people who care about digital privacy, delivering reserach and guidelines.
 
 ### ✧ Why & How
 
