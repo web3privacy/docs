@@ -11,7 +11,7 @@ Our ultimate goal is to empower individuals to take control of their digital pri
 + building practical tools and spreading knowledge (research, infographics, guidelines, academy...)
 + gathering people (from hacktivists to policymakers, from philosophers to founders...), and facilitating understanding and collaboration
 
-We envision a world where privacy is a conscious, actively chosen lifestyle, accessible to everyone, everywhere.
+### We envision a world where privacy is a conscious, actively chosen lifestyle, accessible to everyone, everywhere.
 
 # Join Us!
 You can contribute towards the ecosystem in a million different ways, and there is no way we could make processes for all of these contributions. Nor would we want to! However, getting from 0 to 1 is the hardest step. So we have made a few ways to get you up to speed.
