@@ -32,22 +32,22 @@ _We are dedicated to continuous R&D of privacy tools, actively seeking new funds
 
 _Co-edit research and publications, update project's data throught pull requests, give us structured feedbacks, volunteer at events. Join our [Signal chat](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhABUP9wOCxQoDFWpJchERkm) and reach out to [PG](https://twitter.com/PG_CDG) for precise instructions._
 
-**✧Developers**
+**✧ Developers**
 - _Web developer: help us iterating our [Website](https://web3privacy.info/) and [Privacy Explorer](https://docs.web3privacy.info/projects/privacy-projects-ranking)._
 - _web3-privacy stack expert: join us developing practical guidelines for the builders, and improving the new Privacy Playbook for techies!_
 
-**✧Writers, Storytellers and Marketers**
+**✧ Writers, Storytellers and Marketers**
 - _If you have a talent for writing, design or visuals, reach out to [PG](https://twitter.com/PG_CDG) on [Matrix chat](https://matrix.to/#/#web3privacy:gwei.cz)! There is a lot going on, this is the fastest way to understand where you could help ATM_
 - _Help us in sharing our activities and story on [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073)_
 - _Join us in the development of this year [Annual Report](https://docs.web3privacy.info/projects/annual-report)_
 
-**✧Strategy, Research & Development**
+**✧ Strategy, Research & Development**
 - _Help us keep our web3-privacy [DB](https://github.com/web3privacy/web3privacy) the most extensive cool shit in the space with research, maintainance, and improvements. For details and examples check 📖 Contributor guide below._
 
-**✧Data & Analytics**
+**✧ Data & Analytics**
 - _Data Analyst: help us updating and managing our JSON [db](https://data.web3privacy.info/) to foster [Privacy Explorer](https://docs.web3privacy.info/projects/privacy-projects-ranking). For more details have a look at 'contributors guide section below'._
 
-**✧Founders, Ambassadors and Advocates of web3-privacy Projects**
+**✧ Founders, Ambassadors and Advocates of web3-privacy Projects**
 - _Help us keep up with your latest updates and get visibility: elevate your project's profile by updating your data [here](https://github.com/web3privacy/web3privacy)! For more details have a look at 'contributors guide section below'._
 
 
