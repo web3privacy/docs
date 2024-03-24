@@ -2,17 +2,18 @@
 title: Get involved
 ---
 
-## _You wish to be part of W3PN Ecosystem?? Let’s make sure we are on the same page about what our work is all about._
+## _You wish to be part of W3PN Ecosystem?? 
+## Let’s make sure we are on the same page about what our work is all about._
 
 Despite the foundational role that privacy is meant to play in shaping Web3, genuinely impactful initiatives remain scarce. Many projects leverage the concept of privacy as a buzzword or for public relations advantage, rather than addressing tangible issues or enacting substantial changes at the infrastructural and transactional level.
 
 We aim to change this by building practical tools, reserach and guidelines.
 
-### Our Ultimate Goal: Pioneering Privacy in the web3 era.
+### ✧ Our Ultimate Goal: Pioneering Privacy in the web3 era.
 Empowering individuals to take control of their digital privacy through the Web3 stack.
 We envision a world where privacy is a conscious, actively chosen lifestyle, accessible to everyone, everywhere.
 
-### Why & How
+### ✧ Why & How
 In the digital age, privacy is not just a priority but a fundamental human right.
 
 Our diverse array of research, projects and tools are fueled by people who care about digital privacy, and we aim to maintain this authenticity through your continued support and the vibrant help of all those people who care about Privacy - the community.
