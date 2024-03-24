@@ -7,17 +7,10 @@ title: Get involved
 Despite the foundational role that privacy is meant to play in shaping Web3, genuinely impactful initiatives remain scarce. 
 Many projects leverage the concept of privacy as a buzzword or for public relations advantage, rather than addressing tangible issues or enacting substantial changes at the infrastructural and transactional level.
 
-Our aim is to change this by building practical tools, gathering IRL people who care about digital privacy, delivering reserach and guidelines.
+Our ultimate goal is to empower individuals to take control of their digital privacy through the Web3 stack by:
+1. building practical tools and spreading knowledge (research, infographics, guidelines, academy...)
+2. gathering people (from hacktivists to policymakers, from philosophers to founders...), and facilitating understanding and collaboration
 
-### ✧ Why & How
-
-In the digital age, privacy is not just a priority but a fundamental human right.
-
-Our diverse array of research, projects and tools are fueled by people who care about digital privacy, and we aim to maintain this authenticity through your continued support and the vibrant help of all those people who care about Privacy - the community.
-
-### ✧ Our Ultimate Goal: Pioneering Privacy in the web3 era.
-
-Empowering individuals to take control of their digital privacy through the Web3 stack.
 We envision a world where privacy is a conscious, actively chosen lifestyle, accessible to everyone, everywhere.
 
 # Join Us!
@@ -26,17 +19,17 @@ You can contribute towards the ecosystem in a million different ways, and there 
 ⎆ [Enter the Community](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhABUP9wOCxQoDFWpJchERkm) 
 _Use our tools & research, share your ideas and perspective, join conversations and help each other to make better questions, attend and enjoy our events!_
 
-⎆ [Become a Contributor](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhABUP9wOCxQoDFWpJchERkm) 
-_Co-edit research and publications, update project's data throught pull requests, give us structured feedbacks, volunteer at events. Join our [Signal chat](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhABUP9wOCxQoDFWpJchERkm) and reach out to [PG](https://twitter.com/PG_CDG) for precise instructions_
-
 ⎆ [Donate](https://docs.web3privacy.info/donate) 
 _Help us to stay distributed and independent so to constantly scale our impact on the state of the web3 privacy._
 
 ⎆ [Give Grant](https://docs.web3privacy.info/funding-requests)
 _We are dedicated to continuous R&D of privacy tools, actively seeking new funds to further market maturity and aim to introduce 1 million people to the world of Web3 privacy._
 
+⎆ [Become a Contributor](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhABUP9wOCxQoDFWpJchERkm) 
+_Co-edit research and publications, update project's data throught pull requests, give us structured feedbacks, volunteer at events. Join our [Signal chat](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhABUP9wOCxQoDFWpJchERkm) and reach out to [PG](https://twitter.com/PG_CDG) for precise instructions_
 
-### Some directions you can follow to become a Core Contributor:
+
+### Some directions you can follow to become a Contributor:
 
 **Developers**
 - _Web developer: help us iterating our [Website](https://web3privacy.info/) and [Privacy Explorer](https://docs.web3privacy.info/projects/privacy-projects-ranking)._
@@ -48,7 +41,7 @@ _We are dedicated to continuous R&D of privacy tools, actively seeking new funds
 - _Join us in the development of this year [Annual Report](https://docs.web3privacy.info/projects/annual-report)_
 
 **Strategy, Research & Development**
-- _Help us keep our web3-privacy [DB](https://github.com/web3privacy/web3privacy) the most extensive cool shit in the space with research, maintainance, and improvements._
+- _Help us keep our web3-privacy [DB](https://github.com/web3privacy/web3privacy) the most extensive cool shit in the space with research, maintainance, and improvements. For details and examples check 📖 Contributor guide below._
 
 **Data & Analytics**
 - _Data Analyst: help us updating and managing our JSON [db](https://data.web3privacy.info/) to foster [Privacy Explorer](https://docs.web3privacy.info/projects/privacy-projects-ranking). For more details have a look at 'contributors guide section below'._
@@ -63,7 +56,7 @@ _We are dedicated to continuous R&D of privacy tools, actively seeking new funds
 _Maintaining privacy services database example: PR at GitHub_
 
 ### actualization
-_goal_: up to date information in the database
+_goal_: up to date info in the database
 _algorhithm_:
 1. Open database https://github.com/web3privacy/web3privacy
 2. Pick up a category (from DeFi to Infrastructure)
