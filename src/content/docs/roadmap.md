@@ -4,6 +4,16 @@ title: Roadmap
 
 Here you can find a high-level overview of what we are planning for the future.
 
+## 2024 Goals
+
+**major** → #1 Privacy-centric think tank behind critical advocacy ecosystem 
+
+_via_
+1. Launch “l2beat for privacy” aka Explorer, the biggest privacy-services DB, privacy reports & researches, essential summits & meetups.
+2. Hit 10M annual reach (socials, media, events).
+3. Incl 2000 events visitors.
+4. Scale to 50 contributors (beyond core team)
+
 ## Current projects
 
 | | 2024 Roadmap |
