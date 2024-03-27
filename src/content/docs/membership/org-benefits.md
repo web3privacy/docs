@@ -103,7 +103,7 @@ We are happy to help all members find capable staff through the media channels w
 * Posting your job offer on our X/Twitter feed (limited, only Tier I + II)
 
 
-#Tiers
+# Tiers
 
 - Membership fee: 7K - 40K EUR / year (depends on tier)
 
