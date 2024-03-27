@@ -4,6 +4,13 @@ title: Benefits for Organizations
 
 Here you will find a detailed description of the benefits of membership for organisations.
 
+Instead of proposing partnership agreements for every event and/or initiative, we are implementing a continuous and flexible membership approach. 
+This will:
+
+1. Help to meet our respective specific and market needs
+2. Avoid wasting time and resources. 
+3. Guarantee visibility and services by leveraging all our ecosystem and activities, and to structure a common growth path.
+
 ![sponsor-13](https://github.com/web3privacy/docs/assets/101947219/25e571c1-1f94-4f59-ad7a-a163df11da13)
 
 ## General benefits
@@ -96,13 +103,12 @@ We are happy to help all members find capable staff through the media channels w
 * Posting your job offer on our X/Twitter feed (limited, only Tier I + II)
 
 
-| Tier | Membership fee* | Benefits |
-| --- | --- | --- |
-| **Tier III: Privacy loves company**<br/>(10%) | **7K EUR**<br/>| • **Growth**:<br/>• Socials: min presence (acknowledgement, partnership, minor citations)<br/>• Website: logo<br/>•Special projects (#privacyproof, #personalprivacy etc): minor presence (posts)<br/>•**Research**:<br/>• Collaboration: basic<br/>• Place within the research: basic<br/>• Publications: min presence (logo, citation)<br/>•**Extra**:<br/>•1x personal membership (1x ticket for every event)<br/>•special group for company members<br/>• tax optimisation (via donation method, if aplicable)<br/> |
-| **Tier II:Together we are stronger**<br/>(50%) | **20k EUR** | • Growth: <br /> • Socials: mid presence (acknowledgement, partnership, citations)<br/>• Website: logo + free job listing<br/>• Newsletter: min presence (key news)<br/>• Special projects: (#privacyproof, #personalprivacy…) mid presence<br/>• Events:<br/>• Participants: 3x tickets<br/>•  Speaker: mid-priority<br/>•  Promo (branding): mid<br/>• Research:<br/>• Articles: citation<br/>•  Collaboration: min<br/>•  Place within the research: mid <br/>• Joint announcements: in your socials<br/>• Publications: mid presence (logo, citation)<br/>• Explorer:<br/>• Benchmarking: min<br/>• Educational collab: we include guides&guidelines you produce within 1 category<br/>•  Extra:<br/>• Tax optimisation (via donation method, if aplicable)<br/>• 3x personal membership (incl. tickets to Events)<br/>• free job listing on our newsletter<br/>•  special group for company members<br/> |
-| **Tier I:Scalability matters**<br/>(100%) | **30k EUR** | Growth:<br />• Socials: hi presence (acknowledgement, partnership, citations)<br />• Website: logo + free job listing<br />• Newsletter: mid presence (news)<br />• Special projects (#privacyproof, #personalprivacy etc) hi presence <br />• Events: <br />• Participants: 5x tickets <br />• Speaker: priority <br />• Promo (branding): hi<br />• Hackathon: min role <br />• Research: <br />• Articles: tailor made on your specific needs (max 1) <br />• Collaboration: hi<br />• Place within the research: hi (visual, insights, use-cases focus etc)<br />• Joint announcements: in our socials<br />• Publications: hi presence (logo, citation) <br />• Explorer:<br />• Highlight: yes<br />• Benchmarking: hi (we feature your service/product in every benchmark)<br />• Educational collab: we include guides and guidelines of your production (with our support) within category of your interest <br />• Thought leadership: hi (expert takes, project snapshots in socials)<br />• Academy:<br />• Feature your experts opinion and content <br />• Extra:<br />• Tax optimisation (via donation method, if aplicable)<br />• 5x personal membership (incl. tickets to Events) <br />• free job listing on our newsletter and socials<br />• special group for company members<br />• insights on the market evolution<br />• access to special members-only events |
-| **Tier I:GOAT privacy**<br/>(100%) | **40k EUR** | • Growth:<br />• Socials: hi presence (acknowledgement, partnership, citations)<br />• Website: logo + free job listing<br />• Newsletter: hi presence (news)<br />• Special projects (#privacyproof, #personalprivacy etc): hi presence (posts)<br />• Events:<br />• Participants: 10x tickets<br />• Speaker: priority<br />• Promo (branding): major <br />• Hackathon: major role <br />• a) up to 2 mentors<br />• b) better timings (schedule, priority) <br />• c) active hackers connect<br />• d) active focus from socials to event space<br />• e) post-event promo (logo, acknowledgment, interview, use-cases focus, additional photos etc<br />• Research:<br />• Articles: Tailor made on your specific needs (max 3)<br />• Collaboration: hi<br />• Place within the research: hi (visual, insights, use-cases focus etc)<br />• Joint announcements: in our socials<br />• Publications: hi presence (logo, citation)<br />• Explorer:<br />• Highlight: major<br />• Benchmarking: major (we feature your service/product in every category benchmark, ensuring top visibility)<br />• Educational collaboration: we co-produce guides&guidelines for every category of your interest<br />• Thought leadership: hi (expert takes, project snapshots in socials)<br />• Academy:<br />• Feature your experts opinion and content<br />• Guides joint production<br />• Co-develop domain-specific courses (wallet privacy 101, ethereum privacy…)<br />• Extra:<br />• Tax optimisation (via donation method, if aplicable)<br />• 10x personal membership (incl. tickets to Events)<br />• free job listing on our web & in newsletter and socials (max 15)<br />• special group for company members<br />• insights on the market evolution<br />• access to special members-only events<br /> |
+#Tiers
+
+- Membership fee: 7K - 40K EUR / year (depends on tier)
+
+- Non-profit membership fee: 1K EUR / year
+
+For Tier breakdown and details please contact [PG](https://twitter.com/PG_CDG_) or [Mykola](https://t.me/Svyaznoy911)
 
 \* Note: If you give us a donation, you are automatically entitled to a subscription discount equal to the amount you donate.
-
-For more info contact [PG](https://twitter.com/PG_CDG_) or [Mykola](https://t.me/Svyaznoy911)
