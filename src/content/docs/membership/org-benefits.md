@@ -10,11 +10,11 @@ Here you will find a detailed description of the benefits of membership for orga
 
 ### Personal membership for your people
 
-We are primarily a community initiative, based on individuals, so each membership for organisations includes a certain number of free [Personal memberships](/membership/#personal-membership) for your employees, developers or other stakeholders.
+We are primarily a community initiative, based on individuals, so each membership for organisations includes a certain number of free [ersonal memberships for your employees, developers or other stakeholders.
 
 ### Special support group for member organizations
 
-For organizations that are our members, there is a special closed chat group where representatives of individual organizations can communicate directly with our [Core Team](/core-team) or network with each other.
+For organizations that are our members, there is a special closed chat group where representatives of individual organizations can communicate directly with our Core Team or network with each other.
 
 ## Value we can deliver
 
@@ -106,5 +106,3 @@ We are happy to help all members find capable staff through the media channels w
 \* Note: If you give us a donation, you are automatically entitled to a subscription discount equal to the amount you donate.
 
 For more info contact [PG](https://twitter.com/PG_CDG_) or [Mykola](https://t.me/Svyaznoy911)
-
-You can find a detailed description of each benefit on the [Benefits for Organisations](/membership/org-benefits) page.
