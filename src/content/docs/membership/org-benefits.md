@@ -2,7 +2,7 @@
 title: Benefits for Organizations
 ---
 
-Here you will find a detailed description of the benefits of [membership for organisations](/membership#membership-for-organizations).
+Here you will find a detailed description of the benefits of membership for organisations.
 
 ![sponsor-13](https://github.com/web3privacy/docs/assets/101947219/25e571c1-1f94-4f59-ad7a-a163df11da13)
 
@@ -16,24 +16,75 @@ We are primarily a community initiative, based on individuals, so each membershi
 
 For organizations that are our members, there is a special closed chat group where representatives of individual organizations can communicate directly with our [Core Team](/core-team) or network with each other.
 
-## Brand-highlighting benefits
+## Value we can deliver
 
-### Visibility on our website
+### **Events**
 
-Organizations whose membership is public have the option to have their logo and/or name displayed on our [website](https://web3privacy.info) in the "Members" section. The size and importance of the entry corresponds to your Tier.
+- Visibility (before, during and after) at our Summits, Meetups & Hackathons  (Logo, Merch, Talks, Workshops, Recordings)
+- Free Tickets for team and discounts for your partners
+- Finding right builders for your beta, product to test or develop
+- Recordings with your logo uploaded on W3PN YT channel
+- Speaking and mentoring opportunities
+- Panel curation based upon specific needs
+- Bigger outreach and Impact (we bring your brand, your team and developing needs around every event we attend (ETHDam, ETHRome, ETHBrno, ETHBarcelona, BlackSky…)
 
-### Visiblity at our events
+### **Research**
 
-We offer our most important members (Tier I + II) the opportunity to present their brand and raise awareness at our [events](/events/) - Summits & Hackathons.
-* Your logo on the rollups on the stage and at the entrance
-* Your logo on the projection between talks
-* Your logo on the livestream
+We carry on research delivering essays, reports, infographics, github repos, decks, guidelines
 
-### Highlighting your project in Privacy Explorer
+**Brand**
 
-If your organisation is creating a tool, service or product that is listed in our [Privacy Explorer](/projects/privacy-explorer), then as members you are entitled to have that project highlighted with a special sticker.
+- raise awareness within specific inputs (category, specs, market)
+- empower trust (product of choice, Tier1 category service, top of mind)
+- logo at the end of every report
+- use report’s results stating you are supporting privacy research (positive image)
+- underline your role in the market
 
-TODO
+**Growth**
+
+- engage target audience via using (your and others) experts opinion
+- additional marketing content from infographics to charts
+- third party validation of your specific claims (if they are attested)
+- community building content
+- priority in our publications and newsletter
+- tailor made articles based upon specific needs
+
+### **Explorer**
+
+3in1: a ranking system, database & comprehensive profiling to empower the general public in discerning the privacy levels, security, and reliability of Web3 projects.
+
+**Brand**
+
+- raise awareness within the category (gain reach)
+- increase trust by building great profile
+- improve trust by receiving a third party validation
+- visibility through benchmarks
+
+### **Product**
+
+- increase trial or generate leads by building a transparent profile
+- support your releases
+
+### **Academy**
+
+We aim to realize n.1 Academy  to educate tech and non tech people, giving all the basics about digital privacy and practical use-cases, directions…
+
+ - feature your experts opinion and content
+ - content joint production
+ - co-develop domain-specific courses (wallet privacy 101, ethereum privacy…)
+
+### **Financial**
+
+Tax optimization through donation
+
+### **Other**
+
+- organizing educational seminars for your employees, clients, target audience
+- job listings (web, newsletter, socials…)
+- we transform content you share in conferences into educational material
+- special insights on market growth and evolution
+- group for company members
+- access to special members-only events
 
 ## Other benefits
 
@@ -47,9 +98,10 @@ We are happy to help all members find capable staff through the media channels w
 
 | Tier | Membership fee* | Benefits |
 | --- | --- | --- |
-| **Tier III**<br/>(10%) | **?? EUR**<br/>non-profits: ?? EUR | • 1x personal membership (incl. tickets to Events)<br />• visibility on our web<br />• free job listing on our web<br />• highlighting a member project in Privacy Explorer<br />• special group for member organizations |
-| **Tier II**<br/>(50%) | **?? EUR** | • 3x personal membership (incl. tickets to Events)<br/>• visibility on our web<br/>• visibility at our events (Summits)<br/>• job listing on our web & in newsletter and socials (max 1)<br/>• highlighting a member project in Privacy Explorer<br/>• special group for member organizations |
-| **Tier I**<br/>(100%) | **?? EUR** | • 5x personal membership (incl. tickets to Events)<br/>• visibility on our web<br />• visibility at our events (Summits & Hackathons)<br/>• job listing on our web & in newsletter and socials (max 2)<br/>• highlighting a member project in Privacy Explorer<br/>• special group for member organizations |
+| **Tier III**<br/>(10%) | **7K EUR**<br/>non-profits: ?? EUR | Growth: • Socials: min presence (acknowledgement, partnership, minor citations)<br/>•Website: logo<br/>•Special projects (#privacyproof, #personalprivacy etc): minor presence (posts)<br/>•**Research**:<br/>•Collaboration: basic<br/>•Place within the research: basic<br/>•Publications: min presence (logo, citation)<br/>•**Extra**:<br/>•1x personal membership (1x ticket for every event)
+special group for company members<br/>•tax optimisation (via donation method, if aplicable)<br/>• |
+| **Tier II**<br/>(50%) | **20k EUR** | • 3x personal membership (incl. tickets to Events)<br/>• visibility on our web<br/>• visibility at our events (Summits)<br/>• job listing on our web & in newsletter and socials (max 1)<br/>• highlighting a member project in Privacy Explorer<br/>• special group for member organizations |
+| **Tier I**<br/>(100%) | **30k EUR** | • 5x personal membership (incl. tickets to Events)<br/>• visibility on our web<br />• visibility at our events (Summits & Hackathons)<br/>• job listing on our web & in newsletter and socials (max 2)<br/>• highlighting a member project in Privacy Explorer<br/>• special group for member organizations |
 
 \* Note: If you give us a donation, you are automatically entitled to a subscription discount equal to the amount you donate.
 
