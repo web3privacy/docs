@@ -105,4 +105,6 @@ We are happy to help all members find capable staff through the media channels w
 
 \* Note: If you give us a donation, you are automatically entitled to a subscription discount equal to the amount you donate.
 
+For more info contact [PG](https://twitter.com/PG_CDG_) or [Mykola](https://t.me/Svyaznoy911)
+
 You can find a detailed description of each benefit on the [Benefits for Organisations](/membership/org-benefits) page.
