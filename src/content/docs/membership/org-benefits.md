@@ -98,8 +98,7 @@ We are happy to help all members find capable staff through the media channels w
 
 | Tier | Membership fee* | Benefits |
 | --- | --- | --- |
-| **Tier III**<br/>(10%) | **7K EUR**<br/>non-profits: ?? EUR | Growth: • Socials: min presence (acknowledgement, partnership, minor citations)<br/>•Website: logo<br/>•Special projects (#privacyproof, #personalprivacy etc): minor presence (posts)<br/>•**Research**:<br/>•Collaboration: basic<br/>•Place within the research: basic<br/>•Publications: min presence (logo, citation)<br/>•**Extra**:<br/>•1x personal membership (1x ticket for every event)
-special group for company members<br/>•tax optimisation (via donation method, if aplicable)<br/>• |
+| **Tier III**<br/>(10%) | **7K EUR**<br/>non-profits: ?? EUR | • **Growth**:<br/>•Socials: min presence (acknowledgement, partnership, minor citations)<br/>•Website: logo<br/>•Special projects (#privacyproof, #personalprivacy etc): minor presence (posts)<br/>•**Research**:<br/>•Collaboration: basic<br/>•Place within the research: basic<br/>•Publications: min presence (logo, citation)<br/>•**Extra**:<br/>•1x personal membership (1x ticket for every event)<br/>•special group for company members<br/>•tax optimisation (via donation method, if aplicable)<br/> |
 | **Tier II**<br/>(50%) | **20k EUR** | • 3x personal membership (incl. tickets to Events)<br/>• visibility on our web<br/>• visibility at our events (Summits)<br/>• job listing on our web & in newsletter and socials (max 1)<br/>• highlighting a member project in Privacy Explorer<br/>• special group for member organizations |
 | **Tier I**<br/>(100%) | **30k EUR** | • 5x personal membership (incl. tickets to Events)<br/>• visibility on our web<br />• visibility at our events (Summits & Hackathons)<br/>• job listing on our web & in newsletter and socials (max 2)<br/>• highlighting a member project in Privacy Explorer<br/>• special group for member organizations |
 
