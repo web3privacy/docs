@@ -6,13 +6,9 @@ We persist in advocating for a development model reliant on voluntary contributi
 
 Our diverse array of research, projects development and tools production is fueled by people who care about digital privacy, and we hope to keep it real like this, with your support and vibrant help of the community.
 
-Anyone can donate ETH and ERC-20 tokens to the following addresses and networks:
+Anyone can donate ETH and ERC-20 tokens to the following address: 0xc3b5331362aF2C6c32cA22A893142e06BB1608c1
 
-| Network | Address | |
-| --- | --- | --- |
-| Ethereum (mainnet) | `0x50927852076a6c93177E25e906d706981Af9e27A` | [Etherscan](https://etherscan.io/address/0x50927852076a6c93177E25e906d706981Af9e27A) |
-| Arbitrum One | `0x50927852076a6c93177E25e906d706981Af9e27A` | [Arbiscan](https://arbiscan.io/address/0x50927852076a6c93177E25e906d706981Af9e27A) |
+<img width="165" alt="ETH Address W3PN" src="https://github.com/web3privacy/docs/assets/101947219/77aac0ac-90fe-4798-bfb9-63566fffcba4">
 
-![](./assets/donate-qr.svg)
 
-Funds sent to the above address will be held in the [Web3Privacy Now multisig](/core-team/multisig) and used to boost development of our projects.
+Funds sent to the above address will be used to boost development of our projects.
