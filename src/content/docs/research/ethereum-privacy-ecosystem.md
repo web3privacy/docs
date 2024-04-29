@@ -35,6 +35,9 @@ Purpose: assemble raw market data (authonomously & through one-on-one interviews
 | ------------- | ------------- |
 | Ethereum Privacy Ecosystem DB on Git | Separate MD for external collaborators to contribute with PRs covering projects, hackathon solions, labs, DAOs, coins, papers etc |
 
+EIPs [database](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Ethereum%20Ecosystem/R&D.md#eips-related-to-privacy)
+Cryptography ePrint archive [db](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Ethereum%20Ecosystem/R&D.md#cryptology-eprint-archive)
+
 ### 2. Deep research
 Purpose: collect detailed data on every project from the links to the product-readiness.
 
