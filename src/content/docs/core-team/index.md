@@ -22,7 +22,6 @@ Core Team members are elected by decision of the [Congress](/congress) for a ter
 | Name | GitHub | Matrix |
 | --- | --- | --- |
 | Mykola | [@msiusko](https://github.com/msiusko) | [@k1983:matrix.org](https://matrix.to/#/@k1983:matrix.org/) |
-| Tree | [@burningtree](https://github.com/burningtree) | [@tree:gwei.cz](https://matrix.to/#/@tree:gwei.cz) |
 | PG | [@EclecticSamurai](https://github.com/EclecticSamurai) | [@pg_cdg:matrix.org](https://matrix.to/#/@pg_cdg:matrix.org) |
 | Coinmandeer | [@coinmandeer](https://github.com/coinmandeer) | [@coinmandeer:matrix.org](https://matrix.to/#/@coinmandeer:matrix.org) | 
 
