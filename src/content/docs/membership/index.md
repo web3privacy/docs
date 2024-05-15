@@ -6,7 +6,7 @@ In order to become a Member of Web3Privacy Now Ecosystem:
 
 1. Submit the annual fee of 100 EUR to one of the addresses provided below.
 
-2. [Direct message us on Twitter](https://twitter.com/web3privacy) indicating your preference for a private or public membership status, along with your preferred t-shirt size (M-L-XL) 
+2. [DM us on Twitter](https://twitter.com/web3privacy) indicating your preference for a private/public membership status, along with your preferred t-shirt size (M-L-XL) 
 
 3. Done!
 
