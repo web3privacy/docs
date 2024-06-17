@@ -2,9 +2,9 @@
 title: Manifesto
 ---
 
-**Web3privacy Now** is a dynamic think-and-do-tank dedicated to advancing knowledge and collaboration. We produce insightful research and market reports, train innovators, explore groundbreaking use cases, and develop cutting-edge privacy tools and concepts.
-
 ## Our Mission: Pioneering Privacy in the Web3 Era
+
+**Web3privacy Now** is a dynamic think-and-do-tank dedicated to advancing knowledge and collaboration. We produce insightful research and market reports, train innovators, explore groundbreaking use cases, and develop cutting-edge privacy tools and concepts.
 
 ![Web3Privacy Now Manifesto](./assets/manifesto-banner.png)
 
