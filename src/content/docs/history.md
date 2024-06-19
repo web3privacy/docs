@@ -6,6 +6,12 @@ Historical track record of *Web3Privacy Now*.
 
 ## 2024
 
+### Q2 delivery
+[Mirror report](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/2X5hLw_7JcY3ifY9rv2qjo96HOcdni7DXqam9W_X6Kg)
+
+### Q1 delivery
+[Mirror report](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/Q950JaRTbcyB3A7EmVa73sBbDiy93Un8h5dShA386-s)
+
 ### January
 
 * **Research**: _Scoring model for techies update_: [GitHub](https://github.com/web3privacy/explorer/blob/main/Web3privacynowplatform/scoringmodel/Scoringmodel_techies.md)
