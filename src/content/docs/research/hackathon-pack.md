@@ -7,7 +7,7 @@ To showcase and distribute during our [events](https://lu.ma/calendar/manage/cal
 
 ## **Current idea** 
 
-**context**: we were actively participating in hackathons core at ETHRome & core at ETHDam, judging & speaking, making Privacy Corner at ETHBerlin.
+**context**: we were actively participating in hackathons core at ETHRome & core at ETHDam, judging & speaking, making [Privacy Corner](https://c24ber.web3privacy.info) at ETHBerlin.
 
 We understood that many people came into privacy after Tornado Cash case or Vitalik promoting privacy solutions & cypherpunk spirit.
 But hackers don't get privacy in the bigger context
