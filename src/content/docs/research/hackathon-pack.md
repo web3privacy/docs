@@ -7,7 +7,13 @@ To showcase and distribute during our [events](https://lu.ma/calendar/manage/cal
 
 ## **Current idea** 
 
-**context**: we were actively participating in hackathons core at ETHRome & core at ETHDam, judging & speaking, making Privacy Corner at ETHBerlin - we understood that many people came into privacy after Tornado Cash case or Vitalik promoting privacy solutions & cypherpunk spirit. But hackers don't get privacy in the bigger context (surveillance capitalism business models, centralization of knowledge, proprietary software etc).
+**context**: we were actively participating in hackathons core at ETHRome & core at ETHDam, judging & speaking, making Privacy Corner at ETHBerlin.
+
+We understood that many people came into privacy after Tornado Cash case or Vitalik promoting privacy solutions & cypherpunk spirit.
+But hackers don't get privacy in the bigger context
+- surveillance capitalism business models
+- centralization of knowledge
+- proprietary software etc.
 
 **idea**: we want to come up with "acceleration"/"incubation" umbrella helping devs to reach product-market-fit (read: long-lasting sustainability; example: Rotki, based on Gitcoin, retro grants, reputation).
 
