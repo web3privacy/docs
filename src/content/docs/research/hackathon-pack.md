@@ -22,6 +22,8 @@ But hackers don't get privacy in the bigger context
 **build sustainable privacy projects** -> turn hackathon demos into products that will stay
 **re-wire crypto funds into value alligned hands** -> match conscious devs with good mentors, grant programs etc
 
+![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/Hacker%20journey%20x%20W3PN%20aplicability2.jpg)
+
 ### **what we have**:
 - [Pagency framework](https://github.com/web3privacy/pagency) for privacy use-cases ideation: github (need to be actualized, I made it long time ago)
 - Hackathon use-case generator: [github](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/hackathon-use-cases-generator.md), [docs](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/hackathon-use-cases-generator.md)
