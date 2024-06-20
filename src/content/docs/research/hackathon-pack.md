@@ -22,9 +22,9 @@ But hackers don't get privacy in the bigger context
 **idea**: we want to come up with "acceleration"/"incubation" umbrella helping devs to reach product-market-fit (read: long-lasting sustainability; example: Rotki, based on Gitcoin, retro grants, reputation).
 
 ### goals
-**make meaningful privacy-solutions** -> so accidental in privacy people will do not a dead code
-**build sustainable privacy projects** -> turn hackathon demos into products that will stay
-**re-wire crypto funds into value alligned hands** -> match conscious devs with good mentors, grant programs etc
+- **make meaningful privacy-solutions** -> so accidental in privacy people will do not a dead code
+- **build sustainable privacy projects** -> turn hackathon demos into products that will stay
+- **re-wire crypto funds into value alligned hands** -> match conscious devs with good mentors, grant programs etc
 
 ![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/Hacker%20journey%20x%20W3PN%20aplicability2.jpg)
 _click for a hi-rez_
