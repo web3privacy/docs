@@ -2,8 +2,12 @@
 title: Hackathon Curation Pack
 ---
 
-Hacker Manuals & Privacy Guidelines to help the builders to uderstand actual issues in the market.
-To showcase and distribute during our [events](https://lu.ma/calendar/manage/cal-WJeK56sraztsiIa) worldwide.
+Hacker Manuals & Privacy Guidelines to help the builders deliver practical privacy-enhancing projects, turn them into products, & scale being sustainable.
+To showcase and distribute during privacy events worldwide.
+
+**Team**
+- Curator: [Mykola Siusko](https://github.com/Msiusko)
+- Contributors: [Guru](https://x.com/hackyguru), [Tim](https://x.com/haochizzle).
 
 ## **Current idea** 
 
@@ -23,18 +27,22 @@ But hackers don't get privacy in the bigger context
 **re-wire crypto funds into value alligned hands** -> match conscious devs with good mentors, grant programs etc
 
 ![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/Hacker%20journey%20x%20W3PN%20aplicability2.jpg)
+_click for a hi-rez_
 
 ### **what we have**:
-- [Pagency framework](https://github.com/web3privacy/pagency) for privacy use-cases ideation: github (need to be actualized, I made it long time ago)
-- Hackathon use-case generator: [github](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/hackathon-use-cases-generator.md), [docs](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/hackathon-use-cases-generator.md)
-- Privacy market DB: [Explorer](https://explorer.web3privacy.info)
+[Pagency framework](https://github.com/web3privacy/pagency) for privacy use-cases ideation
+
+![alt text](https://github.com/web3privacy/pagency/raw/main/img/Pagency%20framework%20vision.png)
+
+**Hackathon use-case generato**r: [github](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/hackathon-use-cases-generator.md), [docs](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/hackathon-use-cases-generator.md)
+![alt text]https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/privacy%20idea%20generator.png)
+
+**Privacy market DB**: [Explorer](https://explorer.web3privacy.info)
+![alt text](https://docs.web3privacy.info/_astro/explorer-platform-overview.5k7svNjL_ZYPkGB.webp)
+
 - & everything else from meetups to [summits](https://summit.web3privacy.info/), community, [job board](https://jobs.web3privacy.info), [newsletter](http://news.web3privacy.info), network of expertc etc
 
 ### **what we will do this year**
 - [privacy 101 Academy](https://github.com/web3privacy/projects/issues/8)
 - working hackathon use-case generator + [200 pre-build use-cases](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Ethereum%20Ecosystem/Hackathon%20projects.md) (both from hackathons to expert suggestions what to build)
 - not directly related to the subject (Ethereum Privacy Ecosystem report, events, expanded Explorer, skill board for people seeking jobs in privacy etc)
-
-**Team**
-- Project Manager: [Mykola Siusko](https://github.com/Msiusko)
-- R&D: [PG](https://github.com/EclecticSamurai)
