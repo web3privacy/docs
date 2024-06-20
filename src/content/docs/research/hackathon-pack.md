@@ -34,8 +34,9 @@ _click for a hi-rez_
 
 ![alt text](https://github.com/web3privacy/pagency/raw/main/img/Pagency%20framework%20vision.png)
 
-**Hackathon use-case generato**r: [github](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/hackathon-use-cases-generator.md), [docs](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/hackathon-use-cases-generator.md)
-![alt text]https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/privacy%20idea%20generator.png)
+**Hackathon use-case generator** - micro-service to generate ideas for hackathon privacy-projects + [100 pre-build use-cases](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Ethereum%20Ecosystem/Hackathon%20projects.md)
+[github](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/hackathon-use-cases-generator.md), [docs](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/hackathon-use-cases-generator.md)
+![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/privacy%20idea%20generator.png)
 
 **Privacy market DB**: [Explorer](https://explorer.web3privacy.info)
 ![alt text](https://docs.web3privacy.info/_astro/explorer-platform-overview.5k7svNjL_ZYPkGB.webp)
@@ -44,5 +45,5 @@ _click for a hi-rez_
 
 ### **what we will do this year**
 - [privacy 101 Academy](https://github.com/web3privacy/projects/issues/8)
-- working hackathon use-case generator + [200 pre-build use-cases](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Ethereum%20Ecosystem/Hackathon%20projects.md) (both from hackathons to expert suggestions what to build)
+- working hackathon use-case generator
 - not directly related to the subject (Ethereum Privacy Ecosystem report, events, expanded Explorer, skill board for people seeking jobs in privacy etc)
