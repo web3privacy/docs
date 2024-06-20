@@ -29,7 +29,7 @@ But hackers don't get privacy in the bigger context
 ![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/Hacker%20journey%20x%20W3PN%20aplicability2.jpg)
 _click for a hi-rez_
 
-### **what we have**:
+## what we have
 [Pagency framework](https://github.com/web3privacy/pagency) for privacy use-cases ideation
 
 ![alt text](https://github.com/web3privacy/pagency/raw/main/img/Pagency%20framework%20vision.png)
@@ -43,7 +43,9 @@ _click for a hi-rez_
 
 - & everything else from meetups to [summits](https://summit.web3privacy.info/), community, [job board](https://jobs.web3privacy.info), [newsletter](http://news.web3privacy.info), network of expertc etc
 
-### **what we will do this year**
+## what we will do this year
 - [privacy 101 Academy](https://github.com/web3privacy/projects/issues/8)
 - working hackathon use-case generator
+- Social movements mentorship during 1 hackathon - adding humanitarian & direct action knowledge for hackers to build for a real world & real people
 - not directly related to the subject (Ethereum Privacy Ecosystem report, events, expanded Explorer, skill board for people seeking jobs in privacy etc)
+- TBD
