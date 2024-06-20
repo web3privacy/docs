@@ -45,7 +45,8 @@ _click for a hi-rez_
 
 ## what we will do this year
 - [privacy 101 Academy](https://github.com/web3privacy/projects/issues/8)
-- working hackathon use-case generator
+- Working hackathon use-case generator with the both previous hackathons use-cases & expert takes ([ETHBerlin example](https://cryptpad.fr/pad/#/2/pad/view/sKQtC07xhA5jHvs9cnnBz+rOl74ds9WUPjuusf6y7us/))
+- Community Crowdfunding System (CSS) ([reference](https://ccs.getmonero.org) - but for the whole privacy market)
 - Social movements mentorship during 1 hackathon - adding humanitarian & direct action knowledge for hackers to build for a real world & real people
 - not directly related to the subject (Ethereum Privacy Ecosystem report, events, expanded Explorer, skill board for people seeking jobs in privacy etc)
 - TBD
