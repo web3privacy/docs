@@ -42,7 +42,7 @@ Main repo: [link](https://github.com/web3privacy/hackathonusecases)
 
 _Data aggregation_
 1. **Add use-cases from hackathons**: [DB](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Ethereum%20Ecosystem/Hackathon%20projects.md)
-2. Add use-cases from organisations (protocols, foundations)
+2. **Add use-cases from organisations** (protocols, foundations): [here](https://github.com/web3privacy/hackathonusecases/blob/main/src/Organizational%20use-cases.md)
 
 _Front-end_
 **Contribute to front-end**: [here](https://github.com/hackyguru/web3privacy-ideas) 
