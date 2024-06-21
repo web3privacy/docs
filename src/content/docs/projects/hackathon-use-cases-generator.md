@@ -8,6 +8,15 @@ title: Hackathon use-cases generator
 
 1 click away from the privacy use-case.
 
+[docs](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/hackathon-use-cases-generator.md)
+![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/privacy%20idea%20generator.png)
+
+## Useful links
+
+Main repo: [link](https://github.com/web3privacy/hackathonusecases)
+- Current repo: [link](https://github.com/hackyguru/web3privacy-ideas) (basic UI)
+- Use-cases repo: [link](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Ethereum%20Ecosystem/Hackathon%20projects.md)
+
 **Project components**:
 - use cases DB with Git repos: hundreds of hackathon projects around privacy built through the years
 - Expert recommendations: up to date key privacy protocols & teams product nevessity
@@ -35,7 +44,7 @@ _Team needed_
 - researcher applying the first simple filters (chain, domain) + how use-case will look after search
 - front-end prototyping MVP
 
-Hackathon demos repo: https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Ethereum%20Ecosystem/Hackathon%20projects.md
+Hackathon demos [repo](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Ethereum%20Ecosystem/Hackathon%20projects.md)
 
 _Propose as an idea_
 
