@@ -27,6 +27,15 @@ Main repo: [link](https://github.com/web3privacy/hackathonusecases)
 2. hackathon use-cases like Whisper
 3. Expert recommendations: [ETHBerlin example](https://cryptpad.fr/pad/#/2/pad/view/sKQtC07xhA5jHvs9cnnBz+rOl74ds9WUPjuusf6y7us/)
 
+### Orgs ideas
+![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/Orgs%20use-cases%20ideas.png)
+
+### Hackathon use-cases
+![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/Hackathon%20use-cases%20(ETHDam%20example).png)
+
+### Expert recommendations
+![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/Expert%20ideas%20(ETHBerlin%20example).png)
+
 **Bonus**:
 - generator will help not just hackers, but grant managers & researchers
 - match use-cases with funding
