@@ -22,6 +22,8 @@ Main repo: [link](https://github.com/web3privacy/hackathonusecases)
 - Generator mechanism based on filters from specific chains, domains to complexity
 - community recommended use-cases in the future versions
 
+## Use-cases diversity
+
 ![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/3%20types%20of%20use-cases.png)
 1. Orgs ideas: [Waku](https://github.com/waku-org/ideas/), [Aztec](https://github.com/AztecProtocol/dev-rel/blob/main/hackathons/INSPIRATION.md)
 2. hackathon use-cases like Whisper
@@ -35,6 +37,17 @@ Main repo: [link](https://github.com/web3privacy/hackathonusecases)
 
 ### Expert recommendations
 ![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/Expert%20ideas%20(ETHBerlin%20example).png)
+
+## How to contribute
+
+_Data aggregation_
+1. **Add use-cases from hackathons**: [DB](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Ethereum%20Ecosystem/Hackathon%20projects.md)
+2. Add use-cases from organisations (protocols, foundations)
+
+_Front-end_
+**Contribute to front-end**: [here](https://github.com/hackyguru/web3privacy-ideas) 
+
+_Update documentation_
 
 **Bonus**:
 - generator will help not just hackers, but grant managers & researchers
