@@ -8,7 +8,6 @@ title: Hackathon use-cases generator
 
 1 click away from the privacy use-case.
 
-[docs](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/hackathon-use-cases-generator.md)
 ![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/privacy%20idea%20generator.png)
 
 ## Useful links
