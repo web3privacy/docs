@@ -6,7 +6,7 @@ We persist in advocating for a development model reliant on voluntary contributi
 
 Our diverse array of research, projects development, events and tools production is all offered freely, fueled by people and organizations who care about digital privacy.
 
-SUPPORT OUR INDEPENDECE, HELP US ADVOCATING FOR WEB3 PRIVACY:  
+SUPPORT OUR INDEPENDENCE, HELP US ADVOCATING FOR WEB3 PRIVACY:  
 
 Ethereum: 0xc3b5331362aF2C6c32cA22A893142e06BB1608c1
 
