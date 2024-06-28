@@ -15,6 +15,13 @@ Despite the foundational role that privacy is meant to play in shaping Web3, gen
 
 That's why a ranking system of all privacy-related projects in the Web3 could help a lot the users to discern and decide who to trust.
 
+### Latest updates (jun 24)
+-   [Merged PRs](https://github.com/web3privacy/explorer-data/pulls?q=is%3Apr+is%3Aclosed)
+-   PRs from CultDAO, [Oasis Network](https://github.com/web3privacy/explorer-data/pull/609), [PSE](https://github.com/web3privacy/explorer-data/pull/632/commits/ac2cb864d86389b9be34fc2fd5759a73984c4d29)
+-   Contribution guide has been published on [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/Za8nrM7gQhVloDJNKjSPD1d0h2bQkjyehrBelRIT9Do)
+-   Fixed non-working [search](https://github.com/web3privacy/explorer-app/commit/68f73dc19d02c356ef7452e9390833a0ca9e62dd)
+-   Sample project yaml [updated](https://github.com/web3privacy/explorer-data/blob/main/sample-project.yaml)
+
 ## Value
 
 **General public**
