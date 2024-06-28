@@ -9,6 +9,8 @@ title: Privacy Explorer
 - Live demo [here](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
 - Website is live [link](https://explorer.web3privacy.info)
 
+**contributors**: Killushine, Ethanolo, ant, Coinmandeer, Develit, Mykola
+
 ![alt text](../assets/explorer-platform-overview.png)
 
 Despite the foundational role that privacy is meant to play in shaping Web3, genuinely impactful initiatives remain scarce. Many projects leverage the concept of privacy as a buzzword or for public relations advantage, rather than addressing tangible issues or enacting substantial changes at the infrastructural and transactional level.
