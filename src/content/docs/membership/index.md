@@ -16,6 +16,9 @@ Become an integral part of our community!
 
 ## BECOME A MEMBER
 
+1. Make a donation using options below.
+2. DM us on X, Matrix, Signal.
+
 Ethereum: 0xc3b5331362aF2C6c32cA22A893142e06BB1608c1
 
 ![alt text](https://github.com/web3privacy/docs/assets/101947219/5fe894e4-8135-48e4-8632-77cd50e7a289)
