@@ -2,14 +2,18 @@
 title: Individual Membership
 ---
 
-In order to become a Member of Web3Privacy Now Ecosystem: 
+individual membership
+Become an integral part of our community!
+Benefits
+- You are supporting a good thing!
+- Guaranteed access to all our events
+- Swag Privacy Pack
+- Perks from partners
+- Future voting rights in our association
 
-1. Submit the annual fee of 100 EUR to one of the addresses provided below.
+€100 / Year
 
-2. [DM us on Twitter](https://twitter.com/web3privacy) indicating your preference for a private/public membership status, along with your preferred t-shirt size (M-L-XL) 
-
-3. Done!
-
+BECOME A MEMBER
 
 Ethereum: 0xc3b5331362aF2C6c32cA22A893142e06BB1608c1
 
@@ -26,3 +30,7 @@ Monero: 45hzJHESi64PYf44PmewggSNcxjLqBYdtLQuFKQ8XS1r8PiJUciBjbNCbvuVmJTmTnCmMXUQ
 ZCash: zs1mzlsgmt05dz4yl8uk2nw66vjfqngkunedrf0vcqsh7d4azjuaw353gm4wvhzucvvuum9c3ecncy
 
 ![Zcash](https://github.com/web3privacy/docs/assets/101947219/cbebe094-8175-446a-8ddc-f8cebd293120)
+
+We respect your privacy!
+Membership is essentially anonymous and the list of members is confidential  - we do not require or collect any personal information about our members unless they explicitly declare that they want to be listed publicly.
+We only need one verifiable identifier, which can be an email or cryptocurrency address, which is used to prove your membership.
