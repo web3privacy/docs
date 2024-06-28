@@ -29,6 +29,11 @@ But hackers don't get privacy in the bigger context
 ![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/Hacker%20journey%20x%20W3PN%20aplicability2.jpg)
 _click for a hi-rez_
 
+### latest updates
+- Repository has been structured & [updated](https://github.com/web3privacy/hackathonusecases/tree/main)
+- Hackathon curation pack docs has been [updated](https://docs.web3privacy.info/research/hackathon-pack/)
+- Demo shipped to [Git](https://github.com/web3privacy/hackathonusecases/tree/master)
+
 ## what we have
 [Pagency framework](https://github.com/web3privacy/pagency) for privacy use-cases ideation
 
