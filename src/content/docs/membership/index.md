@@ -4,7 +4,8 @@ title: Individual Membership
 
 individual membership
 Become an integral part of our community!
-Benefits
+
+## Benefits
 - You are supporting a good thing!
 - Guaranteed access to all our events
 - Swag Privacy Pack
@@ -13,7 +14,7 @@ Benefits
 
 €100 / Year
 
-BECOME A MEMBER
+## BECOME A MEMBER
 
 Ethereum: 0xc3b5331362aF2C6c32cA22A893142e06BB1608c1
 
