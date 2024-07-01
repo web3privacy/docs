@@ -6,11 +6,11 @@ All this will be done via 3 phases:
 - BUILD - Cohort, Hackathons & Grants
 - SCALE - Fundraising, Advisory, & Partnerships
 
-## Aim
+## Goals
 
-Create impactful privacy solutions: ensure people avoid generating redundant or ineffective code.
-Develop sustainable privacy projects: transform hackathon demos into enduring, viable products.
-Redirect misallocated funds to value-aligned stakeholders: connect conscientious devs with experienced mentors and grant programs.
+- Create impactful privacy solutions: ensure people avoid generating redundant or ineffective code.
+- Develop sustainable privacy projects: transform hackathon demos into enduring, viable products.
+- Redirect misallocated funds to value-aligned stakeholders: connect conscientious devs with experienced mentors and grant programs.
 
 ## Execution Plan
 
