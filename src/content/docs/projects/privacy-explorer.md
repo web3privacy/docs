@@ -4,7 +4,7 @@ title: Privacy Explorer
 
 **3in1**: a ranking system, database & comprehensive profiling to empower the general public in discerning the privacy levels, security, and reliability of Web3 projects.
 
-![alt text](../assets/Explorer%20privacy%20dashboard%20(jun%2024).png)
+![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/Explorer%20privacy%20dashboard%20(jun%2024).png)
 
 - Live demo [here](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
 - Website is live [link](https://explorer.web3privacy.info)
