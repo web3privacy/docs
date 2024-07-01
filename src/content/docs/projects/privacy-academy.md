@@ -1,3 +1,7 @@
+---
+title: Privacy Academy
+---
+
 Considering education and guidance towards practical and useful developments as necessary and of primary importance, Web3Privacy Now intends to develop and offer training, incubation, and acceleration programs.
 
 All this will be done via 3 phases:
