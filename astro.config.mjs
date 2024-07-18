@@ -42,12 +42,12 @@ export default defineConfig({
 					autogenerate: { directory: 'research' },
 				},
 				{
-					label: '📅 Events',
+					label: '🗓️ Events',
 					collapsed: true,
 					autogenerate: { directory: 'events' },
 				},
 				{
-					label: 'Projects',
+					label: '🏗️ Projects',
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: '👁️ Privacy Explorer', link: '/projects/privacy-explorer' },
