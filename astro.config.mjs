@@ -47,12 +47,13 @@ export default defineConfig({
 					autogenerate: { directory: 'events' },
 				},
 				{
-					label: 'Other projects',
+					label: 'Projects',
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: '👁️ Privacy Explorer', link: '/projects/privacy-explorer' },
 						{ label: '📰 Week in the Privacy', link: '/news/week-in-the-privacy' },
 						{ label: '🏆 Privacy Tech Awards', link: '/projects/privacy-tech-awards' },
+						{ label: '📚 Privacy Academy', link: '/projects/privacy-academy' },
 					],
 				},
 				{
