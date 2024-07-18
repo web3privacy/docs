@@ -20,7 +20,7 @@ All this will be done via 3 phases:
 
 **PRIVACY ACADEMY**
 
-While we were organizing hackathons (ETHBrno, ETHRome, and ETHDam), judging and speaking in many others, we understood that many people came to privacy without grasping the full significance of it.   There are not enough technical, practical, political, philosophical or historical resources to help them do so, and the ones you can find are scattered among different platforms, websites and playlists. 
+While we were organizing the hackathons of ETHBrno, ETHRome, and ETHDam, as well as judging and speaking in many others, we understood that many people came to privacy without grasping the full significance of it.   There are not enough technical, practical, political, philosophical or historical resources to help them do so, and the ones you can find are scattered among different platforms, websites and playlists. 
 
 Due to the lack of a single resource that provides a comprehensive understanding of:
 
@@ -47,4 +47,5 @@ Due to the lack of a single resource that provides a comprehensive understanding
 Team:
 PG
 Odd
+
 
