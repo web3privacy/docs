@@ -2,9 +2,11 @@
 title: Privacy Academy
 ---
 
+While we were organizing the hackathons of ETHBrno, ETHRome, and ETHDam, as well as judging and speaking in many others, we understood that many people came to privacy without grasping the full significance of it.   There are not enough technical, practical, political, philosophical or historical resources to help them do so, and the ones you can find are scattered among different platforms, websites and playlists. 
+
 Considering education and guidance towards practical and useful developments as necessary and of primary importance, Web3Privacy Now intends to develop and offer training, incubation, and acceleration programs.
 
-All this will be done via 3 phases:
+To do so, we will adopt a 3 phase approach:
 
 - LEARN | Academy & Mentorship
 - BUILD | Cohort, Hackathons & Grants
@@ -16,19 +18,8 @@ All this will be done via 3 phases:
 - **Develop sustainable privacy projects**: transform hackathon demos into enduring, viable products.
 - **Redirect misallocated funds to value-aligned stakeholders**: connect conscientious devs with experienced mentors and grant programs.
 
+
 ## Execution Plan
-
-**PRIVACY ACADEMY**
-
-While we were organizing the hackathons of ETHBrno, ETHRome, and ETHDam, as well as judging and speaking in many others, we understood that many people came to privacy without grasping the full significance of it.   There are not enough technical, practical, political, philosophical or historical resources to help them do so, and the ones you can find are scattered among different platforms, websites and playlists. 
-
-Due to the lack of a single resource that provides a comprehensive understanding of:
-
-- Why and how the internet is broken
-- What blockchain and cryptography are and what was their initial purpose 
-- How to protect yourself and take concrete action
-
-# We have developed a multi-phase initiative:
 
 - **Milestone 1 [Q4 2024] - Curated Learning Resources**: We gather the best existing materials and curate them to be accessible for both average crypto users and total beginners. This empowers users to learn exactly what they are looking for or interested in and to implement best practices effectively.
 
@@ -37,15 +28,5 @@ Due to the lack of a single resource that provides a comprehensive understanding
 - **Milestone 3 [Q4 2025] - Project Accelerator and Post-Academy Support**: We launch an accelerator for final projects from the Academy learners and provide post-academy support and work introductions. Graduates will be able to publish their projects and ideas on our grant/bounty platform where they will find the opportunity to be funded or crowdfunded.
 
 - **Milestone 4 [Q1 2026] - Original Content Production**: We will start producing our own content in collaboration with our network and key experts to further enhance our educational offerings.
-
-# AIM:
-
-- **Create impactful privacy solutions**: ensure people avoid generating redundant or ineffective code.
-- **Develop sustainable privacy projects**: transform hackathon demos into enduring, viable products.
-- **Redirect misallocated funds to value-aligned stakeholders**: connect conscientious devs with experienced mentors and grant programs.
-
-Team:
-PG
-Odd
 
 
