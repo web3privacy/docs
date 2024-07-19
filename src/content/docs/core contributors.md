@@ -2,11 +2,7 @@
 title: Core Contributors
 ---
 
-:::
-
-WIP 
-
-:::
+This page is unders development.
 
 A collective of *Web3Privacy Now* frequent and reliable contributors receiving personal incentives.
 
