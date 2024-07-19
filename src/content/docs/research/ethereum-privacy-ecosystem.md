@@ -1,8 +1,8 @@
 ---
-title: "Ethereum Privacy Ecosystem: report"
+title: "Ethereum Privacy Ecosystem Report"
 ---
 
-Research will cover comprehensive & up to date report on the state of privacy in Ethereum.
+This Research will cover comprehensive & up to date report on the state of privacy in Ethereum.
 
 ## **Details**
 
