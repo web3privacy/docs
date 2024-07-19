@@ -4,7 +4,7 @@ title: Privacy Academy
 
 While we were organizing the hackathons of ETHBrno, ETHRome, and ETHDam, as well as judging and speaking in many others, we understood that many people came to privacy without grasping the full significance of it.   There are not enough technical, practical, political, philosophical or historical resources to help them do so, and the ones you can find are scattered among different platforms, websites and playlists. 
 
-**Considering education and guidance towards practical and useful developments as necessary and of primary importance, Web3Privacy Now intends to develop and offer training, incubation, and acceleration programs:**
+**Considering education and guidance towards practical and useful developments as necessary and of primary importance, Web3Privacy Now intends to develop and offer training, incubation, and acceleration programs.**
 
 - **LEARN** | Academy & Mentorship
 - **BUILD** | Cohort, Hackathons & Grants
@@ -12,11 +12,11 @@ While we were organizing the hackathons of ETHBrno, ETHRome, and ETHDam, as well
 
 ## Goals
 
-1 **Create impactful privacy solutions**: 
+- **Create impactful privacy solutions**: 
 ensure people avoid generating redundant or ineffective code.
-2 **Develop sustainable privacy projects**: 
+- **Develop sustainable privacy projects**: 
 transform hackathon demos into enduring, viable products.
-3 **Redirect misallocated funds to value-aligned stakeholders**: 
+- **Redirect misallocated funds to value-aligned stakeholders**: 
 connect conscientious devs with experienced mentors and grant programs.
 
 
