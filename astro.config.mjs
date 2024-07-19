@@ -104,7 +104,7 @@ export default defineConfig({
 						{ label: 'Core Team', link: '/core-team' },
 						{ label: 'Association', link: '/association' },
 						{ label: 'Treasury', link: '/treasury' },
-						{ label: 'Core Contributors', link: '/core contributors' },
+						{ label: 'Core Contributors', link: '/core-contributors' },
 					]
 				}
 			],
