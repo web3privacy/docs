@@ -8,7 +8,7 @@ A *contributor* is anyone who helps us with the realization of our [Projects](#p
 
 Contributors are often grouped by their skills and interest in different [Workgroups](#workgroups) where they create a continuous activity, either for a single project or for some [shared resources](#shared-resources).
 
-Every frequent contributor has the opportunity to become a member of the [Contributors Guild](/guild) and receive personal financial compensation for their efforts.
+Every frequent contributor has the opportunity to become a [Core Contributor](/guild) and receive personal financial compensation for their efforts.
 
 ## Projects
 
