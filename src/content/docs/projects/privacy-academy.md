@@ -30,4 +30,7 @@ connect conscientious devs with experienced mentors and grant programs.
 
 - **Milestone 4 [Q1 2026] - Original Content Production**: We produce our own content in collaboration with our network and key experts to further enhance the educational offerings.
 
-
+## Working materials
+- [General concept](https://app.skiff.com/docs/7be63d2c-016b-4453-a437-c23f3c884fde#9prgGol6PqZPiGjbmtNuk5jCf658ZOMYMrUpNJ/n+r0=)
+- [YouTube playlist 101](https://www.youtube.com/watch?v=iukzbf95qGk&list=PLSsVHWrO8Yh3J1g8kFmfxpTZ8DAB-Qr-W&pp=iAQB)
+- [YouTube playlist extra](https://www.youtube.com/watch?v=zNDQcoZHn7k&list=PLSsVHWrO8Yh04zrwL24V_9WXlkICIoj8V&pp=iAQB)
