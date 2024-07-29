@@ -7,7 +7,7 @@ A collective of frequent and reliable contributors to Web3Privacy Now who receiv
 
 ## Purpose
 
-* reward those who contribute on an ongoing basis and whose work has had a considerable impact 
+Reward those who contribute on an ongoing basis and whose work has had a considerable impact 
 
 ## Income
 
