@@ -6,7 +6,7 @@ title: Contributors Guide
 
 A *contributor* is anyone who helps us with the realization of our [Projects](#projects).
 
-Contributors are often grouped by their skills and interest in different [Workgroups](#workgroups) where they create a continuous activity, either for a single project or for some [shared resources](#shared-resources).
+Contributors are often grouped by their skills and interest in different Workgroups. 
 
 Every frequent contributor has the opportunity to become a [Core Contributor](\core-contributors) and receive personal financial compensation for their efforts.
 
