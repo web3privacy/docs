@@ -25,9 +25,10 @@ If you want to get involved in a project, write to the people leading it, or dm 
 Do you have an idea for an interesting project related to our topic? Are you willing to help make it happen? Web3Privacy Now is here to help you.
 
 Steps before starting work on the project:
+
 * **Publish and discuss a concept of your project**
-  * The concept should be published as an issue in our [Projects registry](https://github.com/web3privacy/projects/issues)
+  * The concept should be published as an issue in our [Projects registry](https://github.com/web3privacy/projects/issues) detailing the necessary requirements for initiation and maintenance, such as timing, funding, social media outreach, and design.
   * It should be discussed with Core Team members 
-  * Explain what the projects needs to be started and maintained (timing, money, social media outreach, design...) 
+  
 
 
