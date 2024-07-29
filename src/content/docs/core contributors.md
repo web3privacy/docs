@@ -9,7 +9,7 @@ A collective of frequent and reliable contributors to Web3Privacy Now who receiv
 
 Reward those who contribute on an ongoing basis and whose work has had a considerable impact 
 
-## Income
+## Reward for contributing to open-source
 
 We don't want to give ourselves paychecks, nor do we want to make a complicated system of paying by hourly rates or tasks completed, so we choose a simpler route inspired by our interest and mission to have a practical impact.
 
