@@ -2,7 +2,7 @@
 title: Core Contributors
 ---
 
-### A collective of frequent and reliable contributors to Web3Privacy Now who receive financial incentives.
+A collective of frequent and reliable contributors to Web3Privacy Now who receive financial incentives.
 
 
 ## Purpose
