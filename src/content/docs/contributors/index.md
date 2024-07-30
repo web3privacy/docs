@@ -16,7 +16,7 @@ Every frequent contributor has the opportunity to become a [Core Contributor](ht
 
 An example of a project is [Research](/research) or [Events](/events) or [Privacy Explorer](/projects/privacy-explorer). Each of these top-level projects is a separate unit with its own autonomy and may have other sub-projects (such as a specific event or specific research report, etc.).
 
-Check our Projects registry](https://github.com/orgs/web3privacy/projects/12)
+Check our [Projects registry](https://github.com/orgs/web3privacy/projects/12)
 
 ### How to join a project
 
