@@ -1,40 +1,21 @@
 ---
-title: Individual Membership
+title: Partnerships
 ---
 
-individual membership
-Become an integral part of our community!
+# COMMUNITY PARTNERS
 
-## Benefits
-- You are supporting a good thing!
-- Guaranteed access to all our events
-- Swag Privacy Pack
-- Perks from partners
-- Future voting rights in our association
+[LunarDAO](https://lunardao.net/), [CryptoCanal](https://lu.ma/cryptocanal), [MolochDAO](https://molochdao.com/), [Urbe](https://linktr.ee/urbe.eth), [PrivacyGuardians](http://privacyguardians.io/), [MoneroKon](https://monerokon.org/), [Gwei](https://gwei.cz/), [ETHRome](www.ethrome.org), [ETHBarcelona](https://www.ethbarcelona.com/), [ETHBrno](https://ethbrno.cz/), [Hopr](https://hoprnet.org/)
 
-€100 / Year
+# SPONSORS
 
-## BECOME A MEMBER
+Sponsors are our value-aligned partners who help us maintain financial sustainability. They support our mission by contributing to all our activities, whether it's a research project, an event, a merchandise release.
 
-1. Make a donation using options below.
-2. DM us on X, Matrix, Signal.
+[Privacy Scaling Exploration](https://pse.dev/), [Ethereum Foundation](https://ethereum.org/), [Railgun](https://railgun.org/), [Payy](https://polybaselabs.com/)
 
-Ethereum: 0xc3b5331362aF2C6c32cA22A893142e06BB1608c1
+# MEMBERS
 
-![alt text](https://github.com/web3privacy/docs/assets/101947219/5fe894e4-8135-48e4-8632-77cd50e7a289)
+Members are our chosen collaborators for mutual support and growth. Rather than one-time deals for individual events or projects, we strive for consistent collaboration to achieve lasting impact.
 
-Bitcoin: bc1qfacmh9rqhh3j3xayxzga9xrgas894zfe2v37rz
+[Logos](https://logos.co/), [Namada](https://namada.net/), [Dyne.org](https://dyne.org/), [Gnosis](https://www.gnosis.io/), [0xbow](https://www.0xbow.io/), [Labyrinth](https://www.labyrinth.technology/) 
 
-![alt text](https://github.com/web3privacy/docs/assets/101947219/ca812e7b-b8a9-4045-bdfb-7df0f139a54c)
 
-Monero: 45hzJHESi64PYf44PmewggSNcxjLqBYdtLQuFKQ8XS1r8PiJUciBjbNCbvuVmJTmTnCmMXUQ2SPo8ASpZ9Rfq6L7F8vpcUV
-
-![alt text](https://github.com/web3privacy/docs/assets/101947219/593dfdcb-30d6-4757-82ba-6252483c05d2)
-
-ZCash: zs1mzlsgmt05dz4yl8uk2nw66vjfqngkunedrf0vcqsh7d4azjuaw353gm4wvhzucvvuum9c3ecncy
-
-![alt text](https://github.com/web3privacy/docs/assets/101947219/cbebe094-8175-446a-8ddc-f8cebd293120)
-
-We respect your privacy!
-Membership is essentially anonymous and the list of members is confidential  - we do not require or collect any personal information about our members unless they explicitly declare that they want to be listed publicly.
-We only need one verifiable identifier, which can be an email or cryptocurrency address, which is used to prove your membership.
