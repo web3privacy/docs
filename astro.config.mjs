@@ -96,12 +96,10 @@ export default defineConfig({
 				{
 					label: 'Governance',
 					items: [
-						{ label: 'Governance structure', link: '/governance' },
-						{ label: 'Congress', link: '/congress' },
+						{ label: 'Structure', link: '/governance' },
 						{ label: 'Core Team', link: '/core-team' },
-						{ label: 'Association', link: '/association' },
-						{ label: 'Treasury', link: '/treasury' },
 						{ label: 'Core Contributors', link: '/core-contributors' },
+						{ label: 'Treasury', link: '/treasury' },
 					]
 				}
 			],
