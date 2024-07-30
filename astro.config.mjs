@@ -64,10 +64,7 @@ export default defineConfig({
 						{ label: 'Donate', link: '/donate' },
 						{
 							label: 'Partnerships',
-							link: '/Partnerships',
-							items: [
-								{ label: 'Personal benefits', link: '/membership/personal-benefits' }
-							]
+							link: '/partnerships',
 						},
 						{ label: 'Communication tools', link: '/communication' },
 						{ label: 'Code of conduct', link: '/code-of-conduct' },
