@@ -29,7 +29,7 @@ Do you have an idea for an interesting project related to our topic? Are you wil
 
 **Publish and discuss a concept of your project in our [Projects registry](https://github.com/web3privacy/projects/issues) detailing the necessary requirements for initiation and maintenance, such as timing, funding, social media outreach, and design.**
 
-### ⎆ How to hit the groun running and help updating repositories:
+### ⎆ How to hit the groun running and help updating repositories
 
 example: _Maintaining our privacy DB updated: PR at GitHub_
 
@@ -62,6 +62,7 @@ _algorhithm_:
 3. 6 months hiatus - mark them with an icon of the moon next to them.
 
 **Category Accuracy**
+
 _goal_: check Infrastructure, dApps, Other categories if projects really belong there (some projects misslead readers pretending to be infrastructure, for example)
 _algorhithm_:
 1. Open database https://github.com/web3privacy/web3privacy
