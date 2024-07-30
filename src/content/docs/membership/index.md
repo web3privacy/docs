@@ -7,7 +7,7 @@ title: Partnerships
 Members are our chosen collaborators for mutual support and growth. 
 Rather than one-time deals for individual events or projects, we strive for consistent collaboration to achieve lasting impact.
 
-- [Logos](https://logos.co/)
+- [Logos](https://logos.co/) + Waku + Codex + Nomos
 - [Namada](https://namada.net/)
 - [Dyne.org](https://dyne.org/)
 - [Gnosis](https://www.gnosis.io/)
