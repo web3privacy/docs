@@ -57,14 +57,14 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Community',
+					label: 'Ecosystem',
 					items: [
 						{ label: 'Follow us', link: '/follow-us' },
 						{ label: 'Get involved', link: '/get-involved' },
 						{ label: 'Donate', link: '/donate' },
 						{
-							label: 'Membership',
-							link: '/membership',
+							label: 'Partnerships',
+							link: '/Partnerships',
 							items: [
 								{ label: 'Personal benefits', link: '/membership/personal-benefits' }
 							]
