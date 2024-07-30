@@ -21,11 +21,11 @@ Our ultimate goal is to empower individuals to take control of their digital pri
 There are many ways you can contribute, and it's impossible to create processes for all of them—nor would we want to! 
 However, getting from 0 to 1 is the hardest step. So we have made a few ways to get you up to speed:
 
-## ⎆ Get involved in the Community
+## ⎆ [Get involved in the Community](https://docs.web3privacy.info/communication/)
 
 _Become familiar with what we do, use our tools & research, share your ideas and perspective, attend and enjoy our events!_
 
-We have rooms on various platforms - [Choose the one you prefer](https://docs.web3privacy.info/communication/)
+We have rooms on various platforms - [Choose the one you prefer!](https://docs.web3privacy.info/communication/)
 
 ## ⎆ [Become a Contributor](https://docs.web3privacy.info/contributors/)
 
