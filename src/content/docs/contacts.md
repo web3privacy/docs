@@ -9,5 +9,6 @@ For any questions, requests, or feedback, please feel free to contact us via:
 
 And/or join the conversation on:
 
-- Signal: [Web3Privacy Now](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhABUP9wOCxQoDFWpJchERkm)
 - Matrix: [#web3privacy:gwei.cz](https://matrix.to/#/#web3privacy:gwei.cz)
+- Signal: We care about keeping our chats free from spam and bots. DM us on X or drop an email for the invitation link.
+- Telegram: We care about keeping our chats free from spam and bots. DM us on X or drop an email for the invitation link.
