@@ -25,7 +25,7 @@ They support our mission by contributing to all our activities, whether it's a r
 
 # COMMUNITY PARTNERS
 
-[Open Observatory of Network Interference](https://ooni.org/) | [LunarDAO](https://lunardao.net/) | [CryptoCanal](https://lu.ma/cryptocanal) | [MolochDAO](https://molochdao.com/) | [Urbe](https://linktr.ee/urbe.eth) | [PrivacyGuardians](http://privacyguardians.io/) | [MoneroKon](https://monerokon.org/) | [Gwei](https://gwei.cz/) | [ETHRome](www.ethrome.org) | [ETHBarcelona](https://www.ethbarcelona.com/) | [ETHBrno](https://ethbrno.cz/) | [Hopr](https://hoprnet.org/) | [UkraineDAO](https://ukrainedao.love/) 
+[Open Observatory of Network Interference](https://ooni.org/) | [LunarDAO](https://lunardao.net/) | [CryptoCanal](https://lu.ma/cryptocanal) | [MolochDAO](https://molochdao.com/) | [Urbe](https://linktr.ee/urbe.eth) | [PrivacyGuardians](http://privacyguardians.io/) | [MoneroKon](https://monerokon.org/) | [Gwei](https://gwei.cz/) | [ETHRome](https://www.ethrome.org) | [ETHBarcelona](https://www.ethbarcelona.com/) | [ETHBrno](https://ethbrno.cz/) | [Hopr](https://hoprnet.org/) | [UkraineDAO](https://ukrainedao.love/) 
 
 
 
