@@ -31,7 +31,7 @@ Weekly newsletter with round-up of the most important news happening around priv
 
 We use [Paragraph](https://paragraph.xyz/) as a platform for newsletter subscription and distribution:
 
-* [paragraph.xyz/@web3privacy](https://paragraph.xyz/@web3privacy)
+* [paragraph.xyz/@web3privacy](https://paragraph.xyz/@privacynews)
 
 ## How to contribute?
 
