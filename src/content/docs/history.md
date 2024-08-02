@@ -17,7 +17,7 @@ Historical track record of *Web3Privacy Now*.
 * **Research**: _Scoring model for techies update_: [GitHub](https://github.com/web3privacy/explorer/blob/main/Web3privacynowplatform/scoringmodel/Scoringmodel_techies.md)
 * **Research**: Explorer platform beta update [web](https://explorer.web3privacy.info)
 * **Development**: W3PN website launch [web](https://web3privacy.info)
-* **Research**: _Ethereum Privacy Ecosystem_ [GitHub](https://github.com/web3privacy/docs/blob/main/docs/research/ethereum-privacy-ecosystem.md)
+* **Research**: _Ethereum Privacy Ecosystem_ [GitHub](https://github.com/web3privacy/docs/blob/main/src/content/docs/research/ethereum-privacy-ecosystem.md)
 * **Article**: #2023privacyproof finalists announced [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/wyFhJ9_ayxA6BXTW0WE1h4ZackVTjrZTeC28Y6-J4mc)
 * **Article**: _Doxxer of the year #2023privacyproof_ [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/Yx-Hc2kw2sDVixLkKQ5F1ZDN33eKGYYkK4fjVdPouIE)
 * **Article**: _Exciting innovation in privacy #2023privacyproof_ [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/pbTUSd5RerKKwmeqWmzl5VDmtuykkalqFUBTy0EQUNA)
@@ -36,7 +36,7 @@ Historical track record of *Web3Privacy Now*.
 - [Web3 Privacy DB (+500 projects)](https://web3privacy.info/)
 - [Report: Web3 Privacy Market Overview, Jan 2023](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Web3privacy%20landscape%20(jan%202023).jpg)
 - [Web3 Privacy Landscape](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Web3privacy%20landscape%20(jan%202023).jpg)
-- [Pagency Framework](https://github.com/web3privacy/web3privacy/tree/main/Pagency)
+- [Pagency Framework](https://github.com/web3privacy/docs/blob/main/src/content/docs/research/pagency.md)
 - [Privacy use-cases](https://github.com/web3privacy/web3privacy/blob/main/Use-cases.md)
 - [Web3 Privacy Jobs ](https://docs.google.com/spreadsheets/d/1dN6bIWyOh01Dl-y1iZh-1TASZxKUefD098BUALcnUb8/edit#gid=0)
 - [ZK Privacy Landscape](https://github.com/web3privacy/web3privacy/tree/main/ZKprivacylandscape)
@@ -127,8 +127,7 @@ Historical track record of *Web3Privacy Now*.
 
 * **Article**: _Privacy-Web3 market-fit: search of privacy sustainability_: [Medium](https://medium.com/@Svyazniy/privacy-web3-market-fit-search-of-privacy-sustainability-330c9c98f9df)
 * **Article**: _Web3 privacy layers overview from embedded to total anonymity_: [Medium](https://medium.com/@Svyazniy/web3-privacy-layers-overview-from-embedded-to-total-anonymity-4ddf8e7c3b4d)
-* **Research**: _What if... they won't have my data matrix_: [GitHub](https://github.com/web3privacy/web3privacy/tree/main/theywonthave)
-* **Research**: _Pagency framework - tool to facilitate impactful privacy-enhancing ideas for developers_: [GitHub](https://github.com/web3privacy/web3privacy/tree/main/Pagency), [PDF](https://github.com/web3privacy/web3privacy/blob/main/Pagency/Pagency%20-%20privacy%20use-case%20facilitation%20framework.pdf), [Template](https://github.com/web3privacy/web3privacy/blob/main/Pagency/Privacy%20framework%20template.pptx)
+* **Research**: _Pagency framework - tool to facilitate impactful privacy-enhancing ideas for developers_: [GitHub](https://github.com/web3privacy/web3privacy/tree/main/Pagency)
 * **Research**: _Privacy x web3 use-cases_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Use-cases.md)
 * **Research**: _200 projects in our Privacy services in Web3 database_, [GitHub](https://github.com/web3privacy/web3privacy)
 
@@ -137,4 +136,4 @@ Historical track record of *Web3Privacy Now*.
 * **Research**: _Privacy services in Web3 database creation_, [GitHub](https://github.com/web3privacy/web3privacy)
 * **Talk**: _#FreeAlex Web3 activism handbook, Mykola_: [YouTube](https://www.youtube.com/watch?v=oCvVKltmQgo)
 * **Article**: _Urge for the PEDApps -Privacy Enhanced Decentralised Applications_ [Medium](https://medium.com/@Svyazniy/urge-for-the-pedapps-privacy-enhanced-decentralised-applications-7efa980cdbb)
-* **November 11-13, 2022** - The emergence of Web3Privacy Now research as a hackathon project at [ETHBrno 2022](https://docs.ethbrno.cz/events/2022).
+* **November 11-13, 2022** - The emergence of Web3Privacy Now research as a hackathon project at [ETHBrno 2022](https://docs.ethbrno.cz).
