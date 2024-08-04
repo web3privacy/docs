@@ -2,12 +2,14 @@
 title: Manifesto
 ---
 
-## Our Mission: Pioneering Privacy in the Web3 Era
+## We aim to manifest profound social change by advocating Privacy in the Web3 Era.
+
+With unified efforts, we carve out a path toward a more equitable, decentralized and freedom-respecting digital commons.
 
 ![manifesto web](https://github.com/web3privacy/docs/assets/101947219/be3e7555-533d-4add-83cf-72065d1da05a)
 
-**Web3privacy Now** is an ecosystem and a dynamic think-and-do-tank to pioneer Digital Ethics with web3 technologies.
-We foster knowledge and collaboration, explore practical use-cases, publish reports, train the hackers, organize events, and develop privacy concepts and tools. 
+
+
 
 ## The Challenge: Equal Empowerment of Privacy
 
@@ -16,6 +18,7 @@ In a world where connected humans are unknowingly commodified and surveilled, ur
 The Web3 stack promotes data, privacy, and security awareness, acting as a lifelong educational partner for everyone.
 
 We produce and curate knowledge to empower individuals restoring their agency in our hyperconnected reality.
+
 
 ## Our Approach:
 
@@ -37,6 +40,7 @@ We produce and curate knowledge to empower individuals restoring their agency in
 - Advocate for open-source development
 - Promote humanistic UX/UI-culture
 - Support cutting-edge R&D projects
+
 
 # **Ultimate goal**
 
