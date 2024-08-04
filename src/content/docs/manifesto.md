@@ -44,7 +44,7 @@ We produce and curate knowledge to empower individuals restoring their agency in
 
 # **Ultimate goal**
 
-**Empowering individuals to take control of their digital privacy through the Web3 stack.**
+**Empower individuals**
 
 _We envision a world where privacy is a conscious, actively chosen lifestyle, accessible to everyone, everywhere._
 
