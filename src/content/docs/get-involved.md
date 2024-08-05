@@ -21,12 +21,6 @@ Our ultimate goal is to empower individuals to take control of their digital pri
 **To achieve this, we focus less on talking and more on action.**
 
 
-## ⎆ [Get involved in the Community](https://docs.web3privacy.info/communication/)
-
-_Become familiar with what we do, use our tools & research, share your ideas and perspective, attend and enjoy our events!_
-
-We have rooms on various platforms - [Choose the one you prefer!](https://docs.web3privacy.info/communication/)
-
 ## ⎆ [Become a Contributor](https://docs.web3privacy.info/contributors/)
 
 _Co-edit research and publications, update project's data throught pull requests, give us structured feedbacks, volunteer at events, or start a new project._
