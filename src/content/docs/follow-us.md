@@ -17,6 +17,6 @@ You can follow us on different platforms:
 
 - YouTube: [@Web3PrivacyNow](https://youtube.com/@Web3PrivacyNow/)
 
-### [Events](/events/)
+### Events
 
 - lu.ma: [@web3privacy](https://lu.ma/web3privacy)
