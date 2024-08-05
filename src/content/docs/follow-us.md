@@ -2,7 +2,10 @@
 title: Follow us
 ---
 
-You can follow us on different platforms:
+## Get involved in Web3Privacy Now Community!
+### Become familiar with what we do, use our tools & research, share your ideas and perspective, attend and enjoy our events!
+
+We have rooms on various platforms:
 
 ### Social networks 
 
