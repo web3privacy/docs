@@ -2,7 +2,8 @@
 title: Get involved
 ---
 
-## __You wish to become a contributor to the Web3Privacy Now Ecosystem?? Let’s make sure we are on the same page about what our work is all about.__
+## You wish to become a contributor to the Web3Privacy Now Ecosystem? 
+### Let’s make sure we are on the same page about what our work is all about.
 
 Despite the foundational role that privacy is meant to play in shaping Web3, genuinely impactful initiatives remain scarce. 
 
@@ -15,11 +16,10 @@ Our ultimate goal is to empower individuals to take control of their digital pri
 + cultivating solidarity by facilitating understanding and collaboration  
 + gathering diverse background, skills, and perspectives (from hacktivists to policymakers, from philosophers to founders...)
 
-### We envision a world where privacy is a conscious, actively chosen lifestyle, accessible to everyone, everywhere. To achieve this, we focus less on talking and more on action.
+### We envision a world where privacy is a conscious, actively chosen lifestyle, accessible to everyone, everywhere. 
 
-# Join Us!
-There are many ways you can contribute, and it's impossible to create processes for all of them—nor would we want to! 
-However, getting from 0 to 1 is the hardest step. So we have made a few ways to get you up to speed:
+## To achieve this, we focus less on talking and more on action.
+
 
 ## ⎆ [Get involved in the Community](https://docs.web3privacy.info/communication/)
 
