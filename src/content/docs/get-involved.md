@@ -18,7 +18,7 @@ Our ultimate goal is to empower individuals to take control of their digital pri
 
 ### We envision a world where privacy is a conscious, actively chosen lifestyle, accessible to everyone, everywhere. 
 
-## To achieve this, we focus less on talking and more on action.
+### To achieve this, we focus less on talking and more on action.
 
 
 ## ⎆ [Get involved in the Community](https://docs.web3privacy.info/communication/)
