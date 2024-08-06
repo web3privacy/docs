@@ -28,7 +28,9 @@ For any question or doubt don't hesitate to dm us on [Twitter](https://x.com/web
 Do you have an idea for an interesting project related to our mission? Are you willing to help make it happen? Web3Privacy Now is here to help you.
 Publish and discuss a concept of your project in our [Projects registry](https://github.com/web3privacy/projects/issues) detailing the necessary requirements for initiation and maintenance, such as timing, funding, social media outreach, and design.
 
-### ⎆ How to update data in our Privacy Market DB
+## Contributors Guide
+
+⎆ How to update data in our Privacy Market DB
 
 example: _Maintaining our privacy DB updated: PR at GitHub_
 
