@@ -58,9 +58,13 @@ NOTE: If you have already deployed the website code via Github Pages for testing
 ### External resources
 
 [Porkbun Knowledge Base](https://kb.porkbun.com) 
+
 [Github Pages Documentation](https://docs.github.com/en/pages)
+
 [Github Pages Docs search](https://docs.github.com/en/search?query=custom+domain)
+
 [Github Pages Docs troubleshooting custom domains article](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages)
+
 [Stackoverflow post](https://stackoverflow.com/questions/9082499/custom-domain-for-github-project-pages)
 
 
