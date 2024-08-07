@@ -2,41 +2,42 @@
 title: Onboarding new Members to the Web3Privacy Now Ecosystem
 ---
 
-To structure a common growth path which: 
+To structure a common growth path which 
 
 -  meets our respective specific and market needs
 -  limits wasting time and resources
 -  guarantees benefits by leveraging all our ecosystem assets and activities
 
-we invite you to upload your data to 
+we invite you to share (web3privacynow@protonmail.com) the following information: 
 
-Explorer
+## Marketing
 
-    [Add your project](https://github.com/web3privacy/explorer-data/blob/main/README.md) to [Explorer](https://explorer.web3privacy.info)
+- Annual roadmap
+- Key goals
+- key use-cases
+- Current topics
 
-News
+## Resources
 
-    Add​​​​​​​ your news to http://news.web3privacy.info
+- visual identity (logo, visual guide)
+- key links (web, github...)
 
-Jobs
+## Team
 
-    Add current vacancies to http://jobs.web3privacy.info
+- key stakeholders (business, marketing, tech)
 
 
-and send the following information to web3privacynow@protonmail.com
+and to upload your data to:
 
-Marketing
+## Explorer
 
-    Annual roadmap
-    Key goals
-    Share key use-cases
-    Current topics
+[Add your project](https://github.com/web3privacy/explorer-data/blob/main/README.md) to [Explorer](https://explorer.web3privacy.info)
 
-Resources
+## News
 
-    Share branding (logo, visual guide)
-    Share key links (web, github...)
+Add​​​​​​​ your news to http://news.web3privacy.info
 
-Team
+## Jobs
 
-    Share key stakeholders (business, marketing, tech)
+Add current vacancies to http://jobs.web3privacy.info
+
