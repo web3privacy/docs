@@ -16,6 +16,8 @@ _goals_: team formations - MVP scoping - online educational event facilitation.
 3. Provide access to female privacy leaders - match with the project team.
 4. Support with promotion, and events facilitation.
 
+"10 online lectures rationality" - online-event with 10 female speakers sharing experience working in privacy x web3 will help to build a working group, generate valuable knowledge & foster attention from the bigger community (unlocking grants, help, contributions).
+
 **phase 2**: scaling
 _goals_: stable project management - budgeting - academy facilitation (1st cohort) - partnerships.
 
