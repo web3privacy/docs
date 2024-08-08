@@ -28,5 +28,6 @@ _goals_: stable project management - budgeting - academy facilitation (1st cohor
 - **Academy**: full course women for women on privacy x web3 linked with grants, vacancies & other opportunities for growth.
 - **Use-cases**: global database of the female-centric use-cases that can be solved by the privacy builders
 - **Partnerships**: SheFi, EF integrations (courses, lectures, research).
+- **Changemaking**: shape HR agenda within privacy x web3 market, unlock more opportunities for women... 
 
 **Diversity in the privacy x web3 report we made in 23'** [link](https://medium.com/@Svyazniy/diversity-in-the-web3-privacy-market-outlook-1a7ccefc872)
