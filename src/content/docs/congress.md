@@ -20,4 +20,4 @@ The Congress is held once a year and is organized by [Association](/association)
 
 ## Who makes the decisions
 
-* our [Members](/membership) with a voting rights
+* our [Partners](/partners) with a voting rights
