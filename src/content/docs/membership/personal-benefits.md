@@ -10,7 +10,7 @@ title: Personal benefits
 
 ### ✦ "Privacy Survival Kit" swag bundle
 
-Collect your [Privacy Survival Kit](/partnership/survival-kit) once a year [Pick up at our [events](/events/) (for free) or by delivery (extra fee)]
+Collect your [Privacy Survival Kit](/partners/survival-kit) once a year [Pick up at our [events](/events/) (for free) or by delivery (extra fee)]
 
 ### ✦ Access to special members-only events
 
