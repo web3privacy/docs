@@ -20,7 +20,7 @@ Registered entity representing our initiative in communication with authorities 
 
 ### Non-financial
 - officially representing our initiative and our projects
-- operates our [Membership](/membership) program
+- operates our [Partners](/partners) program
 - curates the [Contributors Guild](/guild) members & their weight (quarterly)
 - organises [Congress](/congress) (once a year)
 
