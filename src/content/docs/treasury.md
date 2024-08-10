@@ -2,7 +2,7 @@
 title: Treasury
 ---
 
-The Treasury is our main financial instrument that receives all of our income (from [membership fees](/membership) or [donations](/donate)) and redistributes these funds within our initiative.
+The Treasury is our main financial instrument that receives all of our income (from [Partner fees](/partners) or [private donations](/donate)) and redistributes these funds within our initiative.
 
 The on-chain portion of the funds is managed through [Multi-sig wallet](/core-team/multisig), but Treasury also holds funds off-chain in fiat through the [Association](/association).
 
