@@ -2,7 +2,7 @@
 title: Privacy Survival Kit
 ---
 
-A package of items for our [members](/membership) that they receive for free each year as a gift for their contribution.
+A package of items for our [Members, Sponsors and Community Partners](/partnerships) that they receive for free each year as a gift for their contribution.
 
 ## 2024 Edition
 
