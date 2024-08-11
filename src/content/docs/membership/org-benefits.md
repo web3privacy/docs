@@ -105,9 +105,9 @@ We are happy to help all members find capable staff through the media channels w
 
 # Tiers
 
-- Membership fee: 7K - 40K EUR / year (depends on tier)
+- Membership fee: 7K - 70K EUR / year (depends on tier)
 
-- Non-profit membership fee: 1K EUR / year
+- Non-profit membership fee: 3K EUR / year
 
 For Tier breakdown and details please contact [PG](https://twitter.com/PG_CDG_) or [Mykola](https://t.me/Svyaznoy911)
 
