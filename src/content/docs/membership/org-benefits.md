@@ -2,16 +2,28 @@
 title: Benefits for Organizations
 ---
 
-Here you will find a detailed description of the benefits of membership for organisations.
+Rather than one-time deals for single events or projects, we strive for consistent collaboration to achieve lasting impact.
+The Membership model has been implemented to:
 
-Instead of proposing partnership agreements for every event and/or initiative, we are implementing a continuous and flexible membership approach. 
-This will:
-
-1. Help to meet our respective specific and market needs
-2. Avoid wasting time and resources. 
-3. Guarantee visibility and services by leveraging all our ecosystem and activities, and to structure a common growth path.
+1. Avoiding wasting time and resources 
+2. Foster mutual collaboration and meet our respective specific and market needs
+3. Leverage all our ecosystem and activities
 
 ![sponsor-13](https://github.com/web3privacy/docs/assets/101947219/25e571c1-1f94-4f59-ad7a-a163df11da13)
+
+Some of the benefits:
+
+- Visibility at our Congresses, Summits, Meetups & Hackathons
+- Provide the right builders for your beta to test or develop
+- Raise awareness through targeted inputs
+- Speaking and mentoring opportunities
+- Engage specific audiences
+
+Variable tiers: 7 - 70K EUR / year
+Non-profit: 3K EUR / year
+
+[Become a Member](mailto:web3privacynow@protonmail.com)
+
 
 ## General benefits
 
@@ -22,8 +34,6 @@ We are primarily a community initiative, based on individuals, so each membershi
 ### Special support group for member organizations
 
 For organizations that are our members, there is a special closed chat group where representatives of individual organizations can communicate directly with our Core Team or network with each other.
-
-## Value we can deliver
 
 ### **Events**
 
@@ -74,7 +84,7 @@ We carry on research delivering essays, reports, infographics, github repos, dec
 
 ### **Academy**
 
-We aim to realize n.1 Academy  to educate tech and non tech people, giving all the basics about digital privacy and practical use-cases, directions…
+We are relizing the n.1 Academy  to educate tech and non tech people, giving all the basics about digital privacy, security, practical use-cases, directions…
 
  - feature your experts opinion and content
  - content joint production
@@ -83,6 +93,13 @@ We aim to realize n.1 Academy  to educate tech and non tech people, giving all
 ### **Financial**
 
 Tax optimization through donation
+
+### Job advertisements
+
+We are happy to help all members find capable staff through the media channels we have:
+* Job offer listing on our website (all tiers)
+* Job offer listing in our [Week in the Privacy](/news/week-in-the-privacy) newsletter (limited, only Tier I + II)
+* Posting your job offer on our X/Twitter feed (limited, only Tier I + II)
 
 ### **Other**
 
@@ -93,22 +110,5 @@ Tax optimization through donation
 - group for company members
 - access to special members-only events
 
-## Other benefits
-
-### Job advertisements
-
-We are happy to help all members find capable staff through the media channels we have:
-* Job offer listing on our website (all tiers)
-* Job offer listing in our [Week in the Privacy](/news/week-in-the-privacy) newsletter (limited, only Tier I + II)
-* Posting your job offer on our X/Twitter feed (limited, only Tier I + II)
-
-
-# Tiers
-
-- Membership fee: 7K - 70K EUR / year (depends on tier)
-
-- Non-profit membership fee: 3K EUR / year
-
-For Tier breakdown and details please contact [PG](https://twitter.com/PG_CDG_) or [Mykola](https://t.me/Svyaznoy911)
 
 \* Note: If you give us a donation, you are automatically entitled to a subscription discount equal to the amount you donate.
