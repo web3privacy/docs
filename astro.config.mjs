@@ -76,7 +76,7 @@ export default defineConfig({
 						{ label: 'Contributors guide', link: '/contributors' },			
 						{ label: 'Workgroups', link: '/workgroups' },
 						{ label: 'Git repositories', link: '/git' },
-						{ label: 'Guide: how to deploy event website', link: '/deploy-event-website' },
+						{ label: 'Guide: how to deploy event website', link: '/contributors/deploy-event-website' },
 					]
 				},
 				{
