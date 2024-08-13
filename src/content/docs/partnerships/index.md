@@ -21,7 +21,7 @@ They support our mission by contributing to all our activities, whether it's a r
 
 **2024**: [Privacy Scaling Exploration](https://pse.dev/) | [Ethereum Foundation](https://ethereum.org/) | [Railgun](https://railgun.org/) | [Payy](https://polybaselabs.com/)
 
-**2023**: [Zcash](https://z.cash/) | [Firo](https://firo.org/) | [Firn](https://firn.cash/) | [Privacy Scaling Exploration](https://pse.dev/) | [Railgun](https://railgun.org/) | [ENS](https://ensdao.org/) | [Navio (ex Navcoin)](https://x.com/navio_official) | [Panther](https://www.pantherprotocol.io/) | [AragonZKResearch](https://research.aragon.org/), [Secret Network](https://scrt.network), [Waku](http://waku.org), [HOPR](http://hoprnet.org), [Reclaim](https://www.reclaimprotocol.org), [NYM](http://nymtech.net)
+**2023**: [Zcash](https://z.cash/) | [Firo](https://firo.org/) | [Firn](https://firn.cash/) | [Privacy Scaling Exploration](https://pse.dev/) | [Railgun](https://railgun.org/) | [ENS](https://ensdao.org/) | [Navio (ex Navcoin)](https://x.com/navio_official) | [Panther](https://www.pantherprotocol.io/) | [AragonZKResearch](https://research.aragon.org/) | [Secret Network](https://scrt.network) | [Waku](http://waku.org) | [HOPR](http://hoprnet.org) | [Reclaim](https://www.reclaimprotocol.org) | [NYM](http://nymtech.net)
 
 # COMMUNITY PARTNERS
 
