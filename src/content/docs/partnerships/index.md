@@ -7,11 +7,14 @@ title: Partnerships
 Members are our chosen collaborators for mutual support and growth. 
 Rather than one-time deals for individual events or projects, we strive for consistent collaboration to achieve lasting impact.
 
-- [Logos](https://logos.co/) (Waku + Codex + Nomos)
+- [Logos](https://logos.co/)
+- [Waku](https://waku.org) 
 - [Namada](https://namada.net/)
 - [Dyne.org](https://dyne.org/)
 - [Gnosis](https://www.gnosis.io/)
 - [0xbow](https://www.0xbow.io/)
+- [Codex](http://codex.storage) 
+- [Nomos](http://nomos.tech)
 - [Labyrinth](https://www.labyrinth.technology/) 
 
 # SPONSORS
