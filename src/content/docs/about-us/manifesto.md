@@ -6,7 +6,7 @@ title: Manifesto
 
 With unified efforts, we carve out a path toward a more equitable, decentralized and freedom-respecting digital commons.
 
-![manifesto web](https://github.com/web3privacy/docs/assets/101947219/be3e7555-533d-4add-83cf-72065d1da05a)
+![manifesto docs](../assets/manifesto-docs.jpg)
 
 
 
@@ -48,4 +48,4 @@ We produce and curate knowledge to empower individuals restoring their agency in
 
 _We envision a world where privacy is a conscious, actively chosen lifestyle, accessible to everyone, everywhere._
 
-![Bringing 100M users to privacy market](./assets/Bringing-100M-to-privacy-market.png)
+![Bringing 100M users to privacy market](../assets/Bringing-100M-to-privacy-market.png)
