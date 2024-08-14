@@ -54,6 +54,8 @@ export default defineConfig({
 						{ label: 'Week in the Privacy 📰', link: '/news/week-in-the-privacy' },
 						{ label: 'Privacy Tech Awards 🏆', link: '/projects/privacy-tech-awards' },
 						{ label: 'Privacy Academy 👩‍🏫', link: '/projects/privacy-academy' },
+						{ label: 'Hackathon Use Cases Generator', link: '/projects/hackathon-use-cases-generator' },
+						{ label: 'Women in Privacy', link: '/projects/women-in-privacy' },
 					],
 				},
 				{
