@@ -2,7 +2,7 @@
 title: Get Involved
 sidebar:
     order: 0
-    label: Get Involved
+    label: Introduction
 ---
 
 
