@@ -4,7 +4,7 @@ title: Contact us
 
 For any questions, requests, or feedback, please feel free to contact us via:
 
-- e-mail: * web3privacynow@protonmail.com
+- e-mail: web3privacynow@protonmail.com
 - 𝕏/Twitter: [@web3privacy](https://twitter.com/web3privacy)
 
 And/or join the conversation on:

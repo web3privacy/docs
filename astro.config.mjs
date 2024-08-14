@@ -29,11 +29,11 @@ export default defineConfig({
 					label: 'About us',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Manifesto', link: '/manifesto' },
-						{ label: 'Roadmap', link: '/roadmap' },
-						{ label: 'History', link: '/history' },
-						{ label: 'Brand', link: '/brand' },
-						{ label: 'Contact us', link: '/contacts' },
+						{ label: 'Manifesto', link: '/about-us/manifesto' },
+						{ label: 'Roadmap', link: '/about-us/roadmap' },
+						{ label: 'History', link: '/about-us/history' },
+						{ label: 'Brand', link: '/about-us/brand' },
+						{ label: 'Contact us', link: '/about-us/contact-us' },
 					],
 				},
 				{
@@ -57,25 +57,31 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Get Involved',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Introduction', link: '/get-involved/index' },
+						{ label: 'Partnerships', link: '/get-involved/partnership' },
+						{ label: 'Organisational benefits', link: '/get-involved/org-benefits' },
+						{ label: 'Personal benefits', link: '/get-involved/personal-benefits' },
+						{ label: 'Onboarding', link: '/get-involved/onboarding' },
+						{ label: 'Donate', link: '/get-involved/donate' },
+					],
+				},
+				{
 					label: 'Ecosystem',
 					items: [
-						{ label: 'Follow us', link: '/follow-us' },
-						{ label: 'Get involved', link: '/get-involved' },
-						{ label: 'Donate', link: '/donate' },
-						{
-							label: 'Partnerships',
-							link: '/partnerships',
-						},
-						{ label: 'Communication tools', link: '/communication' },
-						{ label: 'Code of conduct', link: '/code-of-conduct' },
+						{ label: 'Follow us', link: '/ecosystem/follow-us' },
+						{ label: 'Communication tools', link: '/ecosystem/communication' },
+						{ label: 'Code of conduct', link: '/ecosystem/code-of-conduct' },
 					]
 				},
 				{
 					label: 'For contributors',
 					items: [
-						{ label: 'Contributors guide', link: '/contributors' },			
-						{ label: 'Workgroups', link: '/workgroups' },
-						{ label: 'Git repositories', link: '/git' },
+						{ label: 'Contributors guide', link: '/contributors/index' },			
+						{ label: 'Workgroups', link: '/contributors/workgroups' },
+						{ label: 'Git repositories', link: '/contributors/git' },
 						{ label: 'Guide: how to deploy event website', link: '/contributors/deploy-event-website' },
 					]
 				},
@@ -97,12 +103,17 @@ export default defineConfig({
 				{
 					label: 'Governance',
 					items: [
-						{ label: 'Structure', link: '/governance' },
-						{ label: 'Core Team', link: '/core-team' },
-						{ label: 'Core Contributors', link: '/core-contributors' },
-						{ label: 'Treasury', link: '/treasury' },
+						{ label: 'Structure', link: '/governance/governance' },
+						{ label: 'Core Team', link: '/governance/core-team' },
+						{ label: 'Core Contributors', link: '/governance/core-contributors' },
+						{ label: 'Treasury', link: '/governance/treasury' },
 					]
-				}
+				},
+				{
+					label: 'News',
+					collapsed: true,
+					autogenerate: { directory: 'news' },
+				},
 			],
 		}),
 	],

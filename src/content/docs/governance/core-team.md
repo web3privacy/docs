@@ -4,15 +4,15 @@ title: Core Team
 
 The Core Team is the team of people who manage this initiative.
 
-Core Team members are elected by decision of the [Congress](/congress) for a term of 5 years. It is also exceptionally possible to recall or elect a new member by majority decision of the Core Team itself.
+Core Team members are elected by decision of the [Congress](/events/congress) for a term of 5 years. It is also exceptionally possible to recall or elect a new member by majority decision of the Core Team itself.
 
 ## Purpose
 * handle daily decision-making of initiative
-* communicates with the general public ([Contact us](/contacts))
-* oversees and guides the [Association](/association)
-* may extraordinarily elect or recall members of the [Association](/association) Committee
+* communicates with the general public ([Contact us](/about-us/contact-us))
+* oversees and guides the Association
+* may extraordinarily elect or recall members of the Association Committee
 * control access to basic infrastructure (domains, service accounts etc.)
-* control on-chain treasury ([Multi-sig wallet](/core-team/multisig))
+* control on-chain treasury Multi-sig wallet
 * hosts weekly Core Team calls
 
 ## Members
@@ -39,12 +39,12 @@ Core Team members are elected by decision of the [Congress](/congress) for a ter
 | Name | Description |
 | --- | --- |
 | **Core Team** 🔒 | Main channel - general Core Team discussion |
-| **Asssociation** 🔒 | Internal discussion about [Association](/association/) |
+| **Asssociation** 🔒 | Internal discussion about Association |
 | **Partnership** 🔒 | Partnership workstream discussion |
 
 ## Contact
 
 ### Email
-* web3privacynow@skiff.com
+* web3privacynow@protonmail.com or [contact us](/about-us/contact-us) via other methods
 
-Note: If you use Skiff/Proton Mail you can make the communication E2E encrypted.
+Note: If you use Proton Mail you can make the communication E2E encrypted between accounts

@@ -1,5 +1,8 @@
 ---
 title: Follow us
+sidebar:
+    order: 0
+    label: Follow us
 ---
 
 ## Enjoy Web3Privacy Now Community!

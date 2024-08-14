@@ -23,4 +23,3 @@ Any contribution that has a practical impact on the ecosystem (e.g. completing a
 
 In order to become a core contributor, it is necessary to have already contributed to our projects on an ongoing basis, to have cultivated a direct relationship with at least one of the core team and to be willing to carry out one or more projects, or at least part of them on a more or less continuous basis.
 
-

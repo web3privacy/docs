@@ -10,7 +10,7 @@ title: Personal benefits
 
 ### ✦ "Privacy Survival Kit" swag bundle
 
-Collect your [Privacy Survival Kit](/partners/survival-kit) once a year [Pick up at our [events](/events/) (for free) or by delivery (extra fee)]
+Collect your Privacy Survival Kit once a year [Pick up at our [events](/events/) (for free) or by delivery (extra fee)]
 
 ### ✦ Access to special members-only events
 
@@ -20,7 +20,7 @@ For example: Web3Privacy Now Congress (upcoming) and special educational seminar
 
 ### ✦ Special chat group access
 
-Private chat for all members where you can communicate directly with the [Core Team](/core-team) and connect with each other.
+Private chat for all members where you can communicate directly with the [Core Team](/governance/core-team) and connect with each other.
 
 ### ✦ Access to special deals of our partners
 
@@ -29,8 +29,6 @@ Special discounts and offers from our member organisations.
 ### ✦ Discount in our store (25%)
 
 ### ✦ Voting rights in our association
-
-For members who want to be more involved in the governance of our initiative, we offer the opportunity to become a *voting member* of our [association](/association). As a *voting member*, you will have the opportunity to participate in the decisions of our Congress once a year by voting on our plans and other topics. To become a *voting member*, you must fill out a special form (upcoming) and be approved by the [association](/association/) comittee.
 
 ### ✦ Opportunity to vote in a special category at the Privacy Tech Awards
 
