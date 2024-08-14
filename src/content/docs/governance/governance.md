@@ -1,0 +1,83 @@
+---
+title: Governance
+sidebar:
+    order: 0
+    label: Structure
+---
+
+import { LinkCard } from '@astrojs/starlight/components';
+
+Over the past two years, we have experimented with different governance models. 
+Below, we share our insights, highlighting our missteps to inspire others.
+
+## 2024 
+
+![Governance Structure](./assets/gov-stru.png)
+
+Anyone who assists in the completion of our projects and activities is considered a contributor. Frequent contributors have the chance to become [Core Contributors](https://docs.web3privacy.info/core-contributors/) and receive rewards for their contributions to open source.
+
+### Proof of Care - *become a Core Contributor*
+
+The transition from contributors to [Core Contributors](https://docs.web3privacy.info/core-contributors/) occurs through a Proof of Care: through continuous or substantial involvement, contributors demonstrate their interest and dedication to our [mission](https://docs.web3privacy.info/manifesto/). 
+
+Core Contributors get rewarded for their contributions to open source - by the whole Web3Privacy Ecosystem. 
+
+### Proof of Soul - *enter the Core Team*
+
+To join the [Core Team](https://docs.web3privacy.info/core-team/), a Proof of Soul is required. Through closer interaction with the core team, the most active core contributors who are committed to supporting the organization's values and advancing its mission can gradually become part of the decision-making process as they earn the credibility and trust of all core team members.
+
+
+## 2023 
+
+![Governance Structure](./assets/governance-structure.png)
+
+We attempted to establish different departments, a legal entity, and infrastructure to manage decision-making, handle treasury functions, and welcome new members, but these efforts were unsuccessful. In the future, we plan to pursue a similar path, but instead of forming an association, we will aim to create a foundation in Switzerland.
+
+### Governance Units
+
+*The Web3Privacy Now* initiative is composed of these basic governance units:
+
+<LinkCard
+  title="Congress"
+  description="Top organ, votes on most important issues, elects Core Team/Association executives"
+  href="/congress"
+/>
+<LinkCard
+  title="Core Team"
+  description="Main decision-making and executive body"
+  href="/core-team"
+/>
+<LinkCard
+  title="Association"
+  description="Legal entity, executes Core Team requirements, accepts donations, pay expenses"
+  href="/association"
+/>
+<LinkCard
+  title="Treasury"
+  description="Fund management"
+  href="/treasury"
+/>
+<LinkCard
+  title="Contributors Guild"
+  description="Group of members receiving incentives"
+  href="/guild"
+/>
+
+### Personal roles within initiative
+
+Sorted by competencies - from least to most.
+
+| Role name | Competences | Transparency |
+| --- | --- | --- |
+| Guest / Visitor | none | 🔒 private |
+| [Partners](/partners) | none | 🔒 private |
+| [Partners](/partners) with voting rights | voting on the [congress](/congress) | 🔒 private |
+| [Workgroup](/workgroups) member (*contributor*) | decision-making within the working group | 🔒 private |
+| [Contributors Guild](/guild) member* | receives financial compensation | 🥷 pseudonym (name, link) |
+| [Association](/association) Committee member* | operate with finances and curate [Contributors Guild](/guild) | 👁️ public |
+| [Core Team](/core-team) member* | decides on the most important issues, controls [Association](/association) | 🥷 pseudonym (name, link) |
+
+\* - People with these roles automatically become [Members](/membership) with voting rights:
+  - Contributors Guild members
+  - Association Committee members
+  - Core Team members
