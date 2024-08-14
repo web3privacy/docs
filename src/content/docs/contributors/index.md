@@ -1,5 +1,8 @@
 ---
 title: Contributors Guide
+sidebar:
+    order: 0
+    label: Contributors Guide
 ---
 
 ## Who is a contributor?
