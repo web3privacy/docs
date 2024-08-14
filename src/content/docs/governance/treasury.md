@@ -12,4 +12,4 @@ Treasury management is the responsibility of the [Core Team](/core-team).
 * 30% automatically goes to [Contributors Guild](/contributors/index), eq. directly to contributors
 * the remaining 70% is distributed through [Funding Requests](/resources/funding#funding-requests) to specific projects or Workgroups
 
-![Treasury flow](./assets/treasury-flow.png)
+![Treasury flow](../assets/treasury-flow.png)
