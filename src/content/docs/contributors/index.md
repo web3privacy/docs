@@ -11,7 +11,7 @@ A *contributor* is anyone who helps us with the realization of our [Projects](#p
 
 Contributors are often grouped by their skills and interest in different Workgroups. 
 
-Frequent contributors have the opportunity to become [Core Contributors](https://docs.web3privacy.info/core-contributors/) and be rewarded for their contributions to open source.
+Frequent contributors have the opportunity to become [Core Contributors](/governance/core-contributors/) and be rewarded for their contributions to open source.
 
 ## Projects
 
