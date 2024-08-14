@@ -29,4 +29,4 @@ Our ultimate goal is to empower individuals to take control of their digital pri
 
 _Co-edit research and publications, update project's data throught pull requests, give us structured feedbacks, volunteer at events, or start a new project._
 
-To understand how to become a contributor, what projects you can help with, how to start a new one, visit [Contributors Guide](https://docs.web3privacy.info/contributors/).
+To understand how to become a contributor, what projects you can help with, how to start a new one, visit [Contributors Guide](/contributors/index).
