@@ -25,6 +25,7 @@ Sponsors are our value-aligned partners who help us maintain financial sustainab
 ### MEMBERSHIP
 
 **INDIVIDUALS**
+
 Support our mission and become integral part of our ecosystem!
 
 Benefits:
@@ -39,6 +40,7 @@ Benefits:
 _After making your donation, kindly send us the tx hash, your T-shirt size, and let us know if you would like your membership to be public or kept private._
 
 **ORGANISATIONS**
+
 Members are our chosen collaborators for mutual support and growth. Rather than one-time deals for individual events or projects, we strive for consistent collaboration to achieve lasting impact.
 
 Some of the benefits:
