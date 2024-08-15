@@ -6,9 +6,9 @@ Rather than one-time deals for single events or projects, we strive for long-ter
 
 Our Membership model has been designed to:
 
-    Avoid wasting time and resources
-    Foster collaboration with the aim of both organizations meeting their needs through collective action
-    Leverage our combined ecosystems and activities
+- Avoid wasting time and resources
+- Foster collaboration with the aim of both organizations meeting their needs through collective action
+- Leverage our combined ecosystems and activities
 
 ![sponsor-13](https://github.com/web3privacy/docs/assets/101947219/25e571c1-1f94-4f59-ad7a-a163df11da13)
 
