@@ -1,5 +1,5 @@
 ---
-title: Benefits for Organizations
+title: Membership x Organisations
 ---
 
 ## Rather than one-time deals for single events or projects, we strive for long-term, consistent collaboration to achieve a lasting impact together.
