@@ -5,11 +5,9 @@ sidebar:
     label: Introduction
 ---
 
-
-## You wish to contribute to Web3Privacy Now Ecosystem? 
 ###  For all privacy advocates, projects and companies, we offer different ways to support us and become an integral part of our ecosystem.
 
-### GIT CONTRIBUTIONS
+## GIT CONTRIBUTIONS
 This is the kind of support we value most: open-source, grassroots initiatives driven by individual passion and the desire to create something meaningful. 
 To understand how to become a contributor, what projects you can help with, how to start a new one, visit [Contributors Guide](/contributors/index).
 
@@ -17,12 +15,12 @@ To understand how to become a contributor, what projects you can help with, how 
 
 _Co-edit research and publications, update project's data throught pull requests, give us structured feedbacks, volunteer at events, or start a new project._
 
-### SPONSORSHIP
+## SPONSORSHIP
 Sponsors are our value-aligned partners who help us maintain financial sustainability. They support our mission by contributing to all our activities, whether it's a research project, an event, a merchandise release.
 
 ⎆ [Become a Sponsor](mailto:web3privacynow@protonmail.com)
 
-### MEMBERSHIP
+## MEMBERSHIP
 
 **INDIVIDUALS**
 
@@ -56,7 +54,7 @@ Non-profit: 3.000 EUR / year
 
 [Request Tier breakdown](mailto:web3privacynow@protonmail.com)
 
-### SPEAK
+## SPEAK
 Our mission is to delve into digital privacy from a broad spectrum of viewpoints and expertise. We cultivate a space where everyone from tech experts to policymakers, academics, researchers, legals, founders, everyday users and innovators can understand each other and collaborate.
 
 Here's some people that spoke at our events:
@@ -73,7 +71,7 @@ Here's some people that spoke at our events:
 
 [Join us as a Speaker](https://tally.so/r/nrOzXl)
 
-### DONATE
+## DONATE
 Our diverse array of research, projects development, events and tools production is all offered freely, fueled by people and organizations who care about digital privacy.
 
 [Support our independence, help us to advocate for freedom](https://docs.web3privacy.info/donate/)
