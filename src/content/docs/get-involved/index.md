@@ -5,7 +5,7 @@ sidebar:
     label: Introduction
 ---
 
-#  For all privacy advocates, projects and companies, we offer different ways to support us and become an integral part of our Ecosystem.
+ For all privacy advocates, projects and companies, we offer different ways to support us and become an integral part of our Ecosystem.
 
 ## GIT CONTRIBUTIONS
 This is the kind of support we value most: open-source, grassroots initiatives driven by individual passion and the desire to create something meaningful. 

@@ -1,5 +1,5 @@
 ---
-title: Personal benefits
+title: Membership x individuals
 ---
 
 ## Benefits:
