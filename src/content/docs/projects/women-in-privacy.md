@@ -6,15 +6,18 @@ The privacy market in the web3 actively lacks diversity. Women around the world 
 
 We want to kick off the educational track to bring more women into privacy x the web3: from developers to entrepreneurs. So the industry will be more diverse, open & inclusive. 
 
+[curator](https://x.com/annbrody7): Ann Brody
+
 ## Execution plan
 
 **Phase 1**: foundations
 _goals_: team formations - MVP scoping - online educational event facilitation.
 
-1. Allocate bounty for the project concept & 10 online lectures delivery.
-2. Outreach project curator(s) - female only.
-3. Provide access to female privacy leaders - match with the project team.
-4. Support with promotion, and events facilitation.
+1. Allocate bounty for the project concept & 10 online lectures delivery: DONE
+2. Outreach project curator(s) - female only: DONE
+3. Provide access to female privacy leaders - match with the project team: DOING
+4. Create a Signal working group: DONE
+5. Support with promotion, and events facilitation.
 
 "10 online lectures rationality" - online-event with 10 female speakers sharing experience working in privacy x web3 will help to build a working group, generate valuable knowledge & foster attention from the bigger community (unlocking grants, help, contributions).
 
