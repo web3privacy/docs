@@ -7,7 +7,7 @@ sidebar:
 
 ## Who is a contributor?
 
-A *contributor* is anyone who helps us with the realization of our [Projects](#projects).
+A *contributor* is anyone who helps us with the realization of our [Projects](#projects), co-edit [research](https://github.com/orgs/web3privacy/projects/11/views/1) and [publications](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073), update project's data throught pull requests, give us structured feedbacks, volunteer at events, or start a new project.
 
 Contributors are often grouped by their skills and interest in different Workgroups. 
 
