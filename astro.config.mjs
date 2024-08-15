@@ -34,7 +34,7 @@ export default defineConfig({
 						{ label: 'History', link: '/about-us/history' },
 						{ label: 'Brand', link: '/about-us/brand' },
 						{ label: 'Contact us', link: '/about-us/contact-us' },
-						{ label: 'Follow us', link: '/ecosystem/follow-us' },
+						{ label: 'Follow us', link: '/about-us/follow-us' },
 					],
 				},
 				{
@@ -57,6 +57,7 @@ export default defineConfig({
 						{ label: 'Privacy Academy 👩‍🏫', link: '/projects/privacy-academy' },
 						{ label: 'Hackathon Use Cases Generator ✨', link: '/projects/hackathon-use-cases-generator' },
 						{ label: 'Women in Privacy 💃', link: '/projects/women-in-privacy' },
+						{ label: 'Privacy Cases 🗄️', link: '/projects/privacy-cases' },
 					],
 				},
 				{
@@ -65,8 +66,9 @@ export default defineConfig({
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Introduction', link: '/get-involved/index' },
 						{ label: 'Ecosystem', link: '/get-involved/partnership' },
-						{ label: 'Membership Organisations', link: '/get-involved/org-benefits' },
-						{ label: 'Membership Indivisuals', link: '/get-involved/personal-benefits' },
+						{ label: 'Code of Conduct', link: '/get-involved/code-of-conduct' },
+						{ label: 'Membership x Organisations', link: '/get-involved/org-benefits' },
+						{ label: 'Membership x Individuals', link: '/get-involved/personal-benefits' },
 						{ label: 'Donate', link: '/get-involved/donate' },
 					],
 				},
@@ -77,7 +79,7 @@ export default defineConfig({
 						{ label: 'Workgroups', link: '/contributors/workgroups' },
 						{ label: 'Git repositories', link: '/contributors/git' },
 						{ label: 'Guide: how to deploy event website', link: '/contributors/deploy-event-website' },
-						{ label: 'Code of conduct', link: '/ecosystem/code-of-conduct' },
+						{ label: 'Code of conduct', link: '/get-involved/code-of-conduct' },
 					]
 				},
 				{
@@ -101,7 +103,7 @@ export default defineConfig({
 						{ label: 'Structure', link: '/governance/governance' },
 						{ label: 'Core Team', link: '/governance/core-team' },
 						{ label: 'Core Contributors', link: '/governance/core-contributors' },
-						{ label: 'Communication tools', link: '/ecosystem/communication' },
+						{ label: 'Communication tools', link: '/governance/communication' },
 						{ label: 'Treasury', link: '/governance/treasury' },
 					]
 				},
