@@ -34,28 +34,29 @@ export default defineConfig({
 						{ label: 'History', link: '/about-us/history' },
 						{ label: 'Brand', link: '/about-us/brand' },
 						{ label: 'Contact us', link: '/about-us/contact-us' },
+						{ label: 'Follow us', link: '/ecosystem/follow-us' },
 					],
 				},
 				{
-					label: '🔬 Research',
+					label: 'Research',
 					collapsed: true,
 					autogenerate: { directory: 'research' },
 				},
 				{
-					label: '🗓️ Events',
+					label: 'Events',
 					collapsed: true,
 					autogenerate: { directory: 'events' },
 				},
 				{
-					label: '🏗️ Projects',
+					label: 'Projects',
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Privacy Explorer 👁️', link: '/projects/privacy-explorer' },
 						{ label: 'Week in the Privacy 📰', link: '/news/week-in-the-privacy' },
 						{ label: 'Privacy Tech Awards 🏆', link: '/projects/privacy-tech-awards' },
 						{ label: 'Privacy Academy 👩‍🏫', link: '/projects/privacy-academy' },
-						{ label: 'Hackathon Use Cases Generator', link: '/projects/hackathon-use-cases-generator' },
-						{ label: 'Women in Privacy', link: '/projects/women-in-privacy' },
+						{ label: 'Hackathon Use Cases Generator ✨', link: '/projects/hackathon-use-cases-generator' },
+						{ label: 'Women in Privacy 💃', link: '/projects/women-in-privacy' },
 					],
 				},
 				{
@@ -63,20 +64,11 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Introduction', link: '/get-involved/index' },
-						{ label: 'Partnerships', link: '/get-involved/partnership' },
-						{ label: 'Organisational benefits', link: '/get-involved/org-benefits' },
-						{ label: 'Personal benefits', link: '/get-involved/personal-benefits' },
-						{ label: 'Onboarding', link: '/get-involved/onboarding' },
+						{ label: 'Ecosystem', link: '/get-involved/partnership' },
+						{ label: 'Membership Organisations', link: '/get-involved/org-benefits' },
+						{ label: 'Membership Indivisuals', link: '/get-involved/personal-benefits' },
 						{ label: 'Donate', link: '/get-involved/donate' },
 					],
-				},
-				{
-					label: 'Ecosystem',
-					items: [
-						{ label: 'Follow us', link: '/ecosystem/follow-us' },
-						{ label: 'Communication tools', link: '/ecosystem/communication' },
-						{ label: 'Code of conduct', link: '/ecosystem/code-of-conduct' },
-					]
 				},
 				{
 					label: 'For contributors',
@@ -85,6 +77,7 @@ export default defineConfig({
 						{ label: 'Workgroups', link: '/contributors/workgroups' },
 						{ label: 'Git repositories', link: '/contributors/git' },
 						{ label: 'Guide: how to deploy event website', link: '/contributors/deploy-event-website' },
+						{ label: 'Code of conduct', link: '/ecosystem/code-of-conduct' },
 					]
 				},
 				{
@@ -108,6 +101,7 @@ export default defineConfig({
 						{ label: 'Structure', link: '/governance/governance' },
 						{ label: 'Core Team', link: '/governance/core-team' },
 						{ label: 'Core Contributors', link: '/governance/core-contributors' },
+						{ label: 'Communication tools', link: '/ecosystem/communication' },
 						{ label: 'Treasury', link: '/governance/treasury' },
 					]
 				},
