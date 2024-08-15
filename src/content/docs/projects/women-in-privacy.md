@@ -18,6 +18,7 @@ _goals_: team formations - MVP scoping - online educational event facilitation.
 3. Provide access to female privacy leaders - match with the project team: DOING
 4. Create a Signal working group: DONE
 5. Support with promotion, and events facilitation.
+6. We will make a panel Women x Cypherpunk at the [Ethereum Cypherpunk Congress](http://congress.web3privacy.info), Bangkok: DONE
 
 "10 online lectures rationality" - online-event with 10 female speakers sharing experience working in privacy x web3 will help to build a working group, generate valuable knowledge & foster attention from the bigger community (unlocking grants, help, contributions).
 
