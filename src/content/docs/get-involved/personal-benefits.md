@@ -4,39 +4,14 @@ title: Personal benefits
 
 ## Benefits:
 
-### ✦ You are supporting good thing!
+- You are supporting good thing!
 
-### ✦ Free access to [all our events](https://web3privacy.info/events)
+- Guaranteed access to [all our events](https://web3privacy.info/events)
+- Privacy Swag Pack
+- Deals from our partners
+- Discount in our store (25%)
+- 100 EUR/year
 
-### ✦ "Privacy Survival Kit" swag bundle
+⎆ [Become a Member](https://docs.web3privacy.info/donate/)
 
-Collect your Privacy Survival Kit once a year [Pick up at our [events](/events/) (for free) or by delivery (extra fee)]
-
-### ✦ Access to special members-only events
-
-For example: Web3Privacy Now Congress (upcoming) and special educational seminars or workshops (upcoming)
-
-### ✦ Exclusive access to our research reports
-
-### ✦ Special chat group access
-
-Private chat for all members where you can communicate directly with the [Core Team](/governance/core-team) and connect with each other.
-
-### ✦ Access to special deals of our partners
-
-Special discounts and offers from our member organisations.
-
-### ✦ Discount in our store (25%)
-
-### ✦ Voting rights in our association
-
-### ✦ Opportunity to vote in a special category at the Privacy Tech Awards
-
-We are planning a special category in the [Privacy Tech Awards](/projects/privacy-tech-awards) where only our members will be able to vote.
-
-
-# We respect your privacy!
-
-Membership is essentially **anonymous** and the **list of members is confidential** - we do not require or collect any personal information about our members unless they explicitly declare that they want to be listed publicly.
-
-We only need one verifiable identifier, which can be an email or cryptocurrency address (private key), which is used to prove your membership.
+_After making your donation, kindly send us the tx hash, your T-shirt size, and let us know if you would like your membership to be public or kept private._
