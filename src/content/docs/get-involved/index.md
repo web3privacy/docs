@@ -5,7 +5,7 @@ sidebar:
     label: Introduction
 ---
 
-###  For all privacy advocates, projects and companies, we offer different ways to support us and become an integral part of our ecosystem.
+###  For all privacy advocates, projects and companies, we offer different ways to support us and become an integral part of our Ecosystem.
 
 ## GIT CONTRIBUTIONS
 This is the kind of support we value most: open-source, grassroots initiatives driven by individual passion and the desire to create something meaningful. 
@@ -13,7 +13,6 @@ To understand how to become a contributor, what projects you can help with, how 
 
 ⎆ [Become a Contributor](https://docs.web3privacy.info/contributors/)
 
-_Co-edit research and publications, update project's data throught pull requests, give us structured feedbacks, volunteer at events, or start a new project._
 
 ## SPONSORSHIP
 Sponsors are our value-aligned partners who help us maintain financial sustainability. They support our mission by contributing to all our activities, whether it's a research project, an event, a merchandise release.
