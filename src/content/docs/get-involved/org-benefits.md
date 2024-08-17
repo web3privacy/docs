@@ -7,8 +7,8 @@ title: Membership x Organisations
 ### Our Membership model has been designed to:
 
 - Avoid wasting time and resources
-- Foster collaboration with the aim of both organizations meeting their needs through collective action
 - Leverage our combined ecosystems and activities
+- Drive consistent collaboration to achieve lasting impact
 
 ![sponsor-13](https://github.com/web3privacy/docs/assets/101947219/25e571c1-1f94-4f59-ad7a-a163df11da13)
 
@@ -16,8 +16,15 @@ title: Membership x Organisations
 
 - We are an open-source & community-driven organization that empowers privacy and freedom.
 - We care about our independence and value collaboration over competition.
-- The last decision is always on us: we don’t work for any company, we collaborate with them.
-- Ideal partners are those who champion the growth of privacy for all.
+- We don’t work for any company, we collaborate with them.
+
+### Key Objectives 2024-2025
+
+Become the leading privacy-centric think-tank driving critical ecosystem advocacy.
+
+- 10 million annual reach (socials, media, events)
+- 2500 visitors to events (including 100 privacy experts)
+- 100+ active contributors within the W3PN community 
     
 ### Benefits for our Members:
 
