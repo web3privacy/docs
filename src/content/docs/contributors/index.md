@@ -68,7 +68,7 @@ _Shepherds: _[Jensei](https://x.com/jensei_),[PG](https://x.com/PG_CDG)_
 - improve project
 - collaborate with jensei 
 
-### ⎆[Privacy Local cases] (https://github.com/web3privacy/privacycases)
+### ⎆[Privacy Local cases](https://github.com/web3privacy/privacycases) 
 _Shepherds: _[Mykola](@nicksvyaznoy),[PG](https://x.com/PG_CDG)_
 
 - improve project
