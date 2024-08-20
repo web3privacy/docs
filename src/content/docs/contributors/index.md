@@ -17,15 +17,18 @@ Frequent contributors have the opportunity to become [Core Contributors](/govern
 
 *Project* is the basic unit of work by which we coordinate ourselves. 
 
-An example of a project is [Research](/research) or [Events](/events) or [Privacy Explorer](/projects/privacy-explorer). Each of these top-level projects is a separate unit with its own autonomy and may have other sub-projects (such as a specific event or specific research report, etc.). Check our [Projects registry](https://github.com/orgs/web3privacy/projects/12)
+An example of a project is [Research](/research) or [Events](/events) or [Privacy Explorer](/projects/privacy-explorer). Each of these top-level projects is a separate unit with its own autonomy and may have other sub-projects (such as a specific event or specific research report, etc.). 
 
-For any question or doubt don't hesitate to dm us on [Twitter](https://x.com/web3privacy) or [Signal](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhABUP9wOCxQoDFWpJchERkm). Every project is open for collaboration!
+Every project is open for collaboration!
+Check our [Projects registry](https://github.com/orgs/web3privacy/projects/12)
 
 **How to join a project**:
 _If you want to get involved in a project, you can either navigate the ones we are carrying on and do pull requests (see below) or write to the people leading it, the shepherds._
 
 **How to start new project:**
 _Publish and discuss a concept of your project in our [Projects registry](https://github.com/web3privacy/projects/issues) detailing the necessary requirements for initiation and maintenance, such as timing, funding, social media outreach, and design._
+
+For any question or doubt don't hesitate to dm us on [Twitter](https://x.com/web3privacy) or [Signal](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhABUP9wOCxQoDFWpJchERkm). 
 
 # Contributors Guide
 Here is a list of our ongoing activities. Feel free to **contribute on GitHub** or **DM Shepards** expressing your willingness to commit for receiving instructions.
