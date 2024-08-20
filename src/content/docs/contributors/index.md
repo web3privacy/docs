@@ -23,15 +23,63 @@ Check our [Projects registry](https://github.com/orgs/web3privacy/projects/12)
 
 ### ⎆ How to join a project
 
-If you want to get involved in a project, you can either navigate the ones we are carrying on and do pull requests (see below) or write to the people leading it. 
+If you want to get involved in a project, you can either navigate the ones we are carrying on and do pull requests (see below) or write to the people leading it (shepards). 
+
 For any question or doubt don't hesitate to dm us on [Twitter](https://x.com/web3privacy) or [Signal](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhABUP9wOCxQoDFWpJchERkm). Every project is open for collaboration!
 
 ### ⎆ How to start new project
 
 Do you have an idea for an interesting project related to our mission? Are you willing to help make it happen? Web3Privacy Now is here to help you.
+
 Publish and discuss a concept of your project in our [Projects registry](https://github.com/web3privacy/projects/issues) detailing the necessary requirements for initiation and maintenance, such as timing, funding, social media outreach, and design.
 
-## Contributors Guide
+# Contributors Guide
+Here is a list of our ongoing activities. Feel free to **contribute on GitHub** or **DM Shepards** expressing your willingness to commit for receiving instructions.
+
+### ⎆[Jobs](https://github.com/web3privacy/jobs-app)
+_Shepards: [Adam](https://x.com/vorcigernix), [Mykola](@nicksvyaznoy)_
+
+- improve project
+- test and find bugs
+- fix issues
+- [list vacancies](https://jobs.web3privacy.info/add)
+
+
+### ⎆[Explorer](https://github.com/web3privacy/explorer-app)
+_Shepards: [MF](https://x.com/0x_m_f)), [Mykola](@nicksvyaznoy)_
+
+- improve project
+- collect data
+- fix issues
+ 
+### ⎆[Academy ](https://github.com/web3privacy/cypherpunkacademy/blob/main/README.md)
+_Shepards: [PG](https://x.com/PG_CDG), [Mykola](@nicksvyaznoy)_
+
+- improve project
+- add suggestions via doc (Cryptpad)
+- outreach to speakers x socials
+
+### ⎆[Bounty platform]
+_Shepards: [CatThatLurks](https://x.com/CatThatLurks)_
+
+- improve project via git x docs
+- provide bounty x DM 
+
+### ⎆[Hackathon curation pack](https://docs.web3privacy.info/research/hackathon-pack/)
+_Shepards: _[Jensei](https://x.com/jensei_),[PG](https://x.com/PG_CDG)_
+
+- improve project
+- collaborate with jensei 
+
+### ⎆[Social cases] 
+- improve project via git
+- collect use-cases in your country
+
+ Idea Generator 
+
+- improve project via git
+- fix bugs
+- transform plain text use-cases into json
 
 ⎆ How to update data in our Privacy Market DB
 
