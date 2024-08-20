@@ -7,9 +7,9 @@ sidebar:
 
 ## Who is a contributor?
 
-A *contributor* is anyone who helps us with the realization of our [Projects](#projects), co-edit [research](https://github.com/orgs/web3privacy/projects/11/views/1) and [publications](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073), update project's data throught pull requests, give us structured feedbacks, volunteer at events, or start a new project.
+A *contributor* is anyone who supports our [Mission](https://web3privacy.info/about/) by actively participating in our [Projects](#projects), co-editing [research](https://github.com/orgs/web3privacy/projects/11/views/1) and [publications](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073), providing structured feedbacks, volunteering at events, or starting a whole new project.
 
-Contributors are often grouped by their skills and interest in different Workgroups. 
+Contributors are typically organized into Workgroups aligned with their skills and interests, each guided by one or more shepherds.
 
 Frequent contributors have the opportunity to become [Core Contributors](/governance/core-contributors/) and be rewarded for their contributions to open source.
 
@@ -17,27 +17,21 @@ Frequent contributors have the opportunity to become [Core Contributors](/govern
 
 *Project* is the basic unit of work by which we coordinate ourselves. 
 
-An example of a project is [Research](/research) or [Events](/events) or [Privacy Explorer](/projects/privacy-explorer). Each of these top-level projects is a separate unit with its own autonomy and may have other sub-projects (such as a specific event or specific research report, etc.).
-
-Check our [Projects registry](https://github.com/orgs/web3privacy/projects/12)
-
-### ⎆ How to join a project
-
-If you want to get involved in a project, you can either navigate the ones we are carrying on and do pull requests (see below) or write to the people leading it (shepards). 
+An example of a project is [Research](/research) or [Events](/events) or [Privacy Explorer](/projects/privacy-explorer). Each of these top-level projects is a separate unit with its own autonomy and may have other sub-projects (such as a specific event or specific research report, etc.). Check our [Projects registry](https://github.com/orgs/web3privacy/projects/12)
 
 For any question or doubt don't hesitate to dm us on [Twitter](https://x.com/web3privacy) or [Signal](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhABUP9wOCxQoDFWpJchERkm). Every project is open for collaboration!
 
-### ⎆ How to start new project
+_**How to join a project**:
+If you want to get involved in a project, you can either navigate the ones we are carrying on and do pull requests (see below) or write to the people leading it, the shepherds. _
 
-Do you have an idea for an interesting project related to our mission? Are you willing to help make it happen? Web3Privacy Now is here to help you.
-
-Publish and discuss a concept of your project in our [Projects registry](https://github.com/web3privacy/projects/issues) detailing the necessary requirements for initiation and maintenance, such as timing, funding, social media outreach, and design.
+**How to start new project:**
+_Publish and discuss a concept of your project in our [Projects registry](https://github.com/web3privacy/projects/issues) detailing the necessary requirements for initiation and maintenance, such as timing, funding, social media outreach, and design._
 
 # Contributors Guide
 Here is a list of our ongoing activities. Feel free to **contribute on GitHub** or **DM Shepards** expressing your willingness to commit for receiving instructions.
 
 ### ⎆[Jobs](https://github.com/web3privacy/jobs-app)
-_Shepards: [Adam](https://x.com/vorcigernix), [Mykola](@nicksvyaznoy)_
+_Shepherds: [Adam](https://x.com/vorcigernix), [Mykola](@nicksvyaznoy)_
 
 - improve project
 - test and find bugs
@@ -46,44 +40,48 @@ _Shepards: [Adam](https://x.com/vorcigernix), [Mykola](@nicksvyaznoy)_
 
 
 ### ⎆[Explorer](https://github.com/web3privacy/explorer-app)
-_Shepards: [MF](https://x.com/0x_m_f)), [Mykola](@nicksvyaznoy)_
+_Shepherds: [MF](https://x.com/0x_m_f), [Mykola](@nicksvyaznoy)_
 
 - improve project
 - collect data
 - fix issues
  
 ### ⎆[Academy ](https://github.com/web3privacy/cypherpunkacademy/blob/main/README.md)
-_Shepards: [PG](https://x.com/PG_CDG), [Mykola](@nicksvyaznoy)_
+_Shepherds: [PG](https://x.com/PG_CDG), [Mykola](@nicksvyaznoy)_
 
 - improve project
 - add suggestions via doc (Cryptpad)
 - outreach to speakers x socials
 
 ### ⎆[Bounty platform]
-_Shepards: [CatThatLurks](https://x.com/CatThatLurks)_
+_Shepherds: [CatThatLurks](https://x.com/CatThatLurks)_
 
 - improve project via git x docs
 - provide bounty x DM 
 
 ### ⎆[Hackathon curation pack](https://docs.web3privacy.info/research/hackathon-pack/)
-_Shepards: _[Jensei](https://x.com/jensei_),[PG](https://x.com/PG_CDG)_
+_Shepherds: _[Jensei](https://x.com/jensei_),[PG](https://x.com/PG_CDG)_
 
 - improve project
 - collaborate with jensei 
 
-### ⎆[Social cases] 
-- improve project via git
+### ⎆[Social cases] (https://github.com/web3privacy/privacycases)
+_Shepherds: _[Mykola](@nicksvyaznoy),[PG](https://x.com/PG_CDG)_
+
+- improve project
 - collect use-cases in your country
 
- Idea Generator 
+### ⎆[ Idea Generator](https://github.com/hackyguru/web3privacy-ideas)
+_Shepherds: _[Mykola](@nicksvyaznoy), [Guru](https://x.com/hackyguru)_
 
-- improve project via git
+- improve project
 - fix bugs
 - transform plain text use-cases into json
 
-⎆ How to update data in our Privacy Market DB
+### ⎆[ Web3Privacy Database](https://github.com/web3privacy/web3privacy)
+_Shepherds: _[Mykola](@nicksvyaznoy),[PG](https://x.com/PG_CDG)_
 
-example: _Maintaining our privacy DB updated: PR at GitHub_
+Here is a step-by-step guide on how to maintain our privacy DB updated via PR at GitHub:
 
 **Actualization**
 _goal_: up to date info in the database
