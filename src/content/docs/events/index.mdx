@@ -9,7 +9,7 @@ import { LinkCard } from '@astrojs/starlight/components';
 
 | Lead | Links | Workgroup |
 | --- | --- | --- |
-| @Tree | • Events list: [web3privacy.info/events](https://web3privacy.info/events)<br/> • lu.ma calendar: [lu.ma/web3privacy](https://lu.ma/web3privacy) | [PM](https://github.com/orgs/web3privacy/projects/7), [GitHub](https://github.com/web3privacy/events), [Matrix](https://matrix.to/#/#w3p-events:gwei.cz) |
+|  | • Events list: [web3privacy.info/events](https://web3privacy.info/events)<br/> • lu.ma calendar: [lu.ma/web3privacy](https://lu.ma/web3privacy) | [PM](https://github.com/orgs/web3privacy/projects/7), [GitHub](https://github.com/web3privacy/events), [Matrix](https://matrix.to/#/#w3p-events:gwei.cz) |
 
 ## Concept
 
@@ -26,11 +26,15 @@ We aim to produce high quality events that bring a very similar atmosphere and c
 
 ## Structured data source
 
-The source files with basic data about our events can be found in our `data` [Git repository](/git):
+The source files with basic data about our events can be found in our `data` [Git repository](/contributors/git):
 
 * [`@web3privacy/data`](https://github.com/web3privacy/data) (`src/events` directory)
 
-Feel free to edit or modify!
+*Feel free to add an event by making a PR to the web3privacy/data/src/events* 
+Please do read this docs page in full, respect the naming convention noted here, and follow the [how to add an event to website guide](/get-involved/add-event-to-website) `work-in-progress`
+
+| Guide | Link | Status |
+| Adding a new event to website | pending | `work-in-progress` |
 
 ## Naming conventions
 
@@ -42,16 +46,28 @@ The event identifier consists of:
 
 | Length | Description | Example |
 | --- | --- | --- |
-| 1 letter | code of [event type](/events/types) | `s` |
+| 1-2 letter | code of [event type](/events/types) | `s` |
 | 2 letter | calendar year | `24` |
 | 2-3 letters | pseudo city/event code | `prg` |
 | 1 letter | sequence number (optional) | - |
 
 Example identifiers:
 * `s24prg` - summit in Prague 2024
-* `m24dc` - meetup near Devcon 2024
-* `c25be` - Privacy Corner on MoneroKon 2025
-* `m25prg2` - second meetup in Prague 2025
+* `c25bkk` - congress in Bangkok 2025
+* `pc25ber` - Privacy Corner in Berlin 2025
+* `mh26rom` - meta-hackathon in Rome 2026
+
+List of event codes:
+
+| Event Code | Description | Example |
+| --- | --- | --- |
+| s  | summit | s24prg |
+| m  | meetup | m24rom |
+| h  | hackathon | h23prg |
+| c  | congress | c25bkk |
+| pc  | privacy-corner | pc25ber |
+| os  | online-summit | os22web |
+| mh  | meta-hackathon | mh26rom |
 
 ### Name of the event
 
@@ -64,7 +80,7 @@ For internal referencing its possible to skip `W3PN` or `Web3Privacy Now` part.
 
 Examples:
 * `Web3Privacy Now Summit Prague 2024`
-* `W3PN Hackathon Bled 2024`
+* `W3PN Hackathon Rome 2024`
 * `Meetup Bucharest 2024` (internal)
 
 ## Seasons
@@ -81,7 +97,7 @@ Within the season, all events are prepared together as one package. This also ap
 
 Each season as a whole has a predetermined budget that we want to raise from sponsors and donors. These funds are then used to cover the costs associated with organising these events.
 
-The Season Budget consists of budget approved by Web3Privacy Now [association](/association/).
+The Season Budget consists of budget approved by Web3Privacy Now [Treasury](/governance/treasury).
 
 ## Regions
 
@@ -139,8 +155,6 @@ Funds to pay for event expenses and services come from the shared [Season Budget
 
 The amount to be provided for a particular event depends on the [type of event](/events/types), its duration and other parameters.
 
-### Legal entity
-
 ### Visual identity
 
 TODO
@@ -188,14 +202,14 @@ Final ticketing (registration) starts the moment we have a confirmed date and lo
 
 All those who have pre-registered are notified of final registration via email.
 
-#### Payment methods
+#### Donation methods
 
-We usually accept these payment methods:
+We usually accept these donation methods:
 * fiat
-  * payment cards
+  * cash
 * cryptocurrencies
   * BTC, BTC (Lightning)
-  * ETH and stablecoins (also L2s)
+  * ETH and stablecoins
   * XMR
 
 ## Speakers
@@ -210,15 +224,15 @@ If you are interested in visibility of your organization at our events, then we 
 
 ### Members (General Partners)
 
-Your organisation can become [organisational member](/membership/#membership-for-organizations) of Web3Privacy Now and automatically gain visibility at our events, depending on the Tier choosen.
+Your organisation can become an [organisational partner](/get-involved/org-benefits) of Web3Privacy Now and automatically gain visibility at our events, depending on the Tier choosen.
 
 ### Media partners
 
-It is possible to become a general partner for all events, or just a partner for a specific event. Please [contact us](/contacts) for more details.
+It is possible to become a general partner for all events, or just a partner for a specific event. Please [contact us](/about-us//contact-us) for more details.
 
 ### Community partners
 
-We offer local non-profit organizations and communities the opportunity to become a community partner for a specific event. Please [contact us](/contacts) for more details.
+We offer local non-profit organizations and communities the opportunity to become a community partner for a specific event. Please [contact us](/about-us/contact-us) for more details.
 
 ## Volunteers
 
@@ -242,4 +256,4 @@ We do not provide the personal information about visitors or other involved peop
 
 ## Code of Conduct
 
-Our events are guided by our community [Code of Conduct](/code-of-conduct).
+Our events are guided by our community [Code of Conduct](/get-involved/code-of-conduct).
