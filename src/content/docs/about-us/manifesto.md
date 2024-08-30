@@ -46,4 +46,4 @@ We produce and curate knowledge to empower individuals restoring their agency in
 
 _We envision a world where privacy is a conscious, actively chosen lifestyle, accessible to everyone, everywhere._
 
-![Bringing 100M users to privacy market](../assets/Bringing-100M-to-privacy-market.png)
+![Bringing 100M users to privacy market](../assets/100M-to-privacy.png)
