@@ -26,5 +26,6 @@ Approach:
 | [Explorer](http://explorer.web3privacy.info) | Back-end development update | [Develit](http://develit.io) |
 | [Hackathon curation pack](https://docs.web3privacy.info/research/hackathon-pack/) | Intial pack x ETHRome (v1.0) | [Jensei](https://x.com/jensei_) |
 | Woman in Privacy | [Intial working group formation & project launch](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/women-in-privacy.md) | [Ann Brody](https://x.com/annbrody7) |
+| Academy | Curate writing & video materials | JD |
 
 _We are building general bounty board for the privacy market (Alpha stage) that will help to outomate not just internal W3PN, but all bounties across the privacy & web3 market_
