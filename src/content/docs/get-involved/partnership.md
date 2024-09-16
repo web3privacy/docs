@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/da03214f-a7d1-46de-8d93-7dcf577d8cfb)---
+
 title: Partnership
 ---
 
