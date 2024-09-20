@@ -15,6 +15,7 @@ Rather than one-time deals for individual events or projects, we strive for cons
 - [Labyrinth](https://www.labyrinth.technology/)
 - [Intmax](https://www.intmax.io/)
 - [TokenDynamics](https://tokendynamics.xyz/)
+- [MorosNet](https://morosnet.com/)
 
 # SPONSORS
 
@@ -27,5 +28,5 @@ They support our mission by contributing to all our activities, whether it's a r
 
 # COMMUNITY PARTNERS
 
-[Open Observatory of Network Interference](https://ooni.org/) | [Kernel](https://kernel.community/) | [LunarDAO](https://lunardao.net/) | [CryptoCanal](https://lu.ma/cryptocanal) | [MolochDAO](https://molochdao.com/) | [MorosNet](https://morosnet.com/grants/) | [Urbe](https://linktr.ee/urbe.eth) | [PrivacyGuardians](http://privacyguardians.io/) | [MoneroKon](https://monerokon.org/) | [Gwei](https://gwei.cz/) | [ETHRome](https://www.ethrome.org) | [ETHBarcelona](https://www.ethbarcelona.com/) | [ETHBrno](https://ethbrno.cz/) | [Hopr](https://hoprnet.org/) | [UkraineDAO](https://ukrainedao.love/) | [ParalelniPolis](https://www.paralelnipolis.cz/en/) | [Zcash](https://z.cash/) | [ShieldingSummit](https://shieldingsummit.org/)
+[Open Observatory of Network Interference](https://ooni.org/) | [Kernel](https://kernel.community/) | [LunarDAO](https://lunardao.net/) | [CryptoCanal](https://lu.ma/cryptocanal) | [MolochDAO](https://molochdao.com/) | [Urbe](https://linktr.ee/urbe.eth) | [PrivacyGuardians](http://privacyguardians.io/) | [MoneroKon](https://monerokon.org/) | [Gwei](https://gwei.cz/) | [ETHRome](https://www.ethrome.org) | [ETHBarcelona](https://www.ethbarcelona.com/) | [ETHBrno](https://ethbrno.cz/) | [Hopr](https://hoprnet.org/) | [UkraineDAO](https://ukrainedao.love/) | [ParalelniPolis](https://www.paralelnipolis.cz/en/) | [Zcash](https://z.cash/) | [ShieldingSummit](https://shieldingsummit.org/)
 
