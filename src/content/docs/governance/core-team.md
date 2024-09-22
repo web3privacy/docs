@@ -29,10 +29,10 @@ Core Team members are elected by decision of the [Congress](/events/congress) fo
 
 | Repository | Description |
 | --- | --- |
-| [@web3privacy/core](https://github.com/web3privacy/core) | Core team PM | 
-| [@web3privacy/core-internal](https://github.com/web3privacy/core-internal) 🔒 | Core team internals (private) | 
-| [@web3privacy/dns-zones](https://github.com/web3privacy/dns-zones) 🔒 | Our DNS zones (private) | 
-| [@web3privacy/sysop-info](https://github.com/web3privacy/sysop-info) 🔒 | Basic sysop info (private) | 
+| [web3privacy/core](https://github.com/web3privacy/core) | Core team PM | 
+| [web3privacy/core-internal](https://github.com/web3privacy/core-internal) 🔒 | Core team internals (private) | 
+| [web3privacy/dns-zones](https://github.com/web3privacy/dns-zones) 🔒 | Our DNS zones (private) | 
+| [web3privacy/sysop-info](https://github.com/web3privacy/sysop-info) 🔒 | Basic sysop info (private) | 
 
 ## Matrix channels
 
