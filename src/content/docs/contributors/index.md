@@ -43,14 +43,14 @@ _Shepherds: [Adam](https://x.com/vorcigernix), [Mykola](https://x.com/nicksvyazn
 
 
 ### ⎆[Explorer](https://github.com/web3privacy/explorer-app)
-_Shepherds: [MF](https://x.com/0x_m_f), [Mykola](@nicksvyaznoy)_
+_Shepherds: [MF](https://x.com/0x_m_f), [Mykola](https://x.com/nicksvyaznoy)_
 
 - improve project
 - collect data
 - fix issues
  
 ### ⎆[Academy ](https://github.com/web3privacy/cypherpunkacademy/blob/main/README.md)
-_Shepherds: [PG](https://x.com/PG_CDG), [Mykola](@nicksvyaznoy)_
+_Shepherds: [PG](https://x.com/PG_CDG), [Mykola](https://x.com/nicksvyaznoy)_
 
 - improve project
 - add suggestions via doc (Cryptpad)
@@ -69,20 +69,20 @@ _Shepherds: _[Jensei](https://x.com/jensei_),[PG](https://x.com/PG_CDG)_
 - collaborate with jensei 
 
 ### ⎆[Privacy Local cases](https://github.com/web3privacy/privacycases) 
-_Shepherds: _[Mykola](@nicksvyaznoy),[PG](https://x.com/PG_CDG)_
+_Shepherds: _[Mykola](https://x.com/nicksvyaznoy),[PG](https://x.com/PG_CDG)_
 
 - improve project
 - collect use-cases in your country
 
 ### ⎆[ Idea Generator](https://github.com/hackyguru/web3privacy-ideas)
-_Shepherds: _[Mykola](@nicksvyaznoy), [Guru](https://x.com/hackyguru)_
+_Shepherds: _[Mykola](https://x.com/nicksvyaznoy), [Guru](https://x.com/hackyguru)_
 
 - improve project
 - fix bugs
 - transform plain text use-cases into json
 
 ### ⎆[ Web3Privacy Database](https://github.com/web3privacy/web3privacy)
-_Shepherds: _[Mykola](@nicksvyaznoy),[PG](https://x.com/PG_CDG)_
+_Shepherds: _[Mykola](https://x.com/nicksvyaznoy),[PG](https://x.com/PG_CDG)_
 
 Here is a step-by-step guide on how to maintain our privacy DB updated via PR at GitHub:
 
