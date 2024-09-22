@@ -18,7 +18,7 @@ _via_
 
 | | 2024 Roadmap |
 | --- | --- |
-| ⚙️ Core Initiative | • [Partnership](/partnership/) & [Core team](/governance/core-team)) |
+| ⚙️ Core Initiative | • [Partnership](/get-involved/partnership/) & [Core team](/governance/core-team)) |
 | 🔬 [Research](/research/) | Upcoming reports:<br/> • [Privacy Guides for the general public](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-guides)<br/>• [Scoring Model v2.0](https://github.com/web3privacy/grants/blob/main/README.md#-privacy-beat)<br/>• [Hackathon Curation Pack](https://github.com/web3privacy/grants/blob/main/README.md#-hackathon-curation-pack)<br/>• [Ethereum Privacy Ecosystem](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem) |
 | 📅 [Events](/events/) | 2024 Season:<br/> • 17 events in 14 countries<br/> • 1 hackathon, 2 summits, 14 meetups |
 | 👁️ [Privacy Explorer](/projects/privacy-explorer) | [v2.0](/projects/privacy-explorer#milestones) upgrade |
