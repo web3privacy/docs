@@ -9,7 +9,7 @@ sidebar:
 
 ## GIT CONTRIBUTIONS
 This is the kind of support we value most: open-source, grassroots initiatives driven by individual passion and care. 
-To learn how to become a contributor, discover which projects you can assist with, or start a new one, visit the [Contributors Guide](https://docs.web3privacy.info/contributors/)
+To learn how to become a contributor, discover which projects you can assist with, or start a new one, visit the [Contributors Guide](/contributors/index)
 
 
 ## SPONSORSHIP
@@ -36,6 +36,6 @@ Our mission is to delve into digital privacy from a broad spectrum of viewpoints
 ## DONATE
 Our diverse array of research, projects development, events and tools production is all offered freely, fueled by people and organizations who care about digital privacy.
 
-⎆ [Donate now](https://docs.web3privacy.info/donate/), support our independence, and help us to advocate for freedom!
+⎆ [Donate now](/get-involved/donate/), support our independence, and help us to advocate for freedom!
 
 

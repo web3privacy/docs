@@ -12,6 +12,6 @@ title: Membership x individuals
 - Discount in our store (25%)
 - 100 EUR/year
 
-⎆ [Become a Member](https://docs.web3privacy.info/donate/)
+⎆ [Become a Member](/get-involved/donate/)
 
 _After making your donation, kindly send us the tx hash, your T-shirt size, and let us know if you would like your membership to be public or kept private._

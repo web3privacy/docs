@@ -12,11 +12,11 @@ We are developing a transparent grant system that will serve as the main way to 
 * operating costs
 * marketing and promotional expenses
 
-The subject of the funding request cannot be the direct payment of contributors - for these purposes it is necessary to become a member of the [Contributors Guild](/guild).
+The subject of the funding request cannot be the direct payment of contributors - for these purposes it is necessary to become an active [Contributors to the project](/contributors/index).
 
 ## Funding Requests
 
-*Funding Request Proposals* (FRPs) is a transparent application process to receive money from our [Treasury](/treasury). Most of our income is redistributed through these applications.
+*Funding Request Proposals* (FRPs) is a transparent application process to receive money from our [Treasury](/governance/treasury). Most of our income is redistributed through these applications.
 
 Each application will be assessed by members of the [Core Team](/core-team), according to whose decision it will be accepted or rejected.
 

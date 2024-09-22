@@ -4,7 +4,7 @@ title: IT Infrastructure
 
 Our initiative operates various shared IT services that are available to all our contributors and projects.
 
-If you are interested in using any of our shared IT infrastructure, please contact the [IT Operation Workgroup](/workgroups#internal) members.
+If you are interested in using any of our shared IT infrastructure, please contact the [IT Operation Workgroup](/contributors/workgroups) members.
 
 ## General overview
 

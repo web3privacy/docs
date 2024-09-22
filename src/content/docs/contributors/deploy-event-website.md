@@ -26,7 +26,7 @@ The cost for us to deploy a new website is basically zero (aside from contributo
 - [ ] In the main window, under the 'Source' section, ensure 'Deploy from Branch' option is selected in the dropdown menu
 - [ ] Underneith it in the 'Branch' section, use the dropdown and select 'main' (next to it the '/root' option will autoselect itself)
 - [ ] In this section 'Branch', click on the 'Save' button, the webpage will reload
-- [ ] After a few  minutes Github Pages will deploy your code online, go to the Deployments section of your project (Example: [https://github.com/web3privacy/c24bkk/deployments/github-pages](https://github.com/web3privacy/c24bkk/deployments/github-pages))
+- [ ] After a few  minutes Github Pages will deploy your code online, go to the Deployments section of your project (Example: [https://github.com/web3privacy/c24bkk/deployments](https://github.com/web3privacy/c24bkk/deployments))
 - [ ] Here you can see the current deployments, their URL, a button to visit the site, and also where the option to Unpublish it is available
 
 ### Part 2: Porkbun

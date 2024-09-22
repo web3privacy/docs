@@ -18,5 +18,3 @@ Ideas & references for privacy builders
 - Expand use-cases database
 
 ### Phase 1: initial DB aggregaton 23'
-
-[DB](https://github.com/Msiusko/web3privacy/blob/main/Use-cases.md)

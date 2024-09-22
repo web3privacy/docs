@@ -15,9 +15,9 @@ The Congress is held once a year.
 
 * a vote on the long-term direction of the initiative
 * approval of the financial plan for the following year
-* election of [Core Team](governance/core-team) members (3 year election period)
+* election of [Core Team](/governance/core-team) members (3 year election period)
 * election of members of the executive body of the *Association Committee* (5 year election period)
 
 ## Who makes the decisions
 
-* our [Members](/partnership) with a voting rights
+* our [Members](/get-involved/partnership) with a voting rights
