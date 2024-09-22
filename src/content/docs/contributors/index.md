@@ -34,7 +34,7 @@ For any question or doubt don't hesitate to dm us on [Twitter](https://x.com/web
 Here is a list of our ongoing activities. Feel free to **contribute on GitHub** or **DM Shepards** expressing your willingness to commit for receiving instructions.
 
 ### ⎆[Jobs](https://github.com/web3privacy/jobs-app)
-_Shepherds: [Adam](https://x.com/vorcigernix), [Mykola](@nicksvyaznoy)_
+_Shepherds: [Adam](https://x.com/vorcigernix), [Mykola](https://x.com/nicksvyaznoy)_
 
 - improve project
 - test and find bugs
