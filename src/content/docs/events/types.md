@@ -22,7 +22,7 @@ We divide events into the following types according to their length and goal:
 | --- | --- | --- | --- |
 | [Privacy Corner](https://github.com/web3privacy/privacy-corner) (`c`) | - | $3-10k | pop-up space inside of major hackathons |
 | [Meta-hackathon](#meta-hackathon) (`q`) | *variable* | $15-30k | a multi-day event focused on W3PN activities |
-| [Congress](/congress) (`x`) | - | ? | W3PN governance gathering |
+| [Congress](/events/congress) (`x`) | - | ? | W3PN governance gathering |
 
 ## Details of types
 
