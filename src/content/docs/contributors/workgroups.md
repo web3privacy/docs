@@ -10,10 +10,10 @@ Here you will find an overview of all the workgroups together with the people in
 
 | Name | Lead | Members | Links |
 | --- | --- | --- | --- |
-| [**Core Team**](/core-team) | Mykola, PG, Coinmandeer, niclaz | [PM](https://github.com/orgs/web3privacy/projects/8), 🔒 [GitHub](https://github.com/web3privacy/core-internal), 🔒 Matrix |
+| [**Core Team**](/about-us/core-team) | Mykola, PG, Coinmandeer, niclaz | [PM](https://github.com/orgs/web3privacy/projects/8), 🔒 [GitHub](https://github.com/web3privacy/core), 🔒 Matrix |
 | **Marketing & Outreach** | Mykola | PG |
 | **Partnerships** | PG | Mykola | 🔒 [PM](https://github.com/orgs/web3privacy/projects/10), 🔒 Matrix |
-| **IT Operation** | niclaz | ||
+| **IT Operations** | niclaz | ||
 | **Design department** | Coinmandeer | ||
 
 🔒 - private tool (non-public)
