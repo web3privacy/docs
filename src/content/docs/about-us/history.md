@@ -112,7 +112,7 @@ Historical track record of *Web3Privacy Now*.
 * **Talk**: _UkraineDAO on privacy x Mykola_: [X Spaces](https://twitter.com/cryptodrftng/status/1616807220628291585)
 * **Infographic**: _Web3privacy landscape_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Web3privacy%20landscape%20(jan%202023).jpg)
 * **Infographic**: _ZK x Privacy landscape_: [GitHub](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/ZK-private%20landscape.jpg)
-* **Research**: _ZK x Privacy DB_: [GitHub](https://github.com/web3privacy/web3privacy/tree/main/ZKprivacylandscape)
+* **Research**: _ZK x Privacy DB_: [GitHub](https://github.com/web3privacy/web3privacy/tree/main/Market%20overview/ZK%20privacy%20landscape)
 * **Research**: _300 projects in our Privacy services in Web3 database_: [GitHub](https://github.com/web3privacy/web3privacy)
 * **Research**: _Privacy assessment platform concept_: [GitHub](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform)
 * **Research**: _Privacy assessment market survey_: [GitHub](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform/scoringmodel/Survey), [Spreadsheet](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/edit#gid=0)
