@@ -78,7 +78,11 @@ export default defineConfig({
 						{ label: 'Contributors guide', link: '/contributors/index' },			
 						{ label: 'Workgroups', link: '/contributors/workgroups' },
 						{ label: 'Git repositories', link: '/contributors/git' },
-						{ label: 'Guide: how to deploy event website', link: '/contributors/deploy-event-website' },
+						{ label: 'Guide: how to add entry to docs', link: '/contributors/add-entry-to-docs' },
+						{ label: 'Guide: how to add event to website', link: '/contributors/add-event-to-website' },
+						{ label: 'Guide: how to add speaker to data', link: '/contributors/add-speaker-to-data' },
+						{ label: 'Guide: how to use gen-img front-end', link: '/contributors/gen-img-front-end' },
+						{ label: 'Guide: how to deploy a W3PN events website', link: '/contributors/deploy-event-website' },						
 						{ label: 'Code of conduct', link: '/get-involved/code-of-conduct' },
 					]
 				},
