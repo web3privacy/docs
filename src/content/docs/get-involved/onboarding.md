@@ -10,9 +10,10 @@ To structure a growth path which:
 
 **we invite you to**
 
-1) [Add your project and update the data](https://github.com/web3privacy/explorer-data/blob/main/README.md) to [Explorer](https://explorer.web3privacy.info)
-2) [Add​​​​​​​ your current vacancies](http://jobs.web3privacy.info)
-3) Share with us the following information:
+1) [Add your project and update the data](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/Ri2ZMIq6Os-ZKQyT_l6a5F1-gJURySvvwNRKzBvNpWM) to [Explorer](https://explorer.web3privacy.info)
+2) [Update your favourite project with the most relevant information](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/yDbRRq8FjSogK7iUWdiRKkm54wvx6DgRt99gFuineuY)
+3) [Add​​​​​​​ your current vacancies](http://jobs.web3privacy.info)
+4) Share with us the following information:
 
 ### Marketing
 
