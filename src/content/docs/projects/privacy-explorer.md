@@ -4,17 +4,16 @@ title: Privacy Explorer
 
 **3in1**: a ranking system, database & comprehensive profiling to empower the general public in discerning the privacy levels, security, and reliability of Web3 projects.
 
-![privacy dashboard](../assets/Explorer-privacy-dashboard-jun-24.png)
+![privacy dashboard](../assets/Explorer.png)
 
 - Website [link](https://explorer.web3privacy.info)
 
 **contributors**: Ethanolo, Juan, Coinmandeer, Develit, Mykola, Rsscono1, Mf
 
-![alt text](../assets/explorer-platform-overview.png)
 
 Despite the foundational role that privacy is meant to play in shaping Web3, genuinely impactful initiatives remain scarce. Many projects leverage the concept of privacy as a buzzword or for public relations advantage, rather than addressing tangible issues or enacting substantial changes at the infrastructural and transactional level.
 
-That's why a ranking system of all privacy-related projects in the Web3 could help a lot the users to discern and decide who to trust.
+That's why a ranking system of all privacy-related projects in Web3 could help a lot the users to discern and decide who to trust.
 
 ### Major update (10 October)
 - [New front-end UI & UX ](https://explorer.web3privacy.info/)
