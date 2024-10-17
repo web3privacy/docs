@@ -24,7 +24,7 @@ Rather than one-time deals for individual events or projects, we strive for cons
 
 Sponsors are our value-aligned partners who help us maintain financial sustainability. They support our mission by contributing to all our activities, whether it's a research project, an event, a merchandise release.
 
-[Privacy Scaling Exploration](https://pse.dev/) | [Ethereum Foundation](https://ethereum.org/) | [Payy](https://polybaselabs.com/)| [Firo](https://firo.org/) | [Firn](https://firn.cash/) | [Privacy Scaling Exploration](https://pse.dev/) | [Railgun](https://railgun.org/) | [ENS](https://ensdao.org/) | [Navio (ex Navcoin)](https://x.com/navio_official) | [Panther](https://www.pantherprotocol.io/) | [AragonZKResearch](https://research.aragon.org/) | [Secret Network](https://scrt.network) | [Waku](http://waku.org) | [HOPR](http://hoprnet.org) | [Reclaim](https://www.reclaimprotocol.org) | [NYM](http://nymtech.net) | [Nillion](https://nillion.com/) | [Swarm](https://www.ethswarm.org/) 
+[Privacy Scaling Exploration](https://pse.dev/) | [Ethereum Foundation](https://ethereum.org/) | [Payy](https://polybaselabs.com/)| [Firo](https://firo.org/) | [Firn](https://firn.cash/) | [Privacy Scaling Exploration](https://pse.dev/) | [Railgun](https://railgun.org/) | [ENS](https://ensdao.org/) | [Navio (ex Navcoin)](https://x.com/navio_official) | [Panther](https://www.pantherprotocol.io/) | [AragonZKResearch](https://research.aragon.org/) | [Secret Network](https://scrt.network) | [Waku](http://waku.org) | [HOPR](http://hoprnet.org) | [Reclaim](https://www.reclaimprotocol.org) | [NYM](http://nymtech.net) | [Nillion](https://nillion.com/) | [Swarm](https://www.ethswarm.org/) | [Holonym](https://holonym.id/) 
 
 # GRANT GIVERS
 
