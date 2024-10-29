@@ -6,7 +6,7 @@ title: How to add an event to the web3privacy now website
 
 The main project website is [web3privacy.info](https://web3privacy.info) and is auto-deployed via Github Pages leveraging the [Astro framework](https://astro.build/) but the data for the events listed, speaker profiles, W3P members/community partners, research and project is aggregated from our data repository and not the Astro code that runs the main website. 
 
-Therefore to add an event you need to edit the code in the Data repository of Web3privacy now, so that it auto-deploys a json output that is visible at [data.web3privacy.info](https://data.web3privacy.info) from which the Events are indexed, where data and images for speakers and the event are scrapped and presented on the main project website.
+Therefore to add an event you need to edit the code in the Data repository of Web3privacy now, so that it auto-deploys a json output that is visible at [data.web3privacy.info](https://data.web3privacy.info) from which the Events are indexed, where data and images for speakers and the event are scrapped and presented on the main project website. Please take note that within the Data repository all 'speakers' are 'persons' and can be found within the 'people' folder of the code.
 
 **Please advise:** It is essential to distinguish these two repositories and ensure you are not making edits to /web when you are adding a new event:
 - /web code repository: [https://github.com/web3privacy/web](https://github.com/web3privacy/web)
@@ -34,7 +34,7 @@ Attention: to add a new event to the Web3privacy website **you do NOT need to ma
 [naming convention for event 'id'](https://docs.web3privacy.info/events/#naming-conventions)
 
 ## Pre-requisites
-- Have a Github account to create a PR in this repository[https://github.com/web3privacy/data](https://github.com/web3privacy/data)
+- Have a Github account to create a fork of this repository[https://github.com/web3privacy/data](https://github.com/web3privacy/data)
 - Have the relevant event information on hand (time, date, city, speakers, etc)
 - Have generated images for the event using the gen-img front-end (see Part 3 below)
 - Knowledge of our naming convention for event 'id' (how we name events) as [described here](https://docs.web3privacy.info/events/#naming-conventions) - for example: the 2024 congress in Bangkok has an id of `c24bkk`
@@ -78,8 +78,8 @@ Attention: to add a new event to the Web3privacy website **you do NOT need to ma
 
 ### Part 1: Setup
 - [ ]  Sign in to Github and go to the [Data repository](https://github.com/web3privacy/data)
-- [ ]  Make a fork of the Data repository, and proceed to make the edits in your fork
-- [ ]  Collect the following information for the new event: date, location, lead person(s), registration link, some of the confirmed speakers
+- [ ] Make a fork of the Data repository, and proceed to make the edits within your fork of the code
+- [ ] Collect the following information for the new event: date, location, lead person(s), registration link, some of the confirmed speakers
 
 
 ### Part 2: Data repository
@@ -90,7 +90,7 @@ Attention: to add a new event to the Web3privacy website **you do NOT need to ma
 - id: 
 - date:
 ```
-- [ ] the following are optional data points, which you should add to make the website listing look better
+- [ ] the following are optional data fields, which you should add to make the website listing look better
 ```
 - issue:
 - type:
@@ -112,7 +112,7 @@ Attention: to add a new event to the Web3privacy website **you do NOT need to ma
 - design
 ```
 
-- [ ] For the full schema and what each of these data points are requesting see [data/schema/index.yaml between lines 27 - 103](https://github.com/web3privacy/data/blob/main/schema/index.yaml)
+- [ ] For the full schema and what each of these data fields are requesting see [data/schema/index.yaml between lines 27 - 103](https://github.com/web3privacy/data/blob/main/schema/index.yaml)
 - [ ] A good practice would be to find an event of the same `type`, copying it's entry in the index.yaml and then replacing the relevant information. For example to list the next Web3Privacy Congress, go to last year's edition and copy that as a template for your entry.
 - [ ] Once you added the event to the index.yaml, navigate to the relevant folder (sub-divided by year) within the _images folder of /events: [https://github.com/web3privacy/data/tree/main/src/events/_images](https://github.com/web3privacy/data/tree/main/src/events/_images)
 - [ ] Here is where you will be uploading 5 images for the event you added using the gen-img script explained below in Part 3.
@@ -128,16 +128,16 @@ https://github.com/web3privacy/web/tree/main/public/gen-img/events
 - [ ] Double check the content and images are there, then you can create a Pull Request from your fork into the main /data repository.
 
 ### Part 4: Refreshing data and synching
-- [ ] Once the PR is merged, verify there are no issues within the Github Pages deployment. To do this visit the Actions page and see if any recent Actions have failed (red circle indicates this).
+- [ ] Once the Pull Request is merged, verify there are no issues within the Github Pages deployment. To do this visit the Actions page and see if any recent Actions have failed (red circle indicates this).
 - [ ] Request that the /data maintainer runs the [W3PN data refresh Action](https://github.com/web3privacy/data/actions/workflows/data-refresh.yml)
 - [ ] Request that the /data maintainer runs the [sync Action](https://github.com/web3privacy/data/actions/workflows/sync.yml)
 - [ ] Check the event listed in visible on data.web3privacy.info and that images and thumbs have been properly generated by scripts
 - [ ] Wait 6 hours for the automated scripts within the /web code base to activate and scrape the appropriate data from data.web3privacy.info
 - [ ] navigate to the events section of the website and verify all is correct: [https://web3privacy.info/events](https://web3privacy.info/events) 
 
-### Tooling
-https://web3privacy.info/gen/event/
-https://github.com/web3privacy/web/tree/main/public/gen-img/events
+### Tips & Tooling
+- [ ] [https://web3privacy.info/gen/event](https://web3privacy.info/gen/event)
+- [ ] [https://github.com/web3privacy/web/tree/main/public/gen-img/events](https://github.com/web3privacy/web/tree/main/public/gen-img/events)
 
 ### Troubleshooting
 - Ask in W3PN chats for support or help
@@ -149,4 +149,4 @@ https://github.com/web3privacy/web/tree/main/public/gen-img/events
 
 [Astro documentation](https://docs.astro.build/en/getting-started/)
 
-[Example PR of adding an event to Data repository](https://github.com/web3privacy/data/pull/5)
+[Example Pull Request adding an event to Data repository](https://github.com/web3privacy/data/pull/5)
