@@ -10,33 +10,33 @@ Our diverse array of research, projects development, events and tools production
 SUPPORT OUR INDEPENDENCE, HELP US TO ADVOCATE FOR WEB3 PRIVACY:  
 
 
-### Ethereum & stablecoins 
+## Ethereum & stablecoins 
 
-0xc3b5331362aF2C6c32cA22A893142e06BB1608c1
+`0xc3b5331362aF2C6c32cA22A893142e06BB1608c1`
 
 This address can be used for donations on Optimism, Arbitrum, BSC, BASE and other EVM blockchains
 
 ![ETH donation QR](../assets/w3p-qr-eth-white.png)
 
-### Bitcoin
+## Bitcoin
 
-bc1qfacmh9rqhh3j3xayxzga9xrgas894zfe2v37rz
+`bc1qfacmh9rqhh3j3xayxzga9xrgas894zfe2v37rz`
 
 ![BTC donation QR](../assets/w3p-qr-btc-white.png)
 
 
-### Monero
+## Monero
 
-45hzJHESi64PYf44PmewggSNcxjLqBYdtLQuFKQ8XS1r8PiJUciBjbNCbvuVmJTmTnCmMXUQ2SPo8ASpZ9Rfq6L7F8vpcUV
+`45hzJHESi64PYf44PmewggSNcxjLqBYdtLQuFKQ8XS1r8PiJUciBjbNCbvuVmJTmTnCmMXUQ2SPo8ASpZ9Rfq6L7F8vpcUV`
 
 ![XMR donation QR](../assets/w3p-qr-xmr-white.png)
 
 
-### ZCash 
+## ZCash 
 
-zs1mzlsgmt05dz4yl8uk2nw66vjfqngkunedrf0vcqsh7d4azjuaw353gm4wvhzucvvuum9c3ecncy
+`zs1mzlsgmt05dz4yl8uk2nw66vjfqngkunedrf0vcqsh7d4azjuaw353gm4wvhzucvvuum9c3ecncy`
 
 ![ZEC donation QR](../assets/w3p-qr-zec-white.png)
 
 
-## Thank you for your support!
+### Thank you for your support!

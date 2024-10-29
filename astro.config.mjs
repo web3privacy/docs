@@ -9,7 +9,7 @@ export default defineConfig({
 			title: 'Web3Privacy Now Docs',
 			social: {
 				github: 'https://github.com/web3privacy',
-				twitter: 'https://twitter.com/web3privacy',
+				matrix: 'https://matrix.web3privacy.info',
 			},
 			logo: {
 				src: './public/logo.png',
@@ -119,4 +119,7 @@ export default defineConfig({
 			],
 		}),
 	],
+	redirects: {
+    		'/donate': '/get-involved/donate'
+  	}
 });
