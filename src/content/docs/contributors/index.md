@@ -7,7 +7,13 @@ sidebar:
 
 ## Who is a contributor?
 
-A *contributor* is anyone who supports our [Mission](https://web3privacy.info/about/) by actively participating in our [Projects](#projects), co-editing [research](https://github.com/orgs/web3privacy/projects/11/views/1) and [publications](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073), providing structured feedbacks, volunteering at events, or starting a whole new project.
+A *contributor* is someone who actively supports our [Mission](https://web3privacy.info/about/) by participating in our activities and [Projects](#projects). In other words, a contributor is anyone who: 
+
+- assists in writing code and enhancing our open-source tools
+- conducts research or co-edits our [research](https://github.com/orgs/web3privacy/projects/11/views/1) and [publications](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073)
+- offers structured feedbacks
+- volunteers at events
+- initiates an entirely new project to advance our mission
 
 Contributors are typically organized into Workgroups aligned with their skills and interests, each guided by one or more shepherds.
 
