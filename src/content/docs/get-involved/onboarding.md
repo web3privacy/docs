@@ -2,7 +2,7 @@
 title: Onboarding new Members to the Web3Privacy Now Ecosystem
 ---
 
-**Help us understand your needs so we can develop a strategy that maximizes impact.**
+### Help us understand your needs so we can develop a strategy that maximizes impact.
 
 Our goal is to create a growth path that:
 
