@@ -27,5 +27,5 @@ Our goal is to create a growth path that:
 
 **Extra**
 
-- Feel free to [add​​​​​​​ your current vacancies](http://jobs.web3privacy.info)
+- [Add​​​​​​​](http://jobs.web3privacy.info) your current vacancies to our [Job Board](https://jobs.web3privacy.info/)
 
