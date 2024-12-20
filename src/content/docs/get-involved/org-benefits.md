@@ -23,8 +23,8 @@ title: Membership x Organisations
 Become the leading privacy-centric think-tank driving critical ecosystem advocacy.
 
 - 10 million annual reach (socials, media, events)
-- 2500 visitors to events (including 100 privacy experts)
-- 100+ active contributors within the W3PN community 
+- 10.00 visitors to events (including 100 privacy experts)
+- 500+ active contributors within the W3PN community 
     
 ### Benefits for our Members:
 
@@ -35,9 +35,7 @@ Become the leading privacy-centric think-tank driving critical ecosystem advocac
 - **Focused Engagement**: reach and interact with specific, highly-relevant audiences and stakeholder groups.
 
 
-**Our membership has multiple tiers ranging from 7,000 to 70,000 € per year** 
-
-**Membership for registered non-profit organizations is 3,000 € per year**
+**Our membership has multiple tiers**
 
 
 [Contact us](mailto:web3privacynow@protonmail.com) to know more
