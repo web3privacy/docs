@@ -2,34 +2,30 @@
 title: Onboarding new Members to the Web3Privacy Now Ecosystem
 ---
 
-To structure a growth path which: 
+Help us understand your needs so we can develop a strategy that maximizes impact.
 
--  meets our respective specific and market needs
--  limits wasting time and resources
--  guarantees benefits by leveraging all our ecosystem assets and activities
+Our goal is to create a growth path that:
 
-**we invite you to**
+- Addresses both your specific requirements and market demands
+- Minimizes wasted time and resources
+- Delivers tangible benefits by leveraging the full potential of our ecosystem’s assets and activities
 
-1) [Add your project and update the data](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/Ri2ZMIq6Os-ZKQyT_l6a5F1-gJURySvvwNRKzBvNpWM) to [Explorer](https://explorer.web3privacy.info)
-2) [Update your favourite project with the most relevant information](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/yDbRRq8FjSogK7iUWdiRKkm54wvx6DgRt99gFuineuY)
-3) [Add​​​​​​​ your current vacancies](http://jobs.web3privacy.info)
-4) Share with us the following information:
+**Here’s how you can contribute:**
 
-### Marketing
+1) [Add your project](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/Ri2ZMIq6Os-ZKQyT_l6a5F1-gJURySvvwNRKzBvNpWM) to [Explorer](https://explorer.web3privacy.info) —if there already, [update the data to improve your score](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/yDbRRq8FjSogK7iUWdiRKkm54wvx6DgRt99gFuineuY)
 
-- Annual roadmap
-- Key goals
-- key use-cases
-- Current topics
+2) Share the following information (email: web3privacynow@protonmail.com):
 
-### Resources
+- 2025 Roadmap and Milestones
+- Key Use-cases
+- Current Needs
 
-- visual identity (logo, visual guide)
-- key links (web, github...)
+- Visual Identity (logo, visual guide) 
+- Blog post / one-pager that explains your stack, approach, and ultimate objectives
 
-### Team
+- Key Stakeholders Contacts (bd, marketing, technical leads)
 
-- key stakeholders (business, marketing, tech)
+### Extra
 
+- [Feel free to add​​​​​​​ your current vacancies](http://jobs.web3privacy.info)
 
-_*can send to web3privacynow@protonmail.com_
