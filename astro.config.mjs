@@ -29,6 +29,7 @@ export default defineConfig({
 					label: 'About us',
 					items: [
 						// Each item here is one entry in the navigation menu.
+						{ label: 'Culture', link: '/about-us/culture' },
 						{ label: 'Manifesto', link: '/about-us/manifesto' },
 						{ label: 'Roadmap', link: '/about-us/roadmap' },
 						{ label: 'History', link: '/about-us/history' },
