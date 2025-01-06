@@ -11,25 +11,25 @@ We are explorers, creators, and change-makers on a mission to redefine privacy a
 
 ## Our Values
 
-### Freedom & Autonomy
+### ✦ Freedom & Autonomy
 We empower individuals and teams with the independence to take ownership, make decisions, and thrive in an environment of trust.
 
-### Radical Honesty & Accountability
+### ✦ Radical Honesty & Accountability
 We value transparency, open communication, and taking responsibility for our actions to build trust and integrity.
 
-### Care & Respect
+### ✦ Care & Respect
 We create a supportive environment where empathy, mutual respect, and well-being are prioritized.
 
-### Empowering Impact
+### ✦ Empowering Impact
 We strive to enable people—within and outside the organization—to create meaningful change that resonates widely.
 
-### Joy & Humanity
+### ✦ Joy & Humanity
 We infuse fun and a sense of human connection into everything we do, making our work fulfilling and energizing.
 
-### Fearless Experimentation
+### ✦ Fearless Experimentation
 We embrace creativity and bold experimentation, knowing that innovation often comes from taking risks.
 
-### Thoughtful Structure, Not Bureaucracy
+### ✦ Thoughtful Structure, Not Bureaucracy
 We implement thoughtful processes that support efficiency and creativity without unnecessary rigidity.
 
 ## How We Work
