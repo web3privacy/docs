@@ -3,7 +3,7 @@ title: Culture
 ---
 
 
-## At Web3Privacy Now, our culture is our foundation—it defines who we are, how we work, and what we stand for. We’ve built this document to share what makes us unique and what drives us to succeed in a playful, anti-bureaucratic way.
+### At Web3Privacy Now, our culture is our foundation—it defines who we are, how we work, and what we stand for. We’ve built this document to share what makes us unique and what drives us to succeed in a playful, anti-bureaucratic way.
 
 ## Who We Are
 Our collective is grounded in heartfelt humanity, bold thinking and fearless experimentation. We facilitate collaboration and empower people to create meaningful impact.
@@ -12,25 +12,25 @@ We are explorers, creators, and change-makers on a mission to redefine privacy a
 ## Our Values
 
 ### Freedom & Autonomy
-    We empower individuals and teams with the independence to take ownership, make decisions, and thrive in an environment of trust.
+We empower individuals and teams with the independence to take ownership, make decisions, and thrive in an environment of trust.
 
 ### Radical Honesty & Accountability
-    We value transparency, open communication, and taking responsibility for our actions to build trust and integrity.
+We value transparency, open communication, and taking responsibility for our actions to build trust and integrity.
 
 ### Care & Respect
-    We create a supportive environment where empathy, mutual respect, and well-being are prioritized.
+We create a supportive environment where empathy, mutual respect, and well-being are prioritized.
 
 ### Empowering Impact
-    We strive to enable people—within and outside the organization—to create meaningful change that resonates widely.
+We strive to enable people—within and outside the organization—to create meaningful change that resonates widely.
 
 ### Joy & Humanity
-    We infuse fun and a sense of human connection into everything we do, making our work fulfilling and energizing.
+We infuse fun and a sense of human connection into everything we do, making our work fulfilling and energizing.
 
 ### Fearless Experimentation
-    We embrace creativity and bold experimentation, knowing that innovation often comes from taking risks.
+We embrace creativity and bold experimentation, knowing that innovation often comes from taking risks.
 
 ### Thoughtful Structure, Not Bureaucracy
-    We implement thoughtful processes that support efficiency and creativity without unnecessary rigidity.
+We implement thoughtful processes that support efficiency and creativity without unnecessary rigidity.
 
 ## How We Work
 
