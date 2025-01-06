@@ -1,4 +1,7 @@
-Web3Privacy Now Culture
+---
+title: Culture
+---
+
 
 ## At Web3Privacy Now, our culture is our foundation—it defines who we are, how we work, and what we stand for. We’ve built this document to share what makes us unique and what drives us to succeed in a playful, anti-bureaucratic way.
 
