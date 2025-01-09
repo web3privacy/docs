@@ -10,8 +10,8 @@ Privacy use cases with the focus on Zcash - focus within the Ukranian-Russian wa
 [link](https://github.com/web3privacy/grants/blob/main/staticobjects/Privacy%20use%20cases%20with%20the%20focus%20on%20Zcash%20(privacy%20coins)_Siusko.pdf)
 
 Privacy Market Outlook (2023): 
-[link](https://medium.com/@Svyazniy/privacy-market-outlook-in-web3-report-35a96c35b6ae)
-[link](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf)    
+[link 1](https://medium.com/@Svyazniy/privacy-market-outlook-in-web3-report-35a96c35b6ae)
+/ [link 2](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf)    
 
 Web3Privacy Landscape (infographic):   
 [2023](https://github.com/web3privacy/research/blob/main/Privacy%20market/Infographics/Privacy%20x%20web3%20landscape%20(june%202024).png)   
@@ -37,7 +37,7 @@ Envisioning how comprehensive privacy solutions could integrate seamlessly into 
 
 5. Privacy in Ethereum 
 Ethereum ecosystem lacks detailed & actual report covering all the projects contributing to Ethereum privacy stack. This creates missunderstanding & shallow view on the state of privacy in Ethereum - when people can name several hyped projects, but can’t see a bigger “towards the full-stack privacy” picture. 
-Brief: https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/  
+[Brief:](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/)  
  
 6. Privacy Tech Awards: 
 we collected preferences of 100 key players in the space asking 4 questions:  
@@ -45,8 +45,7 @@ we collected preferences of 100 key players in the space asking 4 questions: �
  - What was the major news or key event regarding privacy in 2024?
  - What is the most exciting innovation (new research, protocols, or approaches) supporting privacy?  
 - Doxxer of the year (any project, person, or organisation that sought to reduce privacy within the space). 
-
-  Results: [link](https://portal.fileverse.io/#/0xe141365f658ae828F4e46Edb1e66827eD10D6bE7/member?chainId=100)   
+Results: [link](https://portal.fileverse.io/#/0xe141365f658ae828F4e46Edb1e66827eD10D6bE7/member?chainId=100)   
   With all this data its possible to carry on research and organize into infographics and content.
 
 
