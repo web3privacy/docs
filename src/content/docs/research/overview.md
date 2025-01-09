@@ -43,9 +43,9 @@ we collected preferences of 100 key players in the space asking 4 questions: �
 - What is your favourite pro-privacy project/product of 2024?
 - What was the major news or key event regarding privacy in 2024?
 - What is the most exciting innovation (new research, protocols, or approaches) supporting privacy?
-- Doxxer of the year (any project, person, or organisation that sought to reduce privacy within the space). 
-Results: [link](https://portal.fileverse.io/#/0xe141365f658ae828F4e46Edb1e66827eD10D6bE7/member?chainId=100)   
-  With all this data its possible to carry on research and organize into infographics and content.
+- Doxxer of the year (any project, person, or organisation that sought to reduce privacy within the space).
+
+Results: [link](https://portal.fileverse.io/#/0xe141365f658ae828F4e46Edb1e66827eD10D6bE7/member?chainId=100) > with all this data, it is possible to continue the research and organize it into informative infographics and content.
 
 
 ## Ideas for potential new research opportunities:
