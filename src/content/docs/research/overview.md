@@ -36,8 +36,7 @@ Envisioning how comprehensive privacy solutions could integrate seamlessly into 
  Mixnet technology, invented by David Chaum 30/40 yrs ago, now has its first practical, user-friendly application (nym.tech). why does it take so long? 
 
 5. Privacy in Ethereum 
-Ethereum ecosystem lacks detailed & actual report covering all the projects contributing to Ethereum privacy stack. This creates missunderstanding & shallow view on the state of privacy in Ethereum - when people can name several hyped projects, but can’t see a bigger “towards the full-stack privacy” picture. 
-[Brief:](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/)  
+Ethereum ecosystem lacks detailed & actual report covering all the projects contributing to Ethereum privacy stack. This creates missunderstanding & shallow view on the state of privacy in Ethereum - when people can name several hyped projects, but can’t see a bigger “towards the full-stack privacy” picture. [more info/brief](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/)  
  
 6. Privacy Tech Awards: 
 we collected preferences of 100 key players in the space asking 4 questions:  
