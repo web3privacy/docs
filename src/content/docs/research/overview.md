@@ -50,7 +50,8 @@ Results: [link](https://portal.fileverse.io/#/0xe141365f658ae828F4e46Edb1e66827e
 
 ## Ideas for potential new research opportunities:
 
-  - [A 5 Step Guide to Make Ethereum—and Crypto—Cypherpunk Again:](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/rLjHO6TzGQZ7rmg6-nKG0HNr8ovjJExhRxagqk--yis)
+ 
+- [A 5 Step Guide to Make Ethereum—and Crypto—Cypherpunk Again:](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/rLjHO6TzGQZ7rmg6-nKG0HNr8ovjJExhRxagqk--yis)
 
 - [The Core of Crypto Is Punks and Principles:](https://medium.com/bankless-dao/the-core-of-crypto-is-punks-and-principles-5b4739a7065f) 
 
