@@ -38,11 +38,11 @@ Envisioning how comprehensive privacy solutions could integrate seamlessly into 
 5. Privacy in Ethereum 
 Ethereum ecosystem lacks detailed & actual report covering all the projects contributing to Ethereum privacy stack. This creates missunderstanding & shallow view on the state of privacy in Ethereum - when people can name several hyped projects, but can’t see a bigger “towards the full-stack privacy” picture. [more info/brief](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/)  
  
-6. Privacy Tech Awards: 
+6. Privacy Tech Awards:
 we collected preferences of 100 key players in the space asking 4 questions:  
-- What is your favourite pro-privacy project/product of 2024? 
- - What was the major news or key event regarding privacy in 2024?
- - What is the most exciting innovation (new research, protocols, or approaches) supporting privacy?  
+- What is your favourite pro-privacy project/product of 2024?
+- What was the major news or key event regarding privacy in 2024?
+- What is the most exciting innovation (new research, protocols, or approaches) supporting privacy?
 - Doxxer of the year (any project, person, or organisation that sought to reduce privacy within the space). 
 Results: [link](https://portal.fileverse.io/#/0xe141365f658ae828F4e46Edb1e66827eD10D6bE7/member?chainId=100)   
   With all this data its possible to carry on research and organize into infographics and content.
