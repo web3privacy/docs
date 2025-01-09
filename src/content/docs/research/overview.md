@@ -9,7 +9,7 @@ Web3 Privacy Dashboard (tool): https://explorer.web3privacy.info/
 Privacy use cases with the focus on Zcash - focus within the Ukranian-Russian war: 
 https://github.com/web3privacy/grants/blob/main/staticobjects/Privacy%20use%20cases%20with%20the%20focus%20on%20Zcash%20(privacy%20coins)_Siusko.pdf
 
-Privacy Market Outlook 2023: 
+Privacy Market Outlook (2023): 
 https://medium.com/@Svyazniy/privacy-market-outlook-in-web3-report-35a96c35b6ae
 https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf    
 
