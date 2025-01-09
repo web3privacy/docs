@@ -26,19 +26,16 @@ Privacy Builder Pack (wip):
 1. The Intersection of Web2, Web3, and Privacy:
  Exploring privacy from cultural practices to technological tools and the dynamics of people in these evolving ecosystems. 
 
-2. Privacy Personas - Diverse Needs and Skillsets 
+2. Privacy Personas - Diverse Needs and Skillsets: 
  Understanding the varying privacy requirements and competencies of individuals navigating the online world, from Web3 environments to broader digital landscapes. 
 
 3. Full-Stack Privacy in Everyday Life :
 Envisioning how comprehensive privacy solutions could integrate seamlessly into daily routines for journalists and social movements—not just for hardcore hacktivists, but for the average person. 
 
-4. From Theory to Practical Use
- Mixnet technology, invented by David Chaum 30/40 yrs ago, now has its first practical, user-friendly application (nym.tech). why does it take so long? 
-
-5. Privacy in Ethereum 
+4. Privacy in Ethereum 
 Ethereum ecosystem lacks detailed & actual report covering all the projects contributing to Ethereum privacy stack. This creates missunderstanding & shallow view on the state of privacy in Ethereum - when people can name several hyped projects, but can’t see a bigger “towards the full-stack privacy” picture. [more info/brief](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/)  
  
-6. Privacy Tech Awards:
+5. Privacy Tech Awards:
 we collected preferences of 100 key players in the space asking 4 questions:  
 - What is your favourite pro-privacy project/product of 2024?
 - What was the major news or key event regarding privacy in 2024?
@@ -47,6 +44,10 @@ we collected preferences of 100 key players in the space asking 4 questions: �
 
 Results: [link](https://portal.fileverse.io/#/0xe141365f658ae828F4e46Edb1e66827eD10D6bE7/member?chainId=100) > with all this data, it is possible to continue the research and organize it into informative infographics and content.
 
+6. The Legal Landscape of Anti-Money Laundering (AML)
+
+7. From Theory to Practical Use:
+ Mixnet technology, invented by David Chaum 30/40 yrs ago, now has its first practical, user-friendly application (nym.tech). why does it take so long? 
 
 ## Ideas for potential new research opportunities:
  
