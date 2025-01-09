@@ -6,10 +6,10 @@ title: Overview
 
 Web3 Privacy Dashboard (tool): [link](https://explorer.web3privacy.info/) 
 
-Privacy use cases with the focus on Zcash - focus within the Ukranian-Russian war: 
+Privacy use cases with the focus on Zcash - focus within the Ukranian-Russian war (pdf): 
 [link](https://github.com/web3privacy/grants/blob/main/staticobjects/Privacy%20use%20cases%20with%20the%20focus%20on%20Zcash%20(privacy%20coins)_Siusko.pdf)
 
-Privacy Market Outlook (2023): 
+Privacy Market Outlook (pdf): 
 [link 1](https://medium.com/@Svyazniy/privacy-market-outlook-in-web3-report-35a96c35b6ae)
 / [link 2](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf)    
 
@@ -17,7 +17,7 @@ Web3Privacy Landscape (infographic):   
 [2023](https://github.com/web3privacy/research/blob/main/Privacy%20market/Infographics/Privacy%20x%20web3%20landscape%20(june%202024).png)   
 [2024](https://github.com/web3privacy/research/blob/main/Privacy%20market/Infographics/Privacy%20x%20web3%20landscape%20map%20(November%202024).png) 
 
-Privacy Builder Pack (wip): 
+Privacy Builder Pack (tool): 
 [link](https://absorbing-diagram-66b.notion.site/Privacy-Builder-Pack-2cae5f1e195c4970b4eb41a14d3f4bde)
 
 
@@ -52,6 +52,8 @@ Results: [link](https://portal.fileverse.io/#/0xe141365f658ae828F4e46Edb1e66827e
 ## Ideas for potential new research opportunities:
  
 - [A 5 Step Guide to Make Ethereum—and Crypto—Cypherpunk Again:](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/rLjHO6TzGQZ7rmg6-nKG0HNr8ovjJExhRxagqk--yis)
+
+- [The Right For Privacy in 2024](https://youtu.be/OIiLJAvtgXU?si=YkNUianvWfzsq0ak=)
 
 - [The Core of Crypto Is Punks and Principles:](https://medium.com/bankless-dao/the-core-of-crypto-is-punks-and-principles-5b4739a7065f) 
 
