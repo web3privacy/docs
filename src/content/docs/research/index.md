@@ -16,6 +16,7 @@ W3PN research branch aim is to empower developers, researchers, activists, enter
 | Scoring model for privacy-services attestation | _Research aimed to find out dark patterns in privacy, create comprehensive scoring model to test privacy claims on behalf of the projects_ Supported by Ethereum Foundation, Mask Network. | [link](https://github.com/web3privacy/explorer/blob/main/Research.md#scoring-model) |
 | Ethereum Privacy Ecosystem | _Comprehensive privacy-centric research aimed to map Ethereum-centric privacy services, use-cases, product stages, missing areas (use-cases), funding landscape etc_ _Supported by MolochDAO_ | [link](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem) |
 | Privacy market DB maintainance | _Privacy services x web3 market DB support: data actualisation, adding new projects._ | [link](https://github.com/web3privacy/web3privacy) |
+| Hackathon curation pack | _Set of tools and guidelines helping devs build their first privacy hackathon projects_ | [link](https://docs.web3privacy.info/research/hackathon-pack/) |
 
 ## _delivered_
 
