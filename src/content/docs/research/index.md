@@ -5,7 +5,9 @@ sidebar:
     label: Research introduction
 ---
 
-W3PN research branch fills the gap within the market knowledge + makes data free & public forever (not locked within web3 analytical services).
+W3PN research branch aim is to empower developers, researchers, activists, enterpreneurs and general public with data-driven analytics on the state of privacy in the web3 realm & it's intersection with so-called "web2" privacy. 
+
+**Power to the people**: all researches are free & access to the public as an open knowledge.
 
 **Areas of interest**
 
