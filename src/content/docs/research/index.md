@@ -17,6 +17,7 @@ W3PN research branch aim is to empower developers, researchers, activists, enter
 | Ethereum Privacy Ecosystem | _Comprehensive privacy-centric research aimed to map Ethereum-centric privacy services, use-cases, product stages, missing areas (use-cases), funding landscape etc_ _Supported by MolochDAO_ | [link](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem) |
 | Privacy market DB maintainance | _Privacy services x web3 market DB support: data actualisation, adding new projects._ | [link](https://github.com/web3privacy/web3privacy) |
 | Hackathon curation pack | _Set of tools and guidelines helping devs build their first privacy hackathon projects_ | [link](https://docs.web3privacy.info/research/hackathon-pack/) |
+| Privacy audit | _Privacy features audit concept for security audit organizations & whitehackers_ | [link](https://github.com/web3privacy/grants/blob/main/w3p-03.md) |
 
 ## _delivered_
 
@@ -34,9 +35,7 @@ W3PN research branch aim is to empower developers, researchers, activists, enter
 | Privacy use-cases ideation framework for devs | _Pagency framework for facilitation privacy use-cases (privacy services modelling)_ | [link](https://github.com/web3privacy/pagency) |
 
 ## _Future researches_
-1. Privacy features audit concept for security audit organizations & whitehackers: [link](https://github.com/orgs/web3privacy/projects/11/views/1?pane=issue&itemId=54620227)
-2. Hackathon curation pack: [link](https://github.com/orgs/web3privacy/projects/11/views/1?pane=issue&itemId=54409761)
-3. Privacy market outlook (annual report): [24](https://github.com/orgs/web3privacy/projects/11/views/1?pane=issue&itemId=54411368)
+Privacy market outlook (annual report): [24](https://github.com/orgs/web3privacy/projects/11/views/1?pane=issue&itemId=54411368)
 
 # Useful links
 [Contribute on Github](https://github.com/orgs/web3privacy/projects/11/views/1)
