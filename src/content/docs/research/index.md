@@ -15,6 +15,7 @@ W3PN research branch aim is to empower developers, researchers, activists, enter
 
 | Research | Info | Link |
 | ------------- | ------------- | ------------- |
+| Personal stack | _Lists of free & open-source software experts like Audrey Tang or Vitalik Buterin are using_ |  [link](https://github.com/web3privacy/docs/blob/main/src/content/docs/research/personal-stack.md) |
 | Privacy market DB | _Privacy services x web3 initial market DB aggregation: segmentation, key links (web, git, docs), ecosystem, product liveliness etc. 600 projects in the DB._ | [link](https://github.com/web3privacy/web3privacy) |
 | Privacy market outlook (annual report) | _150-pages report on the state of privacy x web3 from funding to key projects._ | [2022](https://github.com/web3privacy/web3privacy/tree/main/Market%20overview) |
 |  ZK in privacy | _General DB aggregation focused on ZK for privacy._ |  Migrating |
