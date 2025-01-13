@@ -1,5 +1,5 @@
 ---
-title: Privacy proof: 2024
+title: Privacy proof 2024
 ---
 
 Annual expert survey selecting favourint projects, researches, news, events and doxxers within the privacy & web3 market. 90 experts already participated from Vitalik Buterin x Ethereum to Anir Taaki x DarkFi.
