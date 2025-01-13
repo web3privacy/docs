@@ -15,7 +15,7 @@ W3PN research branch aim is to empower developers, researchers, activists, enter
 
 | Research | Info | Link |
 | ------------- | ------------- | ------------- |
-| Privacy marke DB | _Privacy services x web3 initial market DB aggregation: segmentation, key links (web, git, docs), ecosystem, product liveliness etc. 600 projects in the DB._ | [link](https://github.com/web3privacy/web3privacy) |
+| Privacy market DB | _Privacy services x web3 initial market DB aggregation: segmentation, key links (web, git, docs), ecosystem, product liveliness etc. 600 projects in the DB._ | [link](https://github.com/web3privacy/web3privacy) |
 | Privacy market outlook (annual report) | _150-pages report on the state of privacy x web3 from funding to key projects._ | [2022](https://github.com/web3privacy/web3privacy/tree/main/Market%20overview) |
 |  ZK in privacy | _General DB aggregation focused on ZK for privacy._ |  Migrating |
 | Privacy use-cases within the Ukrainian-Russian war | _Research how privacy tools can protect human rights, vulnerable audiences within the war, migration & cross-border relations._ Supported by Zcash Foundation. | [link](https://forum.zcashcommunity.com/t/privacy-services-from-zcash-to-status-usage-within-the-ukrainian-russian-war-research/43940?u=aquietinvestor) |
