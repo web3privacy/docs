@@ -1,57 +1,59 @@
 ---
-title: Hackathon Curation Pack
+title: Privacy Builder Pack
 ---
 
 Hacker Manuals & Privacy Guidelines to help the builders deliver practical privacy-enhancing projects, turn them into products, & scale being sustainable.
-To showcase and distribute during privacy events worldwide.
+To showcase and distribute during privacy events worldwide. Live page - [**here**](https://absorbing-diagram-66b.notion.site/Privacy-Builder-Pack-2cae5f1e195c4970b4eb41a14d3f4bde).
 
 **Team**
-- Curator: [Mykola Siusko](https://github.com/Msiusko)
-- Contributors: [Guru](https://x.com/hackyguru), [Tim](https://x.com/haochizzle).
+- Curator: [Mykola Siusko](https://github.com/Msiusko), [PG](https://x.com/PG_CDG), [Jensei](https://x.com/jensei_)
+- Contributors: [Guru](https://x.com/hackyguru), [Tim](https://x.com/haochizzle)
 
-## **Current idea** 
+## **Current project status (v1)** 
 
-**context**: we were actively participating in hackathons core at ETHRome & core at ETHDam, judging & speaking, making [Privacy Corner](https://c24ber.web3privacy.info) at ETHBerlin.
+**Context**: we were actively participating in hackathons core at ETHRome & core at ETHDam, judging & speaking, making [Privacy Corner](https://c24ber.web3privacy.info) at ETHBerlin.
 
 We understood that many people came into privacy after Tornado Cash case or Vitalik promoting privacy solutions & cypherpunk spirit.
-But hackers don't get privacy in the bigger context
-- surveillance capitalism business models
-- centralization of knowledge
-- proprietary software etc.
+But hackers don't get privacy in the bigger context:
 
-**idea**: we want to come up with "acceleration"/"incubation" umbrella helping devs to reach product-market-fit (read: long-lasting sustainability; example: Rotki, based on Gitcoin, retro grants, reputation).
+- Surveillance capitalism business models.
+- Centralization of knowledge.
+- Proprietary software etc.
 
-### goals
-- **make meaningful privacy-solutions** -> so accidental in privacy people will do not a dead code
-- **build sustainable privacy projects** -> turn hackathon demos into products that will stay
-- **re-wire crypto funds into value alligned hands** -> match conscious devs with good mentors, grant programs etc
+**Idea:** The Privacy Builder Pack (PBP) is designed to empower devs to move beyond one-off projects and build privacy-first applications that can scale and thrive in the long term.
 
-![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/Hacker%20journey%20x%20W3PN%20aplicability2.jpg)
+### Goals
+- **Make meaningful privacy-solutions** -> so accidental in privacy people will do not a dead code.
+- **Build sustainable privacy projects** -> turn hackathon demos into products that will stay.
+- **Re-wire crypto funds into value alligned hands** -> match conscious devs with good mentors, grant programs etc.
+
+![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/Hacker%20journey%20x%20W3PN%20aplicability2.jpg?raw=true)
 _click for a hi-rez_
 
-### latest updates
+### Latest updates
+- Activated public [notion](https://absorbing-diagram-66b.notion.site/Privacy-Builder-Pack-2cae5f1e195c4970b4eb41a14d3f4bde) page (v1)
 - Repository has been structured & [updated](https://github.com/web3privacy/hackathonusecases/tree/main)
 - Hackathon curation pack docs has been [updated](https://docs.web3privacy.info/research/hackathon-pack/)
-- Demo shipped to [Git](https://github.com/web3privacy/hackathonusecases/tree/master)
 
-## what we have
-[Pagency framework](https://github.com/web3privacy/pagency) for privacy use-cases ideation
+## What we have
+1. [PBP-v1](https://absorbing-diagram-66b.notion.site/Privacy-Builder-Pack-2cae5f1e195c4970b4eb41a14d3f4bde)
 
-![alt text](https://github.com/web3privacy/pagency/raw/main/img/Pagency%20framework%20vision.png)
+2. [Pagency framework](https://github.com/web3privacy/pagency) for privacy use-cases ideation
 
-**Hackathon use-case generator** - micro-service to generate ideas for hackathon privacy-projects + [100 pre-build use-cases](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Ethereum%20Ecosystem/Hackathon%20projects.md)
-[github](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/hackathon-use-cases-generator.md), [docs](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/hackathon-use-cases-generator.md)
-![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/privacy%20idea%20generator.png)
+3. [Hackathon use-case generator](https://ideas.web3privacy.info/) to generate ideas for hackathon privacy-projects ([github](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/hackathon-use-cases-generator.md), [docs](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/hackathon-use-cases-generator.md)).
 
-**Privacy market DB**: [Explorer](https://explorer.web3privacy.info)
-![alt text](https://docs.web3privacy.info/_astro/explorer-platform-overview.5k7svNjL_ZYPkGB.webp)
+4. [Privacy Explorer](https://explorer.web3privacy.info) to help navigate, understand and research privacy-focused projects across the landscape ([github-data](https://github.com/web3privacy/explorer-data), [github-app](https://github.com/web3privacy/explorer-app)).
 
-- & everything else from meetups to [summits](https://summit.web3privacy.info/), community, [job board](https://jobs.web3privacy.info), [newsletter](http://news.web3privacy.info), network of expertc etc
+5. [Tips & Tricks](https://absorbing-diagram-66b.notion.site/Tips-Tricks-10f63f1959398166b898fa93916dd55a) to help maximize impact and make the most of hackathon experience.
 
-## what we will do this year
-- [privacy 101 Academy](https://github.com/web3privacy/projects/issues/8)
-- Working hackathon use-case generator with the both previous hackathons use-cases & expert takes ([ETHBerlin example](https://cryptpad.fr/pad/#/2/pad/view/sKQtC07xhA5jHvs9cnnBz+rOl74ds9WUPjuusf6y7us/))
-- Community Crowdfunding System (CSS) ([reference](https://ccs.getmonero.org) - but for the whole privacy market)
-- Social movements mentorship during 1 hackathon - adding humanitarian & direct action knowledge for hackers to build for a real world & real people
-- not directly related to the subject (Ethereum Privacy Ecosystem report, events, expanded Explorer, skill board for people seeking jobs in privacy etc)
+6. [Tools & Stacks](https://absorbing-diagram-66b.notion.site/Tools-Stacks-10f63f19593981ffb42cdead667f6048) to empower builder journey.
+
+7. [Glossary](https://absorbing-diagram-66b.notion.site/Glossary-10f63f1959398115a408c2dbd370d15b)
+
+## What we will do in 2025
+- Privacy Builder Pack v2
+- Privacy 101 Academy ([github](https://github.com/web3privacy/projects/issues/8), [page](https://academy.web3privacy.info/)).
+- Community Crowdfunding System (CSS) ([reference](https://ccs.getmonero.org) - but for the whole privacy market).
+- Social movements mentorship during 2 hackathons - adding humanitarian & direct action knowledge for hackers to build for a real world & real people.
+- Not directly related to the subject (Ethereum Privacy Ecosystem report, events, expanded Explorer, skill board for people seeking jobs in privacy etc).
 - TBD
