@@ -115,6 +115,8 @@ Therefore to add an event you need to edit the code in the /data repository, whi
 - [ ] You can now open a Pull Request by clicking on the 'Contribute' button within the main page of your forked repository (hint: `https://github.com/username/data` where 'username' is your Github account username.
 - [ ] Once your Pull Request has been submitted, please notify the core team so as to be aware of your request.
 
+**tip:** If you only have one image ready for the event you can still add an event to the website but you must upload 5 files, with the correct naming and the correct dimensions for each of them. If you need you can use a simple online image resizing websites for this you can try [this](https://imageresizer.com), [this](https://freeimageresizer.com/), or [this one](https://imresizer.com/).
+
 ### Part 4: Refreshing data and synching
 - [ ] Once the Pull Request is merged by the team, the following need to be completed by W3PN maintainers:
 - [ ] Request that the /data maintainer runs the [W3PN data refresh Action](https://github.com/web3privacy/data/actions/workflows/data-refresh.yml)
