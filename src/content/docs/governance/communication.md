@@ -20,17 +20,11 @@ Channels:
 | **Awards** | [#w3p-awards:gwei.cz](https://matrix.to/#/#w3p-awards:gwei.cz) | [Privacy Tech Awards](/projects/privacy-tech-awards) project |
 
 
-## ⎆ [Signal](https://signal.group/#CjQKIH-1ZYEGp50OBvbJRbITIRxDzjH2pSxl7vdkVZs9g5vgEhABUP9wOCxQoDFWpJchERkm) 
-
-Click on the link above, we will approve your request in a few hours.
-
-
 ## ⎆ Telegram 
 
-We care about keeping our chats free from spam and bots. 
+We care about keeping our chats free from spam and bots.
+
 DM us on [X](https://x.com/web3privacy) or drop an [email](mailto:web3privacynow@protonmail.com) for the invitation link.
-
-
 # VIDEO
 
 ### [Jitsi](https://meet.jit.si/)
