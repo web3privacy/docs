@@ -8,21 +8,16 @@ We divide events into the following types according to their length and goal:
 
 ## Overview
 
-### Main types
+### event types
 
 | Type (code) | [Slots](/events#slots) | Budget | Description |
 | --- | --- | --- | --- |
 | [Meetup](#meetup) (`m`) | 3 - 5 | $1-5k | shorter gatherings for a few hours |
-| [Summit](#summit) (`s`) | 10 - 16 | $20-40k | a day-long gathering |
-| [Hackathon](#hackathon) (`h`) | *variable* | $40-60k | a multi-day event focused on hacking |
-
-### Associated types
-
-| Type (code) | [Slots](/events#slots) | Budget | Description |
-| --- | --- | --- | --- |
-| [Privacy Corner](https://github.com/web3privacy/privacy-corner) (`c`) | - | $3-10k | pop-up space inside of major hackathons |
+| [Summit](#summit) (`s`) | 10 - 16 | $20-40k | one day long gathering with speakers |
+| [Congress](#congress) (`c`) | 17 - 25 | $50-80k  | one or more day log gathering at larger scale  |
+| [Hackathon](#hackathon) (`h`) | *variable* | $40-60k | a multi-day event focused on development and upskilling |
+| [Privacy Corner](https://github.com/web3privacy/privacy-corner) (`pc`) | *variable* | $3-10k | pop-up space inside of major events by partners with fun activities |
 | [Meta-hackathon](#meta-hackathon) (`q`) | *variable* | $15-30k | a multi-day event focused on W3PN activities |
-| [Congress](/events/congress) (`x`) | - | ? | W3PN governance gathering |
 
 ## Details of types
 
@@ -37,6 +32,12 @@ The number of slots at a meetup is usually 3-5.
 The Summit is an all-day event, usually followed by an afterparty.
 
 Summit is usually made up of 10-16 slots.
+
+### Congress
+
+The Congress is an all-day event, usually followed by an afterparty.
+
+Congress is usually made up of 17-25 slots.
 
 ### Hackathon
 
