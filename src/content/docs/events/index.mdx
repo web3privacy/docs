@@ -7,9 +7,9 @@ sidebar:
 
 import { LinkCard } from '@astrojs/starlight/components';
 
-| Lead | Links | Workgroup |
+| Lead | Website | Registration |
 | --- | --- | --- |
-| anon | • Events list: [web3privacy.info/events](https://web3privacy.info/events)<br/> • lu.ma calendar: [lu.ma/web3privacy](https://lu.ma/web3privacy) | [Matrix](https://matrix.to/#/#w3p-events:gwei.cz) |
+| anon | [web3privacy.info/events](https://web3privacy.info/events) | [lu.ma/web3privacy](https://lu.ma/web3privacy) |
 
 ## Concept
 
@@ -29,17 +29,10 @@ A machine-readable list of all our events and their details is available:
 
 * Dataset (JSON format): [data.web3privacy.info](https://data.web3privacy.info/)
 * Source: [github.com/web3privacy/data/tree/main/src/events](https://github.com/web3privacy/data/tree/main/src/events)
-
-The source files with basic data about our events can be found in our `data` [Git repository](/contributors/git):
-
-* [`@web3privacy/data`](https://github.com/web3privacy/data) (`src/events` directory)
-* Feel free to add an event by making a PR to the web3privacy/data/src/events
+* The source files with basic data about our events can be found in our `data`: [`@web3privacy/data`](https://github.com/web3privacy/data)
+* Feel free to add an event by making a PR to the web3privacy/data repository
 * Please do read this docs page in full and respect the naming convention noted here
-* For more please read the [how to add an event to website guide](/contributors/add-event-to-website)
-
-| Guide | Link |
-| --- | ---- |
-| Adding a new event to website | [Link to this Guide in Docs](/contributors/add-event-to-website) |
+* Guide on [how to add an event to website guide](/contributors/add-event-to-website)
 
 ## Naming conventions
 
@@ -81,13 +74,6 @@ The name of the event is based on its type, geographical location and year:
 * `Web3Privacy Now <event-type> <city> <year>`
 * `W3PN <event-type> <city> <year>`
 
-For internal referencing its possible to skip `W3PN` or `Web3Privacy Now` part.
-
-Examples:
-* `Web3Privacy Now Summit Prague 2024`
-* `W3PN Hackathon Rome 2024`
-* `Meetup Bucharest 2024` (internal)
-
 ## Seasons
 
 In terms of time, everything is divided into individual programme seasons or planning periods. For us, this is the calendar year.
@@ -103,23 +89,6 @@ Within the season, all events are prepared together as one package. This also ap
 Each season as a whole has a predetermined budget that we want to raise from sponsors and donors. These funds are then used to cover the costs associated with organising these events.
 
 The Season Budget consists of budget approved by Web3Privacy Now [Treasury](/governance/treasury).
-
-## Regions
-
-The basic division by location is into major regions according to wider regions or continents (e.g. Europe, LATAM, etc.). 
-
-### [Regional teams](/events/regional-teams)
-
-[Regional teams](/events/regional-teams) are responsible for organising events in a specific region. We only start doing events within a region if we have enough people forming a [regional organization team](/events/regional-teams).
-
-### Regions we cover (2024)
-
-For the 2024 season, we want to cover the following regions:
-
-* **Europe** - Europe regional team (EthCC, ETHBerlin, ETHDam, ETHPrague and many more)
-* **Devcon (Southeast Asia)**
-
-Our goal in each region is to spread the events evenly, both in time and space across the entire region (or important events that take place there).
 
 ## Date and location
 
@@ -151,116 +120,3 @@ The standard duration of one slot is 30 minutes.
 At each event, the program is made up of [slots](#slots) that are filled with different formats.
 
 Example: *Talk, Workshop, Panel discussion* etc.
-
-## Production
-
-### Budget
-
-Funds to pay for event expenses and services come from the shared [Season Budget](#season-budget) dedicated for the season.
-
-The amount to be provided for a particular event depends on the [type of event](/events/types), its duration and other parameters.
-
-### Visual identity & Merch
-
-At [this link](https://drive.proton.me/urls/VH7K4YNASM#4MiUNarejsUJ) you can find and download all the files to print posters, tshirts, and stickers.
-
-### Catering
-
-The food and drink provided at a particular event is based on other circumstances, such as the amount of admission or duration of the event. Basically, we try to provide our visitors with as much comfort as possible without spending too much.
-
-On the shortest Meetups there is minimal catering water and snacks like fruit, bagels, pizza or similar.
-
-At longer Summits or Hackathons (or paid events) we try to offer a full range of food and drink, including lunch, dinner and various desserts and drinks (incl. beer).
-
-### Content recording
-
-All content at all our events (Meetup, Summit, Hackathon, Congress) is recorded. For this purpose we use local Recording setup provided by third parties or from the videomaker.
-
-During the event we also record interviews with our own low-cost equipment.
-
-Larger events such as the Summits can also be streamed online.
-
-## Visitors
-
-### Admission
-
-Whether a particular event is free or we charge admission will depend on the context. The entrance fee and its amount are mainly taken as a tool for self-regulation of the number and quality of visitors.
-
-We will apply admission fees where we expect a lot of interest and, on the contrary, events in less busy periods should be free of charge, which will serve as an incentive for visitors.
-
-All our [members](/get-involved/personal-benefits) have a **free admission** to event, even if an entry fee is applied.
-
-### Pre-registration
-
-With the start of each [season](#seasons) we will start pre-registration for **all events** within that season. Potential visitors will be able to express their preferences for when and where they want to attend our events.
-
-The only private information we collect for pre-registration will be name and email. Visitors are advised to use a [privacy email provider](https://www.privacytools.io/privacy-email) like [Skiff Mail](https://skiff.com/mail) or [Proton Mail](https://proton.me/mail).
-
-Pre-registration will be done through temporary event profiles on the [lu.ma platform](https://lu.ma/web3privacy).
-
-Approximately 2-3 months prior to the event, the final registration will open and all people will be notified via the email they entered during pre-registration (see [Ticketing](#ticketing)).
-
-#### Donation methods
-
-We usually accept these donation methods:
-* fiat
-  * cash
-* cryptocurrencies
-  * BTC, BTC (Lightning)
-  * ETH and stablecoins
-  * XMR
-  * zcash
-
-You can find donation addresses and instructions [here](https://docs.web3privacy.info/get-involved/donate/)
-
-## Speakers
-
-We are looking for speakers for all events combined using a single [Call for Proposal (CfP)](/events/cfp) form.
-
-Within this form, speakers are able to choose the months and locations that suit them. This will offer speakers great flexibility in when and where they can present their ideas or projects.
-
-## Partners
-
-If you are interested in visibility of your organization at our events, then we have the following options for you:
-
-### Members (highest form of partnership)
-
-Your organisation can become a [Member](/get-involved/org-benefits) of Web3Privacy Now and automatically gain visibility at our events, depending on the Tier choosen.
-
-### Sponsors
-
-Sponsors are our value-aligned partners who help us maintain financial sustainability. They support our mission by contributing to all our activities, whether it’s a research project, an event, a merchandise release.
-
-Please [contact us](/about-us//contact-us) for more details.
-
-### Media partners
-
-It is possible to become a general partner for all events, or just a partner for a specific event. Please [contact us](/about-us//contact-us) for more details.
-
-### Community partners
-
-We offer local non-profit organizations and communities the opportunity to become a community partner for a specific event. Please [contact us](/about-us/contact-us) for more details.
-
-## Volunteers
-
-TODO
-
-## Privacy
-
-We respect the privacy of our visitors and are therefore guided by the following principles.
-
-**Please respect the privacy of others!**
-
-### No-photo policy
-
-It is forbidden to take any photographs or video recordings of visitors at our events (except on stage) unless they give their express permission.
-
-As organizers, we don't share any such photos, and if we do - it's only with anonymized faces of visitors.
-
-### No personal data sharing
-
-We do not provide the personal information about visitors or other involved people to any other party.
-
-## Code of Conduct
-
-Our events are guided by our community [Code of Conduct](/get-involved/code-of-conduct).
