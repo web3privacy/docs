@@ -11,7 +11,7 @@ Annual expert survey selecting favourint projects, researches, news, events and 
 - [doxxer](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/nUON7k1xROv-nuBoFNuPjJOgz0dgCiah51jnv-Vkka4)
 - [public selections](https://x.com/hashtag/2024privacyproof)
 
-![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/Vitalik%20Buterin%20x%20Ethereum.png?raw=true)
+![sample privacy proof submission by Vitalk Buterin](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/vitalik-x-ethereum.png)
 
 Team
 - Project Manager: [Mykola Siusko](https://github.com/Msiusko)
