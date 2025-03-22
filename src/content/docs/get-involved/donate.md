@@ -14,6 +14,8 @@ SUPPORT OUR INDEPENDENCE, HELP US TO ADVOCATE FOR WEB3 PRIVACY:
 
 web3privacynow.eth`
 
+`0xB8Fbd9A43cc0CeB3d9ddd58b752979a77e6f0c1D`
+
 This address can be used for donations on Optimism, Arbitrum, BSC, Base and other EVM blockchains
 
 
