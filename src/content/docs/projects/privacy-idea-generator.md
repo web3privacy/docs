@@ -8,7 +8,7 @@ title: Privacy Idea Generator
 
 Generate privacy ideas instantly to build meaningful privacy solutions.
 
-![Privacy Idea Generator](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/privacy%20idea%20generator.png)
+![Privacy Idea Generator](../assets/privacy%20idea%20generator.png)
 
 ## Useful links
 
