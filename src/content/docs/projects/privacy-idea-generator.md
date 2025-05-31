@@ -1,5 +1,5 @@
 ---
-title: Hackathon use-cases generator
+title: Privacy Idea Generator
 ---
 
 **Problem**: usually hackers don't know what to build or develop not applicable to life solutions. Leading to poor post-hackathon product, project liveliness ratio.
@@ -11,11 +11,9 @@ title: Hackathon use-cases generator
 ![alt text](https://github.com/web3privacy/docs/blob/main/src/content/docs/assets/privacy%20idea%20generator.png)
 
 ## Useful links
-- [web](https://ideas.web3privacy.info)
-- Main repo: [link](https://github.com/web3privacy/hackathonusecases)
-- Current repo: [link](https://github.com/web3privacy/hackathonusecases/tree/master)
+- [web app](https://ideas.web3privacy.info)
+- Main repo: [link](https://github.com/web3privacy/privacy-idea-generator)
 - Use-cases repo: [link](https://github.com/web3privacy/web3privacy/blob/main/Market%20overview/Ethereum%20Ecosystem/Hackathon%20projects.md)
-- Ideas json-files (community & experts): [link](https://github.com/web3privacy/hackathonusecases/tree/master/public/ideas)
 
 **Project components**:
 - use cases DB with Git repos: hundreds of hackathon projects around privacy built through the years
