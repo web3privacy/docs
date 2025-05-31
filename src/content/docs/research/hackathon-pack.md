@@ -35,7 +35,7 @@ _click for a hi-rez_
 - Activated public v2 [webpage](https://build.web3privacy.info)
 #### v1
 - Activated public v1 [notion](https://absorbing-diagram-66b.notion.site/Privacy-Builder-Pack-2cae5f1e195c4970b4eb41a14d3f4bde)
-- Repository has been structured & [updated](https://github.com/web3privacy/hackathonusecases/tree/main)
+- Repository has been structured & updated
 - Hackathon curation pack docs has been [updated](https://docs.web3privacy.info/research/hackathon-pack/)
 
 ## What we have
@@ -45,7 +45,7 @@ _click for a hi-rez_
 
 3. [Pagency framework](https://github.com/web3privacy/pagency) for privacy use-cases ideation
 
-4. [Hackathon use-case generator](https://ideas.web3privacy.info/) to generate ideas for hackathon privacy-projects ([github](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/hackathon-use-cases-generator.md), [docs](https://github.com/web3privacy/docs/blob/main/src/content/docs/projects/hackathon-use-cases-generator.md)).
+4. [Privacy Idea Generator](https://ideas.web3privacy.info/) to generate ideas of new privacy-projects for hackathons or new work [github](https://github.com/web3privacy/privacy-idea-generator), [docs](https://docs.web3privacy.info/projects/privacy-idea-generator/).
 
 5. [Privacy Explorer](https://explorer.web3privacy.info) to help navigate, understand and research privacy-focused projects across the landscape ([github-data](https://github.com/web3privacy/explorer-data), [github-app](https://github.com/web3privacy/explorer-app)).
 
