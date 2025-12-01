@@ -15,7 +15,7 @@ Rather than one-time deals for individual events or projects, we strive for cons
 - [0xbow](https://www.0xbow.io/)
 - [Codex](http://codex.storage) 
 - [Nomos](http://nomos.tech)
-- [Labyrinth](https://labyrinth.ac/)
+- [Veilnyx](https://veilnyx.com/)
 - [Intmax](https://www.intmax.io/)
 - [TokenDynamics](https://tokendynamics.xyz/)
 - [MorosNet](https://morosnet.com/)
