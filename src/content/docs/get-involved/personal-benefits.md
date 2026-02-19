@@ -10,7 +10,7 @@ title: Membership x individuals
 - Privacy Swag Pack
 - Deals from our partners
 - Discount in our store (25%)
-- 100 EUR/year
+- min 100 EUR max Your Choice /year
 
 ⎆ [Become a Member](/get-involved/donate/)
 
