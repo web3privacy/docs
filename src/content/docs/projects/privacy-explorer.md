@@ -119,7 +119,7 @@ All of our articles can be found on our [Mirror](https://mirror.xyz/0x0f1F3DAf41
 ## Team
 - Core project manager: Michiel (Mf) [GitHub](https://github.com/DeBelg), [Twitter](https://x.com/0x_m_f), [Site](https://michiel.degruytere.com)
 - Research track: [Mykola Siusko](https://github.com/Msiusko), [PG](https://github.com/EclecticSamurai)
-- Product Design:[Coinmandeer](https://github.com/coinmandeer), 
+- Product Design: [Coinmandeer](https://github.com/coinmandeer), 
 - Development: [Devlit team](https://develit.io/)
 
 ## Project Repositories
@@ -128,5 +128,6 @@ All of our articles can be found on our [Mirror](https://mirror.xyz/0x0f1F3DAf41
 | [@web3privacy/explorer](https://github.com/web3privacy/explorer) | [Privacy Explorer](/projects/privacy-explorer) project main repository |
 | [@web3privacy/explorer-app](https://github.com/web3privacy/explorer-app) | [Privacy Explorer](/projects/privacy-explorer) application frontend |
 | [@web3privacy/explorer-data](https://github.com/web3privacy/explorer-data) | Data repository for [Privacy Explorer](/projects/privacy-explorer) project |
+| [@web3privacy/explorer-app](https://github.com/web3privacy/explorer-new-ui) | [Privacy Explorer](/projects/privacy-explorer) NEW application frontend |
 
 
